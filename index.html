@@ -59,8 +59,22 @@
     <div class="ornament">· · ·</div>
 
     <section class="archive">
-      <h2>Earlier Days</h2>
-      <ul class="archive-list" id="archiveList"></ul>
+      <div class="archive-head">
+        <h2>Earlier Days</h2>
+        <div class="view-toggle">
+          <button id="calBtn" type="button" class="active">Calendar</button>
+          <button id="listBtn" type="button">List</button>
+        </div>
+      </div>
+      <div id="calendar">
+        <div class="cal-nav">
+          <button id="calPrev" type="button" aria-label="Previous month">‹</button>
+          <span class="cal-label" id="calLabel">—</span>
+          <button id="calNext" type="button" aria-label="Next month">›</button>
+        </div>
+        <div class="cal-grid" id="calGrid"></div>
+      </div>
+      <ul class="archive-list hidden" id="archiveList"></ul>
     </section>
   </main>
 
@@ -79,9 +93,14 @@
     var d = new Date(iso + 'T12:00:00');
     return d.toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' });
   }
+  function isoDate(y, m, d) {
+    return y + '-' + String(m + 1).padStart(2, '0') + '-' + String(d).padStart(2, '0');
+  }
 
   var list = [];
   var currentIndex = 0;
+  var dayIndex = {};
+  var calYear = 0, calMonth = 0; // calMonth 0-indexed
 
   function render(d) {
     el('movePill').textContent = d.move + ' · ' + d.virtue;
@@ -108,7 +127,7 @@
     if (nb) nb.disabled = currentIndex <= 0;
   }
 
-  function renderArchive() {
+  function renderArchiveList() {
     var byWeek = {};
     list.forEach(function (d, idx) {
       if (idx === currentIndex) return;
@@ -139,27 +158,85 @@
     });
   }
 
+  function renderCalendar() {
+    var first = new Date(calYear, calMonth, 1);
+    var startDow = first.getDay();
+    var daysInMonth = new Date(calYear, calMonth + 1, 0).getDate();
+    el('calLabel').textContent = first.toLocaleDateString('en-US', { month: 'long', year: 'numeric' });
+    var grid = el('calGrid');
+    grid.innerHTML = '';
+    ['S', 'M', 'T', 'W', 'T', 'F', 'S'].forEach(function (w) {
+      var c = document.createElement('div');
+      c.className = 'cal-dow';
+      c.textContent = w;
+      grid.appendChild(c);
+    });
+    for (var i = 0; i < startDow; i++) {
+      var fill = document.createElement('div');
+      fill.className = 'cal-day cal-empty-fill';
+      grid.appendChild(fill);
+    }
+    var today = new Date().toISOString().slice(0, 10);
+    for (var d = 1; d <= daysInMonth; d++) {
+      var iso = isoDate(calYear, calMonth, d);
+      var cell = document.createElement('button');
+      cell.type = 'button';
+      cell.className = 'cal-day';
+      if (iso === today) cell.classList.add('today');
+      if (dayIndex[iso] !== undefined) {
+        cell.classList.add('has');
+        cell.textContent = d;
+        cell.addEventListener('click', (function (iso) {
+          return function () { show(dayIndex[iso]); window.scrollTo({ top: 0, behavior: 'smooth' }); };
+        })(iso));
+      } else {
+        cell.classList.add('empty');
+        cell.textContent = d;
+        cell.disabled = true;
+      }
+      grid.appendChild(cell);
+    }
+  }
+
+  function setView(v) {
+    var cal = el('calendar'), listEl = el('archiveList');
+    el('calBtn').classList.toggle('active', v === 'cal');
+    el('listBtn').classList.toggle('active', v === 'list');
+    cal.classList.toggle('hidden', v !== 'cal');
+    listEl.classList.toggle('hidden', v !== 'list');
+  }
+
   function show(i) {
     currentIndex = Math.max(0, Math.min(list.length - 1, i));
     render(list[currentIndex]);
     updateNav();
-    renderArchive();
+    renderArchiveList();
   }
 
   el('prevBtn').addEventListener('click', function () { show(currentIndex + 1); window.scrollTo({ top: 0, behavior: 'smooth' }); });
   el('nextBtn').addEventListener('click', function () { show(currentIndex - 1); window.scrollTo({ top: 0, behavior: 'smooth' }); });
+  el('calPrev').addEventListener('click', function () { calMonth--; if (calMonth < 0) { calMonth = 11; calYear--; } renderCalendar(); });
+  el('calNext').addEventListener('click', function () { calMonth++; if (calMonth > 11) { calMonth = 0; calYear++; } renderCalendar(); });
+  el('calBtn').addEventListener('click', function () { setView('cal'); });
+  el('listBtn').addEventListener('click', function () { setView('list'); });
 
   fetch('./devotionals.json')
     .then(function (r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
     .then(function (data) {
       list = (data.devotionals || []).slice().sort(function (a, b) { return a.date < b.date ? 1 : -1; });
       if (!list.length) return;
+      list.forEach(function (d, i) { dayIndex[d.date] = i; });
       var today = new Date().toISOString().slice(0, 10);
       var idx = list.findIndex(function (d) { return d.date === today; });
       currentIndex = idx >= 0 ? idx : 0;
+      var now = new Date();
+      calYear = now.getFullYear();
+      calMonth = now.getMonth();
       render(list[currentIndex]);
       updateNav();
-      renderArchive();
+      renderArchiveList();
+      renderCalendar();
+      setView('cal');
     })
     .catch(function (e) {
       el('title').textContent = 'Nothing here yet';
