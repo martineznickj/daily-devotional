@@ -297,7 +297,7 @@
       var today = new Date().toISOString().slice(0, 10);
       var current = list.find(function (d) { return d.date === today; }) || list[0];
       render(current);
-      renderArchive(list);
+      renderArchive(list.filter(function (d) { return d.date !== current.date; }));
     })
     .catch(function (e) {
       el('title').textContent = 'Nothing here yet';
