@@ -30,6 +30,12 @@
     <h1 id="title">—</h1>
     <div class="sub" id="subtitle"></div>
 
+    <div class="daynav">
+      <button id="prevBtn" aria-label="Earlier day">‹ Earlier</button>
+      <span id="daynavPos"></span>
+      <button id="nextBtn" aria-label="Later day">Later ›</button>
+    </div>
+
     <section class="block" id="readingBlock">
       <div class="label">The Reading</div>
       <div class="scripture" id="readings"></div>
@@ -67,14 +73,16 @@
   function el(id) { return document.getElementById(id); }
   function esc(s) { var d = document.createElement('div'); d.textContent = s; return d.innerHTML; }
   function paragraphs(text) {
-    return (text || '').split(/\n{2,}/).map(function (p) {
-      return '<p>' + esc(p.trim()) + '</p>';
-    }).join('');
+    return (text || '').split(/\n{2,}/).map(function (p) { return '<p>' + esc(p.trim()) + '</p>'; }).join('');
   }
   function fmtDate(iso) {
     var d = new Date(iso + 'T12:00:00');
     return d.toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' });
   }
+
+  var list = [];
+  var currentIndex = 0;
+
   function render(d) {
     el('movePill').textContent = d.move + ' · ' + d.virtue;
     el('dateLabel').textContent = fmtDate(d.date);
@@ -91,31 +99,67 @@
     el('applyBlock').classList.toggle('hidden', !d.apply);
     el('prayerBlock').classList.toggle('hidden', !d.prayer);
   }
-  function renderArchive(list) {
+
+  function updateNav() {
+    var pos = el('daynavPos');
+    if (pos) pos.textContent = 'Day ' + (currentIndex + 1) + ' of ' + list.length;
+    var pb = el('prevBtn'), nb = el('nextBtn');
+    if (pb) pb.disabled = currentIndex >= list.length - 1;
+    if (nb) nb.disabled = currentIndex <= 0;
+  }
+
+  function renderArchive() {
+    var byWeek = {};
+    list.forEach(function (d, idx) {
+      if (idx === currentIndex) return;
+      (byWeek[d.week] = byWeek[d.week] || []).push({ d: d, idx: idx });
+    });
+    var weeks = Object.keys(byWeek).map(Number).sort(function (a, b) { return b - a; });
     var ul = el('archiveList');
     ul.innerHTML = '';
-    list.forEach(function (d) {
-      var li = document.createElement('li');
-      var btn = document.createElement('button');
-      btn.type = 'button';
-      btn.innerHTML =
-        '<span class="d">' + esc(d.date) + '</span>' +
-        '<span class="theme">' + esc(d.theme) + '</span>' +
-        '<span class="move">' + esc(d.move) + '</span>';
-      btn.addEventListener('click', function () { render(d); window.scrollTo({ top: 0, behavior: 'smooth' }); });
-      li.appendChild(btn);
-      ul.appendChild(li);
+    weeks.forEach(function (w) {
+      var days = byWeek[w].sort(function (a, b) { return a.d.day < b.d.day ? 1 : -1; });
+      var h = document.createElement('li');
+      h.className = 'week-header';
+      h.textContent = 'Week ' + w;
+      ul.appendChild(h);
+      days.forEach(function (o) {
+        var d = o.d;
+        var li = document.createElement('li');
+        var btn = document.createElement('button');
+        btn.type = 'button';
+        btn.innerHTML =
+          '<span class="d">' + esc(d.date) + '</span>' +
+          '<span class="theme">' + esc(d.theme) + '</span>' +
+          '<span class="move">' + esc(d.move) + '</span>';
+        btn.addEventListener('click', function () { show(o.idx); window.scrollTo({ top: 0, behavior: 'smooth' }); });
+        li.appendChild(btn);
+        ul.appendChild(li);
+      });
     });
   }
+
+  function show(i) {
+    currentIndex = Math.max(0, Math.min(list.length - 1, i));
+    render(list[currentIndex]);
+    updateNav();
+    renderArchive();
+  }
+
+  el('prevBtn').addEventListener('click', function () { show(currentIndex + 1); window.scrollTo({ top: 0, behavior: 'smooth' }); });
+  el('nextBtn').addEventListener('click', function () { show(currentIndex - 1); window.scrollTo({ top: 0, behavior: 'smooth' }); });
+
   fetch('./devotionals.json')
     .then(function (r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
     .then(function (data) {
-      var list = (data.devotionals || []).slice().sort(function (a, b) { return a.date < b.date ? 1 : -1; });
+      list = (data.devotionals || []).slice().sort(function (a, b) { return a.date < b.date ? 1 : -1; });
       if (!list.length) return;
       var today = new Date().toISOString().slice(0, 10);
-      var current = list.find(function (d) { return d.date === today; }) || list[0];
-      render(current);
-      renderArchive(list.filter(function (d) { return d.date !== current.date; }));
+      var idx = list.findIndex(function (d) { return d.date === today; });
+      currentIndex = idx >= 0 ? idx : 0;
+      render(list[currentIndex]);
+      updateNav();
+      renderArchive();
     })
     .catch(function (e) {
       el('title').textContent = 'Nothing here yet';
