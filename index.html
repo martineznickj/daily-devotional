@@ -120,11 +120,10 @@
   }
 
   var TOTAL_DAYS = 365;
-  function absoluteDay(d) { return (d.week - 1) * 7 + d.day; }
 
   function updateNav() {
     var pos = el('daynavPos');
-    if (pos) pos.textContent = 'Day ' + absoluteDay(list[currentIndex]) + ' of ' + TOTAL_DAYS;
+    if (pos) pos.textContent = 'Day ' + (list.length - currentIndex) + ' of ' + TOTAL_DAYS;
     var pb = el('prevBtn'), nb = el('nextBtn');
     if (pb) pb.disabled = currentIndex >= list.length - 1;
     if (nb) nb.disabled = currentIndex <= 0;
