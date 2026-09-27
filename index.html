@@ -107,7 +107,7 @@
     el('dateLabel').textContent = fmtDate(d.date);
     el('title').textContent = d.theme;
     var isToday = d.date === new Date().toISOString().slice(0, 10);
-    el('subtitle').innerHTML = '<em>Week ' + d.week + ', Day ' + d.day + '.</em> ' + (isToday ? 'Today\u2019s move' : 'The move') + ': ' + d.move + ' (' + d.virtue + ').';
+    el('subtitle').innerHTML = (isToday ? 'Today\u2019s move' : 'The move') + ': ' + d.move + ' (' + d.virtue + ').';
     el('readings').innerHTML = (d.readings || []).map(function (r) {
       return '<p><span class="ref">' + esc(r.ref) + '</span>' + esc(r.text) + '</p>';
     }).join('');
