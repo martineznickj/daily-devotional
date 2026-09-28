@@ -2,6 +2,37 @@
   "devotionals": [
     {
       "week": 1,
+      "day": 1,
+      "move": "Gather",
+      "virtue": "humility",
+      "theme": "The Seven Moves",
+      "readings": [
+        {
+          "ref": "Proverbs 1:7",
+          "text": "The fear of the LORD is the beginning of knowledge; fools despise wisdom and instruction.",
+          "es_ref": "Proverbios 1:7",
+          "es_text": "El principio de la sabiduría es el temor de Jehová; Los insensatos desprecian la sabiduría y la enseñanza."
+        },
+        {
+          "ref": "2 Timothy 2:15",
+          "text": "Do your best to present yourself to God as one approved, a worker who has no need to be ashamed, rightly handling the word of truth.",
+          "es_ref": "2 Timoteo 2:15",
+          "es_text": "Procura con diligencia presentarte a Dios aprobado, como obrero que no tiene de qué avergonzarse, que usa bien la palabra de verdad."
+        }
+      ],
+      "word": "Gather is the first move, and it's the one most of us skip. Before you form an opinion, before you react, before you teach anybody anything, you sit down and read what the text actually says. Not what you remember it saying. Not what somebody posted about it. The words on the page.\n\nThat takes humility, and here's why. Proverbs says the fear of the LORD is the beginning of knowledge. The Hebrew word for fear there isn't terror. It's closer to awe, a recognition that someone else is bigger and smarter than you, and you showed up to listen. A proud person can't gather. A proud person already knows. Humility is what lets you sit still long enough to actually take something in.\n\nPaul says the same thing a different way to Timothy. Do your best to present yourself as a worker who rightly handles the word of truth. Rightly handling means you don't stretch it, don't twist it, don't make it say what you want it to say. You let it say what it says, even when that's inconvenient. That's gathering. Reading slowly, noticing the exact words, and being willing to be corrected by them.\n\nSo here's the practice for the week. Every morning we'll do this together. Read the passage once, slowly. Underline the words that jump out. Then ask the one question Gather always asks: what does it actually say? Not what does it mean yet. Not what do I do with it. Just what's there. Do that before anything else and you've already started well.",
+      "apply": "Today, pick one sentence from the reading and copy it out word for word, by hand. Don't comment on it. Don't add your take. Just write it down and notice what you notice.",
+      "prayer": "Lord, slow me down. Teach me to listen before I speak, to read before I judge. Make me a careful handler of your word. Amen.",
+      "date": "2026-09-28",
+      "es_theme": "Los Siete Movimientos",
+      "es_move": "Reunir",
+      "es_virtue": "humildad",
+      "es_word": "Reunir es el primer movimiento, y es el que la mayoría de nosotros nos saltamos. Antes de formarte una opinión, antes de reaccionar, antes de enseñarle nada a nadie, te sientas y lees lo que el texto realmente dice. No lo que recuerdas que dice. No lo que alguien publicó sobre él. Las palabras en la página.\n\nEso requiere humildad, y esta es la razón. Proverbios dice que el temor de Jehová es el principio del saber. La palabra hebrea para temor no es terror. Está más cerca del asombro, de reconocer que alguien más es más grande y más sabio que tú, y que viniste a escuchar. Una persona orgullosa no puede reunir. Una persona orgullosa ya lo sabe. La humildad es lo que te permite quedarte quieto el tiempo suficiente para recibir algo de verdad.\n\nPablo le dice lo mismo a Timoteo con otras palabras. Procura presentarte como un obrero que usa bien la palabra de verdad. Usarla bien significa no estirarla, no torcerla, no hacerla decir lo que tú quieres que diga. La dejas decir lo que dice, aunque te incomode. Eso es reunir. Leer despacio, notar las palabras exactas y estar dispuesto a que ellas te corrijan.\n\nAsí que esta es la práctica de la semana. Cada mañana lo haremos juntos. Lee el pasaje una vez, despacio. Subraya las palabras que te llamen la atención. Luego haz la pregunta que Reunir siempre hace: ¿qué dice en realidad? No qué significa todavía. No qué hago con esto. Solo qué hay ahí. Haz eso antes que cualquier otra cosa y ya habrás empezado bien.",
+      "es_apply": "Hoy elige una frase de la lectura y cópiala palabra por palabra, a mano. No la comentes. No añadas tu opinión. Solo escríbela y nota lo que notes.",
+      "es_prayer": "Señor, hazme más lento. Enséñame a escuchar antes de hablar, a leer antes de juzgar. Hazme un manejador cuidadoso de tu palabra. Amén."
+    },
+    {
+      "week": 1,
       "day": 7,
       "move": "Zoom",
       "virtue": "perspective",
