@@ -15,10 +15,11 @@
   <header>
     <div class="brand"><span class="dot"></span>Daily Devotional</div>
     <nav class="nav">
-      <a href="index.html">Today</a>
-      <a href="method.html">The Method</a>
-      <a href="philosophy.html">Philosophy &amp; Theology</a>
+      <a href="index.html" data-i18n="nav-today">Today</a>
+      <a href="method.html" data-i18n="nav-method">The Method</a>
+      <a href="philosophy.html" data-i18n="nav-philosophy">Philosophy &amp; Theology</a>
     </nav>
+    <button class="theme-toggle" id="langToggle" aria-label="Cambiar a español">ES</button>
     <button class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">Dark</button>
   </header>
 
@@ -31,28 +32,28 @@
     <div class="sub" id="subtitle"></div>
 
     <div class="daynav">
-      <button id="prevBtn" aria-label="Earlier day">‹ Earlier</button>
+      <button id="prevBtn" aria-label="Earlier day">‹ <span data-i18n="idx-earlier">Earlier</span></button>
       <span id="daynavPos"></span>
-      <button id="nextBtn" aria-label="Later day">Later ›</button>
+      <button id="nextBtn" aria-label="Later day"><span data-i18n="idx-later">Later</span> ›</button>
     </div>
 
     <section class="block" id="readingBlock">
-      <div class="label">The Reading</div>
+      <div class="label" data-i18n="idx-reading">The Reading</div>
       <div class="scripture" id="readings"></div>
     </section>
 
     <section class="block" id="wordBlock">
-      <div class="label">The Word</div>
+      <div class="label" data-i18n="idx-word">The Word</div>
       <div class="prose" id="word"></div>
     </section>
 
     <section class="block" id="applyBlock">
-      <div class="label">Apply</div>
+      <div class="label" data-i18n="idx-apply">Apply</div>
       <div class="apply prose" id="apply"></div>
     </section>
 
     <section class="block" id="prayerBlock">
-      <div class="label">Prayer</div>
+      <div class="label" data-i18n="idx-prayer">Prayer</div>
       <p class="prayer" id="prayer"></p>
     </section>
 
@@ -60,10 +61,10 @@
 
     <section class="archive">
       <div class="archive-head">
-        <h2>Earlier Days</h2>
+        <h2 data-i18n="idx-archive-head">Earlier Days</h2>
         <div class="view-toggle">
-          <button id="calBtn" type="button" class="active">Calendar</button>
-          <button id="listBtn" type="button">List</button>
+          <button id="calBtn" type="button" class="active" data-i18n="idx-calendar">Calendar</button>
+          <button id="listBtn" type="button" data-i18n="idx-list">List</button>
         </div>
       </div>
       <div id="calendar">
@@ -78,7 +79,7 @@
     </section>
   </main>
 
-  <footer>ESV · read through the Seven Moves · <a href="method.html">The Method</a> · <a href="philosophy.html">Philosophy &amp; Theology</a></footer>
+  <footer><span data-i18n="footer-line">ESV · read through the Seven Moves</span> · <a href="method.html" data-i18n="nav-method">The Method</a> · <a href="philosophy.html" data-i18n="nav-philosophy">Philosophy &amp; Theology</a></footer>
 </div>
 
 <script src="script.js"></script>
@@ -89,9 +90,10 @@
   function paragraphs(text) {
     return (text || '').split(/\n{2,}/).map(function (p) { return '<p>' + esc(p.trim()) + '</p>'; }).join('');
   }
+  function es() { return window.getLang() === 'es'; }
   function fmtDate(iso) {
     var d = new Date(iso + 'T12:00:00');
-    return d.toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' });
+    return d.toLocaleDateString(es() ? 'es-ES' : 'en-US', { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' });
   }
   function isoDate(y, m, d) {
     return y + '-' + String(m + 1).padStart(2, '0') + '-' + String(d).padStart(2, '0');
@@ -103,34 +105,52 @@
   var calYear = 0, calMonth = 0; // calMonth 0-indexed
 
   function render(d) {
-    el('movePill').textContent = d.move + ' · ' + d.virtue;
+    var E = es();
+    var move = (E && d.es_move) ? d.es_move : d.move;
+    var virtue = (E && d.es_virtue) ? d.es_virtue : d.virtue;
+    var theme = (E && d.es_theme) ? d.es_theme : d.theme;
+    el('movePill').textContent = move + ' · ' + virtue;
     el('dateLabel').textContent = fmtDate(d.date);
-    el('title').textContent = d.theme;
+    el('title').textContent = theme;
     var isToday = d.date === new Date().toISOString().slice(0, 10);
-    el('subtitle').innerHTML = (isToday ? 'Today\u2019s move' : 'The move') + ': ' + d.move + ' (' + d.virtue + ').';
+    var prefix = E ? (isToday ? 'Movimiento de hoy' : 'El movimiento') : (isToday ? 'Today\u2019s move' : 'The move');
+    el('subtitle').innerHTML = prefix + ': ' + move + ' (' + virtue + ').';
     el('readings').innerHTML = (d.readings || []).map(function (r) {
-      return '<p><span class="ref">' + esc(r.ref) + '</span>' + esc(r.text) + '</p>';
+      var ref = (E && r.es_ref) ? r.es_ref : r.ref;
+      var text = (E && r.es_text) ? r.es_text : r.text;
+      return '<p><span class="ref">' + esc(ref) + '</span>' + esc(text) + '</p>';
     }).join('');
-    el('word').innerHTML = paragraphs(d.word);
-    el('apply').innerHTML = paragraphs(d.apply);
-    el('prayer').textContent = d.prayer;
+    el('word').innerHTML = paragraphs((E && d.es_word) ? d.es_word : d.word);
+    el('apply').innerHTML = paragraphs((E && d.es_apply) ? d.es_apply : d.apply);
+    el('prayer').textContent = (E && d.es_prayer) ? d.es_prayer : d.prayer;
     el('readingBlock').classList.toggle('hidden', !(d.readings && d.readings.length));
     el('wordBlock').classList.toggle('hidden', !d.word);
     el('applyBlock').classList.toggle('hidden', !d.apply);
     el('prayerBlock').classList.toggle('hidden', !d.prayer);
   }
 
+  function renderEmpty() {
+    var E = es();
+    el('title').textContent = E ? 'Aún no hay nada' : 'Nothing here yet';
+    el('subtitle').textContent = E ? 'El primer devocional aún no se ha publicado.' : 'The first devotional hasn\u2019t been published.';
+    el('readings').innerHTML = '';
+    el('word').innerHTML = '<p>' + (E ? 'Vuelve pronto.' : 'Check back soon.') + '</p>';
+    el('applyBlock').classList.add('hidden');
+    el('prayerBlock').classList.add('hidden');
+  }
+
   var TOTAL_DAYS = 365;
 
   function updateNav() {
     var pos = el('daynavPos');
-    if (pos) pos.textContent = 'Day ' + (list.length - currentIndex) + ' of ' + TOTAL_DAYS;
+    if (pos) pos.textContent = (es() ? 'Día ' : 'Day ') + (list.length - currentIndex) + (es() ? ' de ' : ' of ') + TOTAL_DAYS;
     var pb = el('prevBtn'), nb = el('nextBtn');
     if (pb) pb.disabled = currentIndex >= list.length - 1;
     if (nb) nb.disabled = currentIndex <= 0;
   }
 
   function renderArchiveList() {
+    var E = es();
     var byWeek = {};
     list.forEach(function (d, idx) {
       if (idx === currentIndex) return;
@@ -143,7 +163,7 @@
       var days = byWeek[w].sort(function (a, b) { return a.d.day < b.d.day ? 1 : -1; });
       var h = document.createElement('li');
       h.className = 'week-header';
-      h.textContent = 'Week ' + w;
+      h.textContent = (E ? 'Semana ' : 'Week ') + w;
       ul.appendChild(h);
       days.forEach(function (o) {
         var d = o.d;
@@ -152,8 +172,8 @@
         btn.type = 'button';
         btn.innerHTML =
           '<span class="d">' + esc(d.date) + '</span>' +
-          '<span class="theme">' + esc(d.theme) + '</span>' +
-          '<span class="move">' + esc(d.move) + '</span>';
+          '<span class="theme">' + esc((E && d.es_theme) ? d.es_theme : d.theme) + '</span>' +
+          '<span class="move">' + esc((E && d.es_move) ? d.es_move : d.move) + '</span>';
         btn.addEventListener('click', function () { show(o.idx); window.scrollTo({ top: 0, behavior: 'smooth' }); });
         li.appendChild(btn);
         ul.appendChild(li);
@@ -162,13 +182,15 @@
   }
 
   function renderCalendar() {
+    var E = es();
     var first = new Date(calYear, calMonth, 1);
     var startDow = first.getDay();
     var daysInMonth = new Date(calYear, calMonth + 1, 0).getDate();
-    el('calLabel').textContent = first.toLocaleDateString('en-US', { month: 'long', year: 'numeric' });
+    el('calLabel').textContent = first.toLocaleDateString(E ? 'es-ES' : 'en-US', { month: 'long', year: 'numeric' });
     var grid = el('calGrid');
     grid.innerHTML = '';
-    ['S', 'M', 'T', 'W', 'T', 'F', 'S'].forEach(function (w) {
+    var dow = E ? ['D', 'L', 'M', 'X', 'J', 'V', 'S'] : ['S', 'M', 'T', 'W', 'T', 'F', 'S'];
+    dow.forEach(function (w) {
       var c = document.createElement('div');
       c.className = 'cal-dow';
       c.textContent = w;
@@ -223,6 +245,14 @@
   el('calBtn').addEventListener('click', function () { setView('cal'); });
   el('listBtn').addEventListener('click', function () { setView('list'); });
 
+  window.onLangChange = function () {
+    if (!list.length) { renderEmpty(); return; }
+    render(list[currentIndex]);
+    updateNav();
+    renderArchiveList();
+    renderCalendar();
+  };
+
   fetch('./devotionals.json')
     .then(function (r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
     .then(function (data) {
@@ -242,12 +272,7 @@
       setView('cal');
     })
     .catch(function (e) {
-      el('title').textContent = 'Nothing here yet';
-      el('subtitle').textContent = 'The first devotional hasn\u2019t been published.';
-      el('readings').innerHTML = '';
-      el('word').innerHTML = '<p>Check back soon.</p>';
-      el('applyBlock').classList.add('hidden');
-      el('prayerBlock').classList.add('hidden');
+      renderEmpty();
       console.error(e);
     });
 })();
