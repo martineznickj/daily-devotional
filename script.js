@@ -14,6 +14,10 @@
       'nav-method': 'El Método',
       'nav-philosophy': 'Filosofía y Teología',
       'footer-line': 'ESV · leído a través de los Siete Movimientos',
+      'brand': 'Devocional Diario',
+      'title-index': 'Devocional Diario — Los Siete Movimientos',
+      'title-method': 'El Método — Devocional Diario',
+      'title-philosophy': 'Filosofía y Teología — Devocional Diario',
 
       // index UI
       'idx-earlier': 'Anterior',
@@ -205,13 +209,31 @@
 
   function applyI18n() {
     document.querySelectorAll('[data-i18n]').forEach(function (el) {
-      var s = t(el.getAttribute('data-i18n'));
-      if (s != null) el.textContent = s;
+      if (LANG === 'es') {
+        var s = t(el.getAttribute('data-i18n'));
+        if (s != null) el.textContent = s;
+      } else if (el.__defaultText !== undefined) {
+        el.textContent = el.__defaultText;
+      }
     });
     document.querySelectorAll('[data-i18n-html]').forEach(function (el) {
-      var s = t(el.getAttribute('data-i18n-html'));
-      if (s != null) el.innerHTML = s;
+      if (LANG === 'es') {
+        var s = t(el.getAttribute('data-i18n-html'));
+        if (s != null) el.innerHTML = s;
+      } else if (el.__defaultHtml !== undefined) {
+        el.innerHTML = el.__defaultHtml;
+      }
     });
+    var titleEl = document.querySelector('title');
+    if (titleEl) {
+      if (LANG === 'es') {
+        var page = (location.pathname.split('/').pop() || 'index.html').replace('.html', '');
+        var st = t('title-' + page);
+        if (st != null) titleEl.textContent = st;
+      } else if (titleEl.__defaultTitle !== undefined) {
+        titleEl.textContent = titleEl.__defaultTitle;
+      }
+    }
     root.setAttribute('lang', LANG);
     syncTheme();
     if (typeof window.onLangChange === 'function') window.onLangChange(LANG);
@@ -268,6 +290,16 @@
   document.querySelectorAll('.nav a').forEach(function (a) {
     if (a.getAttribute('href') === here) a.classList.add('active');
   });
+
+  // capture the English defaults once, before any translation overwrites them
+  document.querySelectorAll('[data-i18n]').forEach(function (el) {
+    el.__defaultText = el.textContent;
+  });
+  document.querySelectorAll('[data-i18n-html]').forEach(function (el) {
+    el.__defaultHtml = el.innerHTML;
+  });
+  var _titleEl = document.querySelector('title');
+  if (_titleEl) _titleEl.__defaultTitle = _titleEl.textContent;
 
   applyI18n();
   syncLangBtn();
