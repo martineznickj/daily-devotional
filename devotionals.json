@@ -2,6 +2,43 @@
   "devotionals": [
     {
       "week": 1,
+      "day": 2,
+      "move": "Filter",
+      "virtue": "discernment",
+      "theme": "The Seven Moves",
+      "readings": [
+        {
+          "ref": "Proverbs 1:2-3",
+          "text": "To know wisdom and instruction, to understand words of insight, to receive instruction in wise dealing, in righteousness, justice, and equity.",
+          "es_ref": "Proverbios 1:2-3",
+          "es_text": "Para entender sabiduría y doctrina, para conocer razones prudentes, para recibir el consejo de prudencia, justicia, juicio y equidad."
+        },
+        {
+          "ref": "Proverbs 1:7",
+          "text": "The fear of the LORD is the beginning of knowledge; fools despise wisdom and instruction.",
+          "es_ref": "Proverbios 1:7",
+          "es_text": "El principio de la sabiduría es el temor de Jehová; los insensatos desprecian la sabiduría y la enseñanza."
+        },
+        {
+          "ref": "2 Timothy 2:15",
+          "text": "Do your best to present yourself to God as one approved, a worker who has no need to be ashamed, rightly handling the word of truth.",
+          "es_ref": "2 Timoteo 2:15",
+          "es_text": "Procura con diligencia presentarte a Dios aprobado, como obrero que no tiene de qué avergonzarse, que usa bien la palabra de verdad."
+        }
+      ],
+      "word": "Yesterday we gathered, slow and quiet, just taking in what the text actually says. Today we filter. That's the move that asks the harder question: what does this mean, and just as important, what doesn't it mean.\n\nLook at Proverbs 1:7. It doesn't say the fear of the LORD is the whole of knowledge, the end of it. It says it's the beginning. The starting line, not the finish. And it doesn't say fools lack information. It says they despise wisdom. Filtering this verse means noticing both halves, what it claims and what it refuses to claim.\n\nThat's the whole method. Seven moves, each with a virtue underneath it. Gather teaches humility, because you have to receive before you can speak. Filter teaches discernment, because not every reading is a good reading. Deliver teaches generosity, saying it back in plain words for someone else. Count teaches honesty, letting the numbers and repetitions say what they actually say. Shape teaches clarity, seeing how this piece fits the whole story. Flow teaches patience, watching for the rhythm that repeats. And Zoom teaches perspective, stepping back far enough to see it all at once.\n\nNone of it is fancy. It's just seven habits that keep you honest with a book that deserves more than a quick skim. Paul told Timothy to rightly handle the word of truth. That phrase, rightly handling, pictures a craftsman cutting something straight. You don't cut straight by hurrying. You measure twice.\n\nToday, let the filter do its work. Read it once. Ask what it means. Then ask the harder thing: what is it not saying.",
+      "apply": "Take one claim you've heard about the Bible this week, something someone told you it says. Open the actual text and read it beside the words on the page. Notice what matches and what someone added on top. That gap is where discernment lives.",
+      "prayer": "Lord, teach me to read carefully instead of lazily. Give me the discernment to know what your word actually says, and the honesty to admit what it doesn't. Amen.",
+      "date": "2026-09-29",
+      "es_theme": "Los Siete Movimientos",
+      "es_move": "Filtrar",
+      "es_virtue": "discernimiento",
+      "es_word": "Ayer reunimos, despacio y en silencio, recibiendo lo que el texto realmente dice. Hoy filtramos. Ese es el movimiento que hace la pregunta más difícil: qué significa esto, y lo que pesa igual, qué no significa.\n\nMira Proverbios 1:7. No dice que el temor de Jehová sea todo el conocimiento, su final. Dice que es el principio. La línea de salida, no la meta. Y no dice que a los necios les falte información. Dice que desprecian la sabiduría. Filtrar este versículo es notar las dos mitades, lo que afirma y lo que se niega a afirmar.\n\nEse es todo el método. Siete movimientos, cada uno con una virtud debajo. Reunir enseña humildad, porque tienes que recibir antes de hablar. Filtrar enseña discernimiento, porque no toda lectura es una buena lectura. Entregar enseña generosidad, decirlo con palabras simples para otro. Contar enseña honestidad, dejando que los números y las repeticiones digan lo que dicen. Formar enseña claridad, viendo cómo encaja esta pieza en toda la historia. Fluir enseña paciencia, observando el ritmo que se repite. Y Alejar enseña perspectiva, dando un paso atrás para verlo todo de una vez.\n\nNada de esto es complicado. Son siete hábitos que te mantienen honesto con un libro que merece más que una hojeada rápida. Pablo le dijo a Timoteo que usara bien la palabra de verdad. Eso de usar bien es la imagen de un artesano que corta recto. No se corta recto con prisa. Se mide dos veces.\n\nHoy deja que el filtro haga su trabajo. Léelo una vez. Pregunta qué significa. Luego haz la pregunta más difícil: qué no está diciendo.",
+      "es_apply": "Toma una afirmación que hayas oído sobre la Biblia esta semana, algo que alguien te dijo que dice. Abre el texto real y compáralo con las palabras en la página. Nota lo que coincide y lo que alguien añadió encima. Esa brecha es donde vive el discernimiento.",
+      "es_prayer": "Señor, enséñame a leer con cuidado y no con pereza. Dame el discernimiento para saber lo que tu palabra realmente dice, y la honestidad para admitir lo que no dice. Amén."
+    },
+    {
+      "week": 1,
       "day": 1,
       "move": "Gather",
       "virtue": "humility",
