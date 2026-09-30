@@ -2,6 +2,37 @@
   "devotionals": [
     {
       "week": 1,
+      "day": 3,
+      "move": "Deliver",
+      "virtue": "generosity",
+      "theme": "The Seven Moves",
+      "readings": [
+        {
+          "ref": "Proverbs 1:7",
+          "text": "The fear of the LORD is the beginning of knowledge; fools despise wisdom and instruction.",
+          "es_ref": "Proverbios 1:7",
+          "es_text": "El principio de la sabiduría es el temor de Jehová; Los insensatos desprecian la sabiduría y la enseñanza."
+        },
+        {
+          "ref": "2 Timothy 2:15",
+          "text": "Do your best to present yourself to God as one approved, a worker who has no need to be ashamed, rightly handling the word of truth.",
+          "es_ref": "2 Timoteo 2:15",
+          "es_text": "Procura con diligencia presentarte a Dios aprobado, como obrero que no tiene de qué avergonzarse, que usa bien la palabra de verdad."
+        }
+      ],
+      "word": "Deliver is the move where the study stops being private. You've gathered the words. You've filtered what they mean. Now you hand them back. Deliver asks one thing of you: say it in your own words, out loud, in a single sentence, so a person who never read the passage still gets it. That's the whole test. Not impressive words. Clear ones.\n\nThat's why the virtue is generosity. When you take the time to make something plain, you're giving something away. You do the work of understanding so the next person doesn't have to start from zero. Paul tells Timothy to be a worker who rightly handles the word of truth. A worker. Handling isn't hoarding. The point of handling a tool is to use it well and pass it on.\n\nNotice what Proverbs sets at the start. The fear of the LORD is the beginning of knowledge. Not the ending. The beginning. Knowledge keeps moving. It doesn't park. And a fool, Solomon says, is the one who despises wisdom and instruction. Despises. That's a strong word for someone who shrugs and keeps it to himself. Deliver is the cure for that. You don't keep the beginning. You give it legs.\n\nSo try it today. Take one verse you've read this week. Say it in one plain sentence, like you're telling a friend over coffee. If you can't, you haven't quite got it yet. That's fine. Try again. Generosity is a habit you build one plain sentence at a time.",
+      "apply": "Take the one verse you've read most this week and write it in a single sentence, your own words, as if you were texting it to a friend who has never opened a Bible. Then read it back and ask yourself whether they would actually understand you.",
+      "prayer": "Lord, you gave your word to be handled, not hidden. Teach me to say what I've learned so plainly that someone else can carry it. Make my words a gift today.",
+      "date": "2026-09-30",
+      "es_theme": "Los Siete Movimientos",
+      "es_move": "Entregar",
+      "es_virtue": "generosidad",
+      "es_word": "Entregar es el movimiento donde el estudio deja de ser privado. Ya reuniste las palabras. Ya filtraste lo que significan. Ahora las devuelves. Entregar te pide una cosa: decir con tus propias palabras, en voz alta, en una sola frase, de modo que alguien que nunca leyó el pasaje lo entienda. Esa es toda la prueba. No palabras impresionantes. Palabras claras.\n\nPor eso la virtud es la generosidad. Cuando te tomas el tiempo de aclarar algo, estás regalando algo. Haces el trabajo de entender para que la siguiente persona no empiece desde cero. Pablo le dice a Timoteo que sea un obrero que usa bien la palabra de verdad. Un obrero. Manejar no es esconder. El punto de manejar una herramienta es usarla bien y pasarla.\n\nFíjate en lo que Proverbios pone al principio. El principio de la sabiduría es el temor de Jehová. No el final. El principio. La sabiduría sigue moviéndose. No se estaciona. Y el insensato, dice Salomón, es el que desprecia la sabiduría y la enseñanza. Desprecia. Es una palabra fuerte para alguien que se encoge de hombros y se lo guarda. Entregar es el remedio. No te quedas con el principio. Le das piernas.\n\nInténtalo hoy. Toma un versículo que hayas leído esta semana. Dilo en una frase sencilla, como si se lo contaras a un amigo tomando café. Si no puedes, todavía no lo tienes del todo. Está bien. Inténtalo otra vez. La generosidad es un hábito que se construye una frase sencilla a la vez.",
+      "es_apply": "Toma el versículo que más has leído esta semana y escríbelo en una sola frase, con tus palabras, como si se lo mandaras por mensaje a un amigo que nunca ha abierto una Biblia. Luego léelo y pregúntate si de verdad te entendería.",
+      "es_prayer": "Señor, diste tu palabra para ser manejada, no escondida. Enséñame a decir lo que he aprendido con tanta claridad que alguien más pueda llevarlo. Haz que mis palabras sean hoy un regalo."
+    },
+    {
+      "week": 1,
       "day": 2,
       "move": "Filter",
       "virtue": "discernment",
