@@ -2,6 +2,37 @@
   "devotionals": [
     {
       "week": 1,
+      "day": 4,
+      "move": "Count",
+      "virtue": "honesty",
+      "theme": "The Seven Moves",
+      "readings": [
+        {
+          "ref": "Proverbs 1:1-7",
+          "text": "The proverbs of Solomon, son of David, king of Israel: To know wisdom and instruction, to understand words of insight, to receive instruction in wise dealing, in righteousness, justice, and equity; to give prudence to the simple, knowledge and discretion to the youth— let the wise hear and increase in learning, and the one who understands obtain guidance, to understand a proverb and a saying, the words of the wise and their riddles. The fear of the Lord is the beginning of knowledge; fools despise wisdom and instruction.",
+          "es_ref": "Proverbios 1:1-7",
+          "es_text": "Los proverbios de Salomón, hijo de David, rey de Israel. Para entender sabiduría y doctrina, Para conocer razones prudentes, Para recibir el consejo de prudencia, Justicia, juicio y equidad; Para dar sagacidad a los simples, Y a los jóvenes inteligencia y cordura. Oirá el sabio, y aumentará el saber, Y el entendido adquirirá consejo, Para entender proverbio y declaración, Palabras de sabios, y sus dichos profundos. El principio de la sabiduría es el temor de Jehová; Los insensatos desprecian la sabiduría y la enseñanza."
+        },
+        {
+          "ref": "2 Timothy 2:15",
+          "text": "Do your best to present yourself to God as one approved, a worker who has no need to be ashamed, rightly handling the word of truth.",
+          "es_ref": "2 Timoteo 2:15",
+          "es_text": "Procura con diligencia presentarte a Dios aprobado, como obrero que no tiene de qué avergonzarse, que usa bien la palabra de verdad."
+        }
+      ],
+      "word": "Counting gets a bad name in Bible reading. People go hunting for secret codes, and they tend to find whatever they went looking for. But the Count move is simpler and harder than that. It just means looking at what's actually there. Count the words, and the structure shows up.\n\nLook at Proverbs 1. Verses two through four line up four verbs in a row: to know, to understand, to receive, to give. Four rungs on a ladder. Know comes first. Understand climbs off know. Receive climbs off understand. Give climbs off receive. You can't hand out what you never took in. The structure does the teaching. I'm just pointing at it.\n\nThen verse seven drops the foundation. The fear of the Lord is the beginning of knowledge. Four steps up, one step underneath. Four things wisdom does, resting on one thing that has to come first. That's the count that matters.\n\nThe virtue here is honesty. Counting keeps you honest, because you can't make a verse say something it doesn't when you're actually looking at the words. Paul tells Timothy to rightly handle the word of truth. Handle it straight. Don't bend it to fit what you already want it to say. So today, count before you conclude. Count the pieces, then let the structure speak for itself.",
+      "apply": "Try it right now with the Proverbs passage. List the four verbs in order: know, understand, receive, give. Where are you on that ladder? Are you still just knowing, or are you giving anything away? Counting first will tell you the truth, and that's the whole point of this move.",
+      "prayer": "Lord, teach me to read slowly and honestly. Keep me from bending your words to say what I want them to say. Make me a worker who handles your truth straight, and let the fear of you be the start of everything I know. Amen.",
+      "date": "2026-10-01",
+      "es_theme": "Los Siete Movimientos",
+      "es_move": "Contar",
+      "es_virtue": "honestidad",
+      "es_word": "Contar tiene mala fama cuando se lee la Biblia. La gente busca códigos secretos, y casi siempre termina encontrando lo que fue a buscar. Pero el movimiento de Contar es más simple y más difícil que eso. Se trata de mirar lo que de verdad está escrito. Cuenta las palabras, y la estructura aparece sola.\n\nMira Proverbios 1. Los versículos dos al cuatro ponen cuatro verbos en fila: entender, conocer, recibir, dar. Cuatro peldaños de una escalera. Entender viene primero. Conocer se apoya en entender. Recibir se apoya en conocer. Dar se apoya en recibir. No puedes repartir lo que nunca recibiste. La estructura es la que enseña. Yo solo la señalo.\n\nLuego el versículo siete coloca el fundamento. El principio de la sabiduría es el temor de Jehová. Cuatro pasos hacia arriba, uno por debajo. Cuatro cosas que hace la sabiduría, apoyadas en una sola que tiene que ir primero. Ese es el conteo que importa.\n\nLa virtud aquí es la honestidad. Contar te mantiene honesto, porque no puedes hacer que un versículo diga algo que no dice cuando de verdad estás mirando las palabras. Pablo le pide a Timoteo que use bien la palabra de verdad. Úsala derecho. No la dobles para que diga lo que tú ya querías que dijera. Así que hoy cuenta antes de concluir. Cuenta las piezas, y deja que la estructura hable por sí misma.",
+      "es_apply": "Pruébalo ahora mismo con el pasaje de Proverbios. Escribe los cuatro verbos en orden: entender, conocer, recibir, dar. ¿En qué peldaño estás tú? ¿Todavía solo conociendo, o ya estás dando algo? Contar primero te dirá la verdad, y ese es el punto de todo este movimiento.",
+      "es_prayer": "Señor, enséñame a leer despacio y con honestidad. No dejes que doble tus palabras para que digan lo que yo quiero. Hazme un obrero que usa bien tu verdad, y que el temor de ti sea el principio de todo lo que sé. Amén."
+    },
+    {
+      "week": 1,
       "day": 3,
       "move": "Deliver",
       "virtue": "generosity",
