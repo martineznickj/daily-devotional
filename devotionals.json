@@ -2,6 +2,37 @@
   "devotionals": [
     {
       "week": 1,
+      "day": 5,
+      "move": "Shape",
+      "virtue": "clarity",
+      "theme": "The Seven Moves",
+      "readings": [
+        {
+          "ref": "Proverbs 1:7",
+          "text": "The fear of the LORD is the beginning of knowledge; fools despise wisdom and instruction.",
+          "es_ref": "Proverbios 1:7",
+          "es_text": "El principio de la sabiduría es el temor de Jehová; los insensatos desprecian la sabiduría y la enseñanza."
+        },
+        {
+          "ref": "2 Timothy 2:15",
+          "text": "Do your best to present yourself to God as one approved, a worker who has no need to be ashamed, rightly handling the word of truth.",
+          "es_ref": "2 Timoteo 2:15",
+          "es_text": "Procura con diligencia presentarte a Dios aprobado, como obrero que no tiene de qué avergonzarse, que usa bien la palabra de verdad."
+        }
+      ],
+      "word": "This week you're meeting seven moves, and today you're on the fifth one. Shape. Geometry's virtue is clarity. Shape asks one plain thing: how this piece fits the whole story.\n\nTake Proverbs 1:7. On its own it looks like a nice line about being smart. But Shape steps back and you notice where it sits. It's the hinge of the book's opening. Proverbs opens with a doorway. Verses two through four list what wisdom is for. Then verse seven lands like a key turning in a lock. The fear of the LORD is the beginning of knowledge. Not one technique among many. The beginning. Everything else in the book, every proverb, every warning, hangs off that first step.\n\nNow pull the camera back further. That same shape shows up across the whole Bible. The Bible isn't a pile of wise sayings. It's one story, and this verse is one thread in it. The whole thing begins and ends with God. 2 Timothy 2:15 says to handle the word rightly, and Shape is exactly that. Don't grab a verse and run. Look at the picture on the box first.\n\nSo today, when you read, try one thing. Pick a verse and ask what it would mean if you didn't know the rest of the story. Then notice what changes when you do.",
+      "apply": "Before you read today, say out loud where the passage sits in the Bible. Old Testament or new, before Jesus or after. Just name the neighborhood. That one habit is Shape in action, and it changes how the words land.",
+      "prayer": "Father, teach me to see the whole story, not just the single verse in front of me. Give me clarity as I read, so the pieces find their place. In Jesus' name, amen.",
+      "date": "2026-10-02",
+      "es_theme": "Los Siete Movimientos",
+      "es_move": "Formar",
+      "es_virtue": "claridad",
+      "es_word": "Esta semana estás conociendo siete movimientos, y hoy te toca el quinto. Formar. La virtud de la geometría es la claridad. Formar pregunta una sola cosa: cómo encaja esta pieza en la historia completa.\n\nToma Proverbios 1:7. Solo, parece una frase bonita sobre ser inteligente. Pero Formar te hace dar un paso atrás y notar dónde está. Es el gozne de la apertura del libro. Proverbios comienza con una puerta. Los versículos dos al cuatro enumeran para qué sirve la sabiduría. Luego el versículo siete cae como una llave que gira en la cerradura. El principio de la sabiduría es el temor de Jehová. No es una técnica entre muchas. Es el principio. Todo lo demás del libro, cada proverbio, cada advertencia, cuelga de ese primer paso.\n\nAhora aleja la cámara un poco más. Esa misma forma aparece en toda la Biblia. La Biblia no es un montón de dichos sabios. Es una sola historia, y este versículo es un hilo dentro de ella. Todo comienza y termina con Dios. 2 Timoteo 2:15 dice que uses bien la palabra de verdad, y Formar es exactamente eso. No tomes un versículo y salgas corriendo. Mira primero la imagen de la caja.\n\nAsí que hoy, cuando leas, intenta una cosa. Elige un versículo y pregúntate qué significaría si no conocieras el resto de la historia. Luego nota qué cambia cuando sí la conoces.",
+      "es_apply": "Antes de leer hoy, di en voz alta dónde está el pasaje en la Biblia. Antiguo testamento o nuevo, antes de Jesús o después. Solo nombra el vecindario. Ese hábito es Formar en acción, y cambia cómo caen las palabras.",
+      "es_prayer": "Padre, enséñame a ver la historia completa, no solo el versículo que tengo delante. Dame claridad al leer, para que cada pieza encuentre su lugar. En el nombre de Jesús, amén."
+    },
+    {
+      "week": 1,
       "day": 4,
       "move": "Count",
       "virtue": "honesty",
