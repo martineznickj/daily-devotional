@@ -2,6 +2,37 @@
   "devotionals": [
     {
       "week": 1,
+      "day": 6,
+      "move": "Flow",
+      "virtue": "patience",
+      "theme": "The Seven Moves",
+      "readings": [
+        {
+          "ref": "Proverbs 1:7",
+          "text": "The fear of the LORD is the beginning of knowledge; fools despise wisdom and instruction.",
+          "es_ref": "Proverbios 1:7",
+          "es_text": "El principio de la sabiduría es el temor de Jehová; Los insensatos desprecian la sabiduría y la enseñanza."
+        },
+        {
+          "ref": "2 Timothy 2:15",
+          "text": "Do your best to present yourself to God as one approved, a worker who has no need to be ashamed, rightly handling the word of truth.",
+          "es_ref": "2 Timoteo 2:15",
+          "es_text": "Procura con diligencia presentarte a Dios aprobado, como obrero que no tiene de qué avergonzarse, que usa bien la palabra de verdad."
+        }
+      ],
+      "word": "Six days in, and the pattern should feel like something now. Monday you gather, Tuesday you filter, Wednesday you deliver. Thursday you count, Friday you shape. Today, Saturday, you do the thing most people skip. You stop and listen for the rhythm.\n\nFlow isn't about speed. It's about noticing that the Seven Moves aren't seven separate chores. They're one motion that turns like a wheel. You read slow, you think it through, you say it out loud, you count what's there, you see where it fits, and then, on this day, you step into the current and let it move you. The same verse shows up different every day because you aren't the same person you were on Monday.\n\nPatience is the virtue here, and it's the one the method quietly demands. Proverbs says the fear of the LORD is the beginning of knowledge, and beginnings are slow by nature. A beginning is the part you have to stay in before the payoff shows up. Paul tells Timothy to rightly handle the word of truth. Handle, not grab. It takes a steady hand, and steady hands take time.\n\nSo today, don't rush to finish. Read the passage once, then read it again a little slower. Let the words fall into their own beat. The rhythm was there before you showed up. You're just learning to match it.",
+      "apply": "Pick today's verse and read it twice, the second time slower than the first. Notice which word your eye keeps landing on. That's usually where the rhythm wants your attention. Let it set the pace instead of pushing through to the end.",
+      "prayer": "Lord, slow me down where I keep rushing. Teach my heart to keep time with you instead of with the clock. Give me the patience to sit in your word until it shapes me. Amen.",
+      "date": "2026-10-03",
+      "es_theme": "Los Siete Movimientos",
+      "es_move": "Fluir",
+      "es_virtue": "paciencia",
+      "es_word": "Seis días llevamos, y el patrón ya debería sentirse como algo tuyo. El lunes reúnes, el martes filtras, el miércoles entregas. El jueves cuentas, el viernes formas. Hoy, sábado, haces lo que casi todos se saltan. Te detienes y escuchas el ritmo.\n\nFluir no es cuestión de velocidad. Es darte cuenta de que los Siete Movimientos no son siete tareas separadas. Son un solo movimiento que gira como una rueda. Lees despacio, lo piensas, lo dices en voz alta, cuentas lo que hay, ves dónde encaja, y luego, en este día, entras en la corriente y dejas que te mueva. El mismo versículo se ve distinto cada día porque tú no eres la misma persona que el lunes.\n\nLa paciencia es la virtud de este día, y es la que el método pide en silencio. Proverbios dice que el principio de la sabiduría es el temor de Jehová, y los principios son lentos por naturaleza. Un principio es la parte en la que tienes que quedarte antes de que aparezca el resultado. Pablo le dice a Timoteo que use bien la palabra de verdad. Usar bien, no agarrar. Hace falta mano firme, y la mano firme toma tiempo.\n\nAsí que hoy no te apresures a terminar. Lee el pasaje una vez, y luego léelo otra vez un poco más despacio. Deja que las palabras caigan a su propio compás. El ritmo ya estaba allí antes de que tú llegaras. Tú solo estás aprendiendo a seguirlo.",
+      "es_apply": "Elige el versículo de hoy y léelo dos veces, la segunda más lento que la primera. Fíjate en qué palabra sigue llamando tu atención. Ahí es donde el ritmo quiere tu mirada. Deja que él marque el paso en lugar de empujar tú para terminar.",
+      "es_prayer": "Señor, hazme lento donde sigo apurándome. Enséñame a llevar el ritmo contigo y no con el reloj. Dame paciencia para quedarme en tu palabra hasta que ella me forme. Amén."
+    },
+    {
+      "week": 1,
       "day": 5,
       "move": "Shape",
       "virtue": "clarity",
