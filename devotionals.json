@@ -2,6 +2,37 @@
   "devotionals": [
     {
       "week": 1,
+      "day": 7,
+      "move": "Zoom",
+      "virtue": "perspective",
+      "theme": "The Seven Moves",
+      "readings": [
+        {
+          "ref": "Proverbs 1:7",
+          "text": "The fear of the Lord is the beginning of knowledge; fools despise wisdom and instruction.",
+          "es_ref": "Proverbios 1:7",
+          "es_text": "El principio de la sabiduría es el temor de Jehová; los insensatos desprecian la sabiduría y la enseñanza."
+        },
+        {
+          "ref": "2 Timothy 2:15",
+          "text": "Do your best to present yourself to God as one approved, a worker who has no need to be ashamed, rightly handling the word of truth.",
+          "es_ref": "2 Timoteo 2:15",
+          "es_text": "Procura con diligencia presentarte a Dios aprobado, como obrero que no tiene de qué avergonzarse, que usa bien la palabra de verdad."
+        }
+      ],
+      "word": "A week of mornings, and here's what you actually did. Monday you gathered. Tuesday you filtered. Wednesday you delivered. Thursday you counted. Friday you shaped. Saturday you flowed. And now Sunday asks you to climb the hill behind your own week and look down at it.\n\nZoom is the move of perspective. It doesn't hand you new information. It changes where you stand so the information you already have can mean something. Most of us read the Bible a verse at a time and wonder why it never sticks. Solomon points to the reason before he points to anything else. The fear of the Lord comes first. Knowledge comes after. That's a zoom word, a word about the angle you stand at, not the amount you've read.\n\nPaul says the same thing from a different direction. Be a worker who rightly handles the word of truth. Handle it the way a craftsman handles a tool. The seven moves are just handles, seven ways to pick the same book up. None of them is the point. The point is God, seen up close one day and from far away the next, and known a little better through both.\n\nSo zoom out. You didn't just read a verse this week. You stood in seven different places around the same truth, and each place showed you something the others couldn't.",
+      "apply": "Take two minutes and think back over the last seven mornings. Which move felt easiest for you, and which one made you squirm? The one that made you squirm is probably the one you need most this year. Start there tomorrow.",
+      "prayer": "Father, thank you for the whole week, not just its best mornings. Teach me to stand in all seven places, and keep me from settling for only the one that comes naturally. Let me see you from far away as clearly as I see you up close. Amen.",
+      "date": "2026-10-04",
+      "es_theme": "Los Siete Movimientos",
+      "es_move": "Alejar",
+      "es_virtue": "perspectiva",
+      "es_word": "Una semana de mañanas, y esto es lo que en realidad hiciste. El lunes reuniste. El martes filtraste. El miércoles entregaste. El jueves contaste. El viernes formaste. El sábado fluiste. Y ahora el domingo te pide subir a la colina detrás de tu propia semana y mirarla desde arriba.\n\nAlejar es el movimiento de la perspectiva. No te da información nueva. Cambia el lugar donde estás parado para que la información que ya tienes pueda significar algo. La mayoría de nosotros lee la Biblia de a un versículo y se pregunta por qué no se le queda nada. Salomón señala la razón antes que cualquier otra cosa. El temor de Jehová va primero. El conocimiento viene después. Esa es una palabra de alejar, una palabra sobre el ángulo desde el que miras, no sobre cuánto has leído.\n\nPablo dice lo mismo desde otro lado. Sé un obrero que usa bien la palabra de verdad. Úsala como un artesano usa su herramienta. Los siete movimientos son solo maneras de agarrar el mismo libro. Ninguno de ellos es el punto. El punto es Dios, visto de cerca un día y de lejos al siguiente, y conocido un poco mejor por las dos cosas.\n\nAsí que aléjate. Esta semana no solo leíste un versículo. Te paraste en siete lugares distintos alrededor de la misma verdad, y cada lugar te mostró algo que los otros no podían.",
+      "es_apply": "Tómate dos minutos y repasa las últimas siete mañanas. ¿Cuál movimiento te resultó más fácil y cuál te hizo retorcer? El que te hizo retorcer es probablemente el que más necesitas este año. Empieza por ahí mañana.",
+      "es_prayer": "Padre, gracias por la semana entera, no solo por sus mejores mañanas. Enséñame a pararme en los siete lugares, y no me dejes quedarme solo en el que me sale natural. Déjame verte de lejos con la misma claridad con que te veo de cerca. Amén."
+    },
+    {
+      "week": 1,
       "day": 6,
       "move": "Flow",
       "virtue": "patience",
