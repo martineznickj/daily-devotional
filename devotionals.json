@@ -1,6 +1,43 @@
 {
   "devotionals": [
     {
+      "week": 2,
+      "day": 1,
+      "move": "Gather",
+      "virtue": "humility",
+      "theme": "The One Phrase",
+      "readings": [
+        {
+          "ref": "Genesis 1:1",
+          "text": "In the beginning, God created the heavens and the earth.",
+          "es_ref": "Génesis 1:1",
+          "es_text": "En el principio creó Dios los cielos y la tierra."
+        },
+        {
+          "ref": "Revelation 21:3",
+          "text": "Behold, the dwelling place of God is with man. He will dwell with them, and they will be his people, and God himself will be with them as their God.",
+          "es_ref": "Apocalipsis 21:3",
+          "es_text": "He aquí el tabernáculo de Dios con los hombres, y él morará con ellos; y ellos serán su pueblo, y Dios mismo estará con ellos como su Dios."
+        },
+        {
+          "ref": "Jeremiah 31:33",
+          "text": "I will put my law within them, and I will write it on their hearts. And I will be their God, and they shall be my people.",
+          "es_ref": "Jeremías 31:33",
+          "es_text": "Daré mi ley en su mente, y la escribiré en su corazón; y yo seré a ellos por Dios, y ellos me serán por pueblo."
+        }
+      ],
+      "word": "Gather means I stop and read what's actually on the page, not what I already think it says. So today I want to notice something small. These three verses don't look like they belong together. Genesis opens the book. Revelation nearly closes it. Jeremiah sits in the middle, written to a people about to be dragged into exile. But when you line them up and just read them slowly, one phrase keeps showing up.\n\nIn the beginning, God makes everything. At the very end, John hears a voice: the dwelling place of God is with man. And right in the middle, God makes a promise. I will be their God, and they will be my people.\n\nThat's the whole story in one sentence. God with us. Not God off in the distance, not a list of rules, not a project where we earn our way up to him. The book starts with him building a home for us, and it ends with him moving in for good. Everything in between is the long, patient way he works to get there.\n\nGather is the humble move because it doesn't ask me to add anything. It only asks me to see what's already there. And what's there, on the first page and the last page and all through the middle, is a God who keeps coming close. That's worth sitting with before I try to explain anything.",
+      "apply": "Take five quiet minutes today. Open to Genesis 1:1 and Revelation 21:3 and read them back to back, slowly, like the first and last page of one book. Notice what stays the same between the opening line and the closing scene. When you feel the urge to rush ahead and add your own explanation, just sit with the verse instead. Gathering isn't about more speed, it's about less noise.",
+      "prayer": "God, slow me down enough to actually read what you wrote. Thank you that the whole story ends with you dwelling with us. Teach me to gather, not to grab. Amen.",
+      "date": "2026-10-05",
+      "es_theme": "La Única Frase",
+      "es_move": "Reunir",
+      "es_virtue": "humildad",
+      "es_word": "Reunir significa detenerme y leer lo que de verdad está en la página, no lo que yo ya creo que dice. Por eso hoy quiero fijarme en algo pequeño. Estos tres versículos no parecen ir juntos. Génesis abre el libro. Apocalipsis casi lo cierra. Jeremías está en el medio, escrito para un pueblo a punto de ser llevado al exilio. Pero si los pones en fila y los lees despacio, una frase no deja de aparecer.\n\nEn el principio, Dios hace todas las cosas. Al final, Juan oye una voz: el tabernáculo de Dios está con los hombres. Y justo en el medio, Dios hace una promesa. Yo seré a ellos por Dios, y ellos me serán por pueblo.\n\nEsa es toda la historia en una sola frase. Dios con nosotros. No un Dios lejano, no una lista de reglas, no un proyecto para ganarnos el camino hacia él. El libro empieza con él preparándonos un hogar, y termina con él mudándose para siempre. Todo lo que hay en medio es la manera larga y paciente en que él trabaja para llegar ahí.\n\nReunir es el movimiento humilde porque no me pide añadir nada. Solo me pide ver lo que ya está ahí. Y lo que está ahí, en la primera página, en la última y en todo el medio, es un Dios que no deja de acercarse. Eso merece que me siente con él antes de intentar explicar nada.",
+      "es_apply": "Toma cinco minutos tranquilos hoy. Abre en Génesis 1:1 y Apocalipsis 21:3 y léelos seguidos, despacio, como la primera y la última página de un mismo libro. Fíjate en lo que se mantiene igual entre la primera línea y la escena final. Cuando sientas ganas de adelantarte y añadir tu propia explicación, quédate con el versículo. Reunir no es ir más rápido, es hacer menos ruido.",
+      "es_prayer": "Dios, hazme más lento para leer de verdad lo que escribiste. Gracias porque toda la historia termina contigo habitando con nosotros. Enséñame a reunir, y no a arrebatar. Amén."
+    },
+    {
       "week": 1,
       "day": 7,
       "move": "Zoom",
