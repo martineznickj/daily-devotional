@@ -2,6 +2,43 @@
   "devotionals": [
     {
       "week": 2,
+      "day": 2,
+      "move": "Filter",
+      "virtue": "discernment",
+      "theme": "The One Phrase",
+      "readings": [
+        {
+          "ref": "Genesis 1:1",
+          "text": "In the beginning, God created the heavens and the earth.",
+          "es_ref": "Génesis 1:1",
+          "es_text": "En el principio creó Dios los cielos y la tierra."
+        },
+        {
+          "ref": "Revelation 21:3",
+          "text": "And I heard a loud voice from the throne saying, 'Behold, the dwelling place of God is with man. He will dwell with them, and they will be his people, and God himself will be with them as their God.'",
+          "es_ref": "Apocalipsis 21:3",
+          "es_text": "Y oí una gran voz del cielo que decía: He aquí el tabernáculo de Dios con los hombres, y él morará con ellos; y ellos serán su pueblo, y Dios mismo estará con ellos como su Dios."
+        },
+        {
+          "ref": "Jeremiah 31:33",
+          "text": "For this is the covenant that I will make with the house of Israel after those days, declares the LORD: I will put my law within them, and I will write it on their hearts. And I will be their God, and they shall be my people.",
+          "es_ref": "Jeremías 31:33",
+          "es_text": "Pero este es el pacto que haré con la casa de Israel después de aquellos días, dice Jehová: Daré mi ley en su mente, y la escribiré en su corazón; y yo seré a ellos por Dios, y ellos me serán por pueblo."
+        }
+      ],
+      "word": "Filter is the move where you stop and ask what a thing means, and what it doesn't mean. Most mistakes come from skipping that second half. So let's do it with this week's one phrase: God dwelling with man.\n\nHere's what it means. The book opens with God making a place, heaven and earth, and the whole story is him moving in. Jeremiah puts the promise in one line: I will be their God, and they shall be my people. Revelation says the same thing from the other end: the dwelling place of God is with man. The same sentence, both ends of the book. The story doesn't end with us climbing up to God. It ends with God coming down to live with us.\n\nNow what it doesn't mean. It doesn't mean God is far away and we have to earn a trip up to him. It doesn't mean the material world is junk we're meant to escape. He made it, and he's coming to dwell in it, not abandon it. And it doesn't mean \"God with us\" is the same as \"God agrees with whatever I feel.\" Discernment cuts both directions. The phrase is a promise, and a promise has a shape. It means a particular God, making a particular covenant, with particular people. Take the word loosely and you lose the God who spoke it.\n\nSo filter the phrase before you keep it. Hold it up and ask what it means, then ask what it doesn't. That second question is where the mistakes live.",
+      "apply": "Next time you meet a phrase you've heard a hundred times, don't just nod and move on. Write down what you think it means, then write down what you think it doesn't mean. See if the second list surprises you.",
+      "prayer": "Lord, teach me to sift. Help me hold your words carefully, to know what they mean and what they don't, and to want the truth more than I want to be comfortable. Amen.",
+      "date": "2026-10-06",
+      "es_theme": "La Única Frase",
+      "es_move": "Filtrar",
+      "es_virtue": "discernimiento",
+      "es_word": "Filtrar es el movimiento en el que te detienes y preguntas qué significa una cosa, y qué no significa. La mayoría de los errores vienen de saltarse esa segunda mitad. Así que hagámoslo con la única frase de esta semana: Dios morando con el hombre.\n\nEsto es lo que significa. El libro abre con Dios haciendo un lugar, el cielo y la tierra, y toda la historia es él mudándose allí. Jeremías pone la promesa en una sola línea: yo seré su Dios, y ellos serán mi pueblo. Apocalipsis dice lo mismo desde el otro extremo: el tabernáculo de Dios está con los hombres. La misma frase, en los dos extremos del libro. La historia no termina con nosotros subiendo hasta Dios. Termina con Dios bajando a vivir con nosotros.\n\nY ahora lo que no significa. No significa que Dios esté lejos y que tengamos que ganarnos un viaje hacia él. No significa que el mundo material sea basura de la que hay que escapar. Él lo hizo, y viene a morar en él, no a abandonarlo. Y no significa que \"Dios con nosotros\" sea lo mismo que \"Dios está de acuerdo con lo que yo sienta\". El discernimiento corta en las dos direcciones. La frase es una promesa, y una promesa tiene forma. Significa un Dios concreto, que hace un pacto concreto, con un pueblo concreto. Si tomas la palabra a la ligera, pierdes al Dios que la habló.\n\nAsí que filtra la frase antes de quedártela. Sostenla y pregunta qué significa, y luego qué no significa. En esa segunda pregunta viven los errores.",
+      "es_apply": "La próxima vez que te topes con una frase que has oído cien veces, no asientas y sigas de largo. Escribe lo que crees que significa, y luego escribe lo que crees que no significa. Mira si la segunda lista te sorprende.",
+      "es_prayer": "Señor, enséñame a cernir. Ayúdame a sostener tus palabras con cuidado, a saber lo que significan y lo que no, y a querer la verdad más de lo que quiero estar cómodo. Amén."
+    },
+    {
+      "week": 2,
       "day": 1,
       "move": "Gather",
       "virtue": "humility",
