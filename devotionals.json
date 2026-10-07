@@ -2,6 +2,43 @@
   "devotionals": [
     {
       "week": 2,
+      "day": 3,
+      "move": "Deliver",
+      "virtue": "generosity",
+      "theme": "The One Phrase",
+      "readings": [
+        {
+          "ref": "Genesis 1:1",
+          "text": "In the beginning, God created the heavens and the earth.",
+          "es_ref": "Génesis 1:1",
+          "es_text": "En el principio creó Dios los cielos y la tierra."
+        },
+        {
+          "ref": "Jeremiah 31:33",
+          "text": "For this is the covenant that I will make with the house of Israel after those days, declares the LORD: I will put my law within them, and I will write it on their hearts. And I will be their God, and they shall be my people.",
+          "es_ref": "Jeremías 31:33",
+          "es_text": "Pero este es el pacto que haré con la casa de Israel después de aquellos días, dice Jehová: Daré mi ley en su mente, y la escribiré en su corazón; y yo seré a ellos por Dios, y ellos me serán por pueblo."
+        },
+        {
+          "ref": "Revelation 21:3",
+          "text": "And I heard a loud voice from the throne saying, 'Behold, the dwelling place of God is with man. He will dwell with them, and they will be his people, and God himself will be with them as their God.'",
+          "es_ref": "Apocalipsis 21:3",
+          "es_text": "Y oí una gran voz del cielo que decía: He aquí el tabernáculo de Dios con los hombres, y él morará con ellos; y ellos serán su pueblo, y Dios mismo estará con ellos como su Dios."
+        }
+      ],
+      "word": "The whole Bible can be said in one sentence. That's the point of Deliver. You don't own an idea until you can hand it to someone in your own words. So here's the sentence this week keeps coming back to: God wants to live with us.\n\nIn the beginning, God made a world and put people in it. Genesis doesn't open with rules. It opens with God showing up and giving. Then the whole story turns into a long back and forth, people walking away and God walking after them. Jeremiah gets to the end of that chase and says what God has wanted all along. He won't just hand down commands from a distance. He'll write it on the heart. \"I will be their God, and they shall be my people.\" That's not a contract you sign. It's a home you move into.\n\nAnd Revelation closes the book with the same phrase, only now it's loud, from a throne, for everyone. \"The dwelling place of God is with man.\" First page, God creates a place for us. Last pages, God is the place, and he's with us.\n\nSo deliver it. Say the whole story in one sentence to yourself before you walk out the door. If you can't say it simply, you haven't taken it in yet. That's the generosity in this move. The truth isn't meant to sit in your head. It's meant to be said out loud, and given away.",
+      "apply": "Today, write the whole story of the Bible in one sentence of your own. Not a quote. Your words. Then say it out loud to one person, even if it comes out clumsy. Giving it away is the whole point of the move.",
+      "prayer": "God, you made the whole story this simple, that you want to live with me. Help me say it back in my own words, and mean it. Make me generous with the one sentence you gave me. Amen.",
+      "date": "2026-10-07",
+      "es_theme": "La única frase",
+      "es_move": "Entregar",
+      "es_virtue": "generosidad",
+      "es_word": "Toda la Biblia se puede decir en una sola frase. Ese es el punto de Entregar. Una idea no es tuya hasta que puedes dársela a alguien con tus propias palabras. Así que aquí va la frase a la que esta semana vuelve una y otra vez: Dios quiere vivir con nosotros.\n\nEn el principio, Dios hizo un mundo y puso gente en él. Génesis no abre con reglas. Abre con Dios apareciendo y dando. Luego toda la historia se vuelve un ir y venir largo, la gente alejándose y Dios yendo detrás. Jeremías llega al final de esa búsqueda y dice lo que Dios quiso desde siempre. Ya no va a dar mandatos a distancia. Lo va a escribir en el corazón. \"Yo seré a ellos por Dios, y ellos me serán por pueblo.\" Eso no es un contrato que firmas. Es una casa a la que te mudas.\n\nY Apocalipsis cierra el libro con la misma frase, solo que ahora suena fuerte, desde un trono, para todos. \"El tabernáculo de Dios está con los hombres.\" Primera página, Dios crea un lugar para nosotros. Últimas páginas, Dios es el lugar, y está con nosotros.\n\nAsí que entrégalo. Dite toda la historia en una frase antes de salir por la puerta. Si no puedes decirlo simple, todavía no lo has hecho tuyo. Ahí está la generosidad de este movimiento. La verdad no es para quedarse en tu cabeza. Es para decirla en voz alta y regalarla.",
+      "es_apply": "Hoy escribe toda la historia de la Biblia en una frase tuya. No una cita. Tus palabras. Luego dísela a una persona en voz alta, aunque te salga torpe. Regalarla es todo el punto del movimiento.",
+      "es_prayer": "Dios, hiciste toda la historia así de simple, que quieres vivir conmigo. Ayúdame a decírtela con mis propias palabras, y a sentirlo de verdad. Hazme generoso con la única frase que me diste. Amén."
+    },
+    {
+      "week": 2,
       "day": 2,
       "move": "Filter",
       "virtue": "discernment",
