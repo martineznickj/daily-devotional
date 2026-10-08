@@ -2,6 +2,43 @@
   "devotionals": [
     {
       "week": 2,
+      "day": 4,
+      "move": "Count",
+      "virtue": "honesty",
+      "theme": "The One Phrase",
+      "readings": [
+        {
+          "ref": "Genesis 1:1",
+          "text": "In the beginning, God created the heavens and the earth.",
+          "es_ref": "Génesis 1:1",
+          "es_text": "En el principio creó Dios los cielos y la tierra."
+        },
+        {
+          "ref": "Jeremiah 31:33",
+          "text": "For this is the covenant that I will make with the house of Israel after those days, declares the LORD: I will put my law within them, and I will write it on their hearts. And I will be their God, and they shall be my people.",
+          "es_ref": "Jeremías 31:33",
+          "es_text": "Pero este es el pacto que haré con la casa de Israel después de aquellos días, dice Jehová: Daré mi ley en su mente, y la escribiré en su corazón; y yo seré a ellos por Dios, y ellos me serán por pueblo."
+        },
+        {
+          "ref": "Revelation 21:3",
+          "text": "And I heard a loud voice from the throne saying, 'Behold, the dwelling place of God is with man. He will dwell with them, and they will be his people, and God himself will be with them as their God.'",
+          "es_ref": "Apocalipsis 21:3",
+          "es_text": "Y oí una gran voz del cielo que decía: He aquí el tabernáculo de Dios con los hombres, y él morará con ellos; y ellos serán su pueblo, y Dios mismo estará con ellos como su Dios."
+        }
+      ],
+      "word": "Count is the honest move. It doesn't add anything. It just notices what's actually there. So let's count.\n\nOne phrase. \"I will be their God, and they shall be my people.\" You'll meet it again and again in the Bible, in Leviticus, Jeremiah, Ezekiel, Hosea. It's the covenant formula, and it barely ever changes shape. God gets a people. The people get a God.\n\nNow watch where it sits. Genesis 1:1 doesn't say the phrase. There are no people yet. But the setup is already in place, a God making a world with room for them to live. Jeremiah 31:33 says it straight out, right in the middle of the story. And Revelation 21:3 says it at the end, when the waiting is over and God moves in for good.\n\nSo the count comes to this. One sentence in three places. Beginning, middle, end. If the whole Bible is one story, this is the sentence holding it together. Not a rulebook. Not a system to master. A God who wants to live with his people.\n\nAnd honesty keeps us honest here. It would be easy to dress this up and make it sound grand. But the phrase is small. Eleven words in English, fewer in Hebrew. God didn't need more. He kept saying the same short thing for centuries until it came true.\n\nCount what repeats and you'll find the spine.",
+      "apply": "Where have you known that phrase in your own life? Not the exact words, the shape of it: a moment you knew someone was yours and you were theirs. Write it down in one line, then ask what it's built on.",
+      "prayer": "God, you said one thing and you never stopped saying it. Thank you that you want to live with us, not just rule over us. Write your law on my heart today. Amen.",
+      "date": "2026-10-08",
+      "es_theme": "La única frase",
+      "es_move": "Contar",
+      "es_virtue": "honestidad",
+      "es_word": "Contar es el movimiento honesto. No añade nada. Solo se fija en lo que de verdad está ahí. Así que contemos.\n\nUna frase. \"Yo seré su Dios, y ellos serán mi pueblo.\" La vas a encontrar una y otra vez en la Biblia, en Levítico, Jeremías, Ezequiel, Oseas. Es la fórmula del pacto, y casi nunca cambia de forma. Dios recibe un pueblo. El pueblo recibe a un Dios.\n\nAhora mira dónde está. Génesis 1:1 no dice la frase. Todavía no hay gente. Pero el escenario ya está puesto, un Dios haciendo un mundo con lugar para que vivan. Jeremías 31:33 la dice de frente, justo en medio de la historia. Y Apocalipsis 21:3 la dice al final, cuando la espera se acaba y Dios se muda para siempre.\n\nAsí que la cuenta queda en esto. Una frase en tres lugares. Principio, medio, final. Si toda la Biblia es una sola historia, esta es la frase que la sostiene. No un libro de reglas. No un sistema que dominar. Un Dios que quiere vivir con su gente.\n\nY la honestidad nos mantiene en el suelo aquí. Sería fácil adornar esto y hacerlo sonar grandioso. Pero la frase es pequeña. Once palabras en inglés, menos en hebreo. Dios no necesitó más. Siguió diciendo lo mismo, cortito, durante siglos, hasta que se cumplió.\n\nCuenta lo que se repite y encontrarás la columna.",
+      "es_apply": "¿Dónde has conocido esa frase en tu propia vida? No las palabras exactas, sino su forma: un momento en que supiste que alguien era tuyo y tú eras suyo. Escríbelo en una línea, y luego pregúntate sobre qué está construido.",
+      "es_prayer": "Dios, dijiste una sola cosa y nunca dejaste de decirla. Gracias porque quieres vivir con nosotros, no solo reinar sobre nosotros. Escribe tu ley en mi corazón hoy. Amén."
+    },
+    {
+      "week": 2,
       "day": 3,
       "move": "Deliver",
       "virtue": "generosity",
