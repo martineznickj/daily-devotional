@@ -2,6 +2,43 @@
   "devotionals": [
     {
       "week": 2,
+      "day": 5,
+      "move": "Shape",
+      "virtue": "clarity",
+      "theme": "The One Phrase",
+      "readings": [
+        {
+          "ref": "Genesis 1:1",
+          "text": "In the beginning, God created the heavens and the earth.",
+          "es_ref": "Génesis 1:1",
+          "es_text": "En el principio creó Dios los cielos y la tierra."
+        },
+        {
+          "ref": "Revelation 21:3",
+          "text": "Behold, the dwelling place of God is with man. He will dwell with them, and they will be his people, and God himself will be with them as their God.",
+          "es_ref": "Apocalipsis 21:3",
+          "es_text": "He aquí el tabernáculo de Dios con los hombres, y él morará con ellos; y ellos serán su pueblo, y Dios mismo estará con ellos como su Dios."
+        },
+        {
+          "ref": "Jeremiah 31:33",
+          "text": "I will put my law within them, and I will write it on their hearts. And I will be their God, and they shall be my people.",
+          "es_ref": "Jeremías 31:33",
+          "es_text": "Daré mi ley en su mente, y la escribiré en su corazón; y yo seré a ellos por Dios, y ellos me serán por pueblo."
+        }
+      ],
+      "word": "Shape is the move of clarity. It asks one question: how does this piece fit the whole story? So today, lay these three verses out and look at the outline they make.\n\nGenesis opens with a wide shot. In the beginning, God created the heavens and the earth. First page, first sentence. God is the one acting, and everything else comes from him. Now jump to the last page. Revelation pictures God's dwelling place with man. He will dwell with them. They will be his people, and God himself will be with them as their God. Same God, same people, but now together, face to face.\n\nThat's the whole shape of the Bible. It starts with God, and it ends with God with us. Everything in between is how we get from the one to the other.\n\nJeremiah gives you the hinge. God says, I will put my law within them, I will write it on their hearts, and I will be their God, and they shall be my people. That one line, \"I will be their God and they shall be my people,\" is the covenant promise that carries the whole middle of the story. You hear it again in Revelation, nearly word for word. So the three verses aren't three separate ideas. They're three points on one line. God creates. God commits. God dwells.\n\nThat's the one phrase the whole book is trying to say. Clarity isn't adding more. It's seeing the single shape under all the parts.",
+      "apply": "Trace your own story the way these three verses trace the Bible's. Where did it begin, where is it heading, and what one promise sits in the middle holding the two together?",
+      "prayer": "Lord, you are the God of the beginning and the God who dwells with us. Teach me to see the single shape of your story, and of mine. Help me trust the promise you wrote in the middle: that you will be my God, and I will be yours.",
+      "date": "2026-10-09",
+      "es_theme": "La única frase",
+      "es_move": "Formar",
+      "es_virtue": "claridad",
+      "es_word": "Formar es el movimiento de la claridad. Hace una sola pregunta: ¿cómo encaja esta pieza en la historia entera? Así que hoy, pon estos tres versículos juntos y mira el contorno que forman.\n\nGénesis abre con una vista amplia. En el principio creó Dios los cielos y la tierra. Primera página, primera frase. Dios es el que actúa, y todo lo demás sale de él. Ahora salta a la última página. Apocalipsis describe el tabernáculo de Dios con los hombres. Él morará con ellos. Ellos serán su pueblo, y Dios mismo estará con ellos como su Dios. El mismo Dios, el mismo pueblo, pero ahora juntos, cara a cara.\n\nEsa es la forma entera de la Biblia. Empieza con Dios, y termina con Dios con nosotros. Todo lo que hay en medio es el camino de un punto al otro.\n\nJeremías te da la bisagra. Dios dice: daré mi ley en su mente, la escribiré en su corazón, y yo seré a ellos por Dios, y ellos me serán por pueblo. Esa línea, \"yo seré su Dios y ellos serán mi pueblo\", es la promesa del pacto que recorre todo el medio de la historia. La vuelves a oír en Apocalipsis, casi palabra por palabra. Así que los tres versículos no son tres ideas distintas. Son tres puntos sobre una misma línea. Dios crea. Dios se compromete. Dios habita.\n\nEsa es la única frase que todo el libro intenta decir. La claridad no es añadir más. Es ver la forma única debajo de todas las partes.",
+      "es_apply": "Recorre tu propia historia como estos tres versículos recorren la de la Biblia. ¿Dónde empezó, hacia dónde va, y qué única promesa está en el medio sosteniendo las dos cosas?",
+      "es_prayer": "Señor, tú eres el Dios del principio y el Dios que habita con nosotros. Enséñame a ver la forma única de tu historia, y de la mía. Ayúdame a confiar en la promesa que escribiste en el medio: que tú serás mi Dios, y yo seré tu pueblo."
+    },
+    {
+      "week": 2,
       "day": 4,
       "move": "Count",
       "virtue": "honesty",
