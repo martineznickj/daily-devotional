@@ -2,6 +2,43 @@
   "devotionals": [
     {
       "week": 2,
+      "day": 6,
+      "move": "Flow",
+      "virtue": "patience",
+      "theme": "The One Phrase",
+      "readings": [
+        {
+          "ref": "Genesis 1:1",
+          "text": "In the beginning, God created the heavens and the earth.",
+          "es_ref": "Génesis 1:1",
+          "es_text": "En el principio creó Dios los cielos y la tierra."
+        },
+        {
+          "ref": "Jeremiah 31:33",
+          "text": "For this is the covenant that I will make with the house of Israel after those days, declares the LORD: I will put my law within them, and I will write it on their hearts. And I will be their God, and they shall be my people.",
+          "es_ref": "Jeremías 31:33",
+          "es_text": "Pero este es el pacto que haré con la casa de Israel después de aquellos días, dice Jehová: Daré mi ley en su mente, y la escribiré en su corazón; y yo seré a ellos por Dios, y ellos me serán por pueblo."
+        },
+        {
+          "ref": "Revelation 21:3",
+          "text": "And I heard a loud voice from the throne saying, 'Behold, the dwelling place of God is with man. He will dwell with them, and they will be his people, and God himself will be with them as their God.'",
+          "es_ref": "Apocalipsis 21:3",
+          "es_text": "Y oí una gran voz del cielo que decía: He aquí el tabernáculo de Dios con los hombres, y él morará con ellos; y ellos serán su pueblo, y Dios mismo estará con ellos como su Dios."
+        }
+      ],
+      "word": "Flow is the move of patience, of rhythm and timing. It asks what pattern repeats. And this week the pattern is one line. \"I will be their God, and they will be my people.\" You hear it at the start. You hear it in the middle. You hear it at the very end, when everything is finished.\n\nListen for the beat. Genesis 1:1 doesn't say the phrase out loud, but it's already humming under everything. God makes the heavens and the earth, and then he walks in the garden in the cool of the day. That's what the phrase sounds like when it isn't yet a sentence. God near. God with us.\n\nThen the story breaks. Man leaves the garden. But God doesn't stop saying the line. Jeremiah gets it as a promise: I will put my law inside you, write it on your heart, and I will be your God. Not a set of rules outside you. Something inside.\n\nThen Revelation 21:3 says it straight, as if the whole Bible has been one long song and now the chorus lands. Behold, the dwelling place of God is with man. He will dwell with them. The same line from Eden, finally said at full volume.\n\nThat's what Flow notices. Not a new idea each day. A beat that comes back. The patience part is this: God keeps the same promise through thousands of years, through floods and exiles and crosses, and it's never late. The rhythm is the promise itself, and the rhythm holds.",
+      "apply": "What's one promise or pattern in your own life that keeps showing up, that you keep hearing God say even in seasons where nothing seems to move? Write it down today. Then watch for the beat.",
+      "prayer": "Lord, you have said the same thing since the beginning, and you are still saying it. Teach me to hear the beat, and give me patience to trust the timing. Amen.",
+      "date": "2026-10-10",
+      "es_theme": "La Frase Única",
+      "es_move": "Fluir",
+      "es_virtue": "paciencia",
+      "es_word": "Fluir es el movimiento de la paciencia, del ritmo y del tiempo. Pregunta qué patrón se repite. Y esta semana el patrón es una sola frase. \"Yo seré su Dios, y ellos serán mi pueblo.\" La oyes al principio. La oyes en el medio. La oyes al final, cuando todo ha terminado.\n\nEscucha el compás. Génesis 1:1 no dice la frase en voz alta, pero ya está zumbando debajo de todo. Dios crea los cielos y la tierra, y luego camina por el jardín al fresco del día. Así suena la frase cuando todavía no es una oración. Dios cerca. Dios con nosotros.\n\nDespués la historia se rompe. El hombre sale del jardín. Pero Dios no deja de decir la línea. A Jeremías se la da como promesa: pondré mi ley dentro de ti, la escribiré en tu corazón, y yo seré tu Dios. No es un montón de reglas por fuera. Es algo por dentro.\n\nLuego Apocalipsis 21:3 lo dice sin rodeos, como si toda la Biblia fuera una sola canción larga y ahora llega el coro. He aquí el tabernáculo de Dios con los hombres. Él morará con ellos. La misma línea del Edén, dicha por fin a todo volumen.\n\nEso es lo que nota Fluir. No una idea nueva cada día. Un compás que vuelve. La paciencia está en esto: Dios mantiene la misma promesa a lo largo de miles de años, por diluvios y destierros y cruces, y nunca llega tarde. El ritmo es la promesa misma, y el ritmo se sostiene.",
+      "es_apply": "¿Qué promesa o patrón de tu propia vida sigue apareciendo, algo que sigues oyendo de Dios incluso en temporadas donde nada parece moverse? Escríbelo hoy. Después observa el compás.",
+      "es_prayer": "Señor, tú has dicho lo mismo desde el principio, y lo sigues diciendo. Enséñame a oír el compás, y dame paciencia para confiar en tu tiempo. Amén."
+    },
+    {
+      "week": 2,
       "day": 5,
       "move": "Shape",
       "virtue": "clarity",
