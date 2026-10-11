@@ -2,6 +2,43 @@
   "devotionals": [
     {
       "week": 2,
+      "day": 7,
+      "move": "Zoom",
+      "virtue": "perspective",
+      "theme": "The One Phrase",
+      "readings": [
+        {
+          "ref": "Genesis 1:1",
+          "text": "In the beginning, God created the heavens and the earth.",
+          "es_ref": "Génesis 1:1",
+          "es_text": "En el principio creó Dios los cielos y la tierra."
+        },
+        {
+          "ref": "Revelation 21:3",
+          "text": "And I heard a loud voice from the throne saying, 'Behold, the dwelling place of God is with man. He will dwell with them, and they will be his people, and God himself will be with them as their God.'",
+          "es_ref": "Apocalipsis 21:3",
+          "es_text": "Y oí una gran voz del cielo que decía: He aquí el tabernáculo de Dios con los hombres, y él morará con ellos; y ellos serán su pueblo, y Dios mismo estará con ellos como su Dios."
+        },
+        {
+          "ref": "Jeremiah 31:33",
+          "text": "For this is the covenant that I will make with the house of Israel after those days, declares the LORD: I will put my law within them, and I will write it on their hearts. And I will be their God, and they shall be my people.",
+          "es_ref": "Jeremías 31:33",
+          "es_text": "Pero este es el pacto que haré con la casa de Israel después de aquellos días, dice Jehová: Daré mi ley en su mente, y la escribiré en su corazón; y yo seré a ellos por Dios, y ellos me serán por pueblo."
+        }
+      ],
+      "word": "Zoom means climbing up and looking back at the whole week. You've gathered, filtered, delivered, counted, shaped, and flowed. Now stand on a hill and ask what this book is actually about in one sentence.\n\nHere it is. God wants to live with us.\n\nThat's the whole thing. You can see it in three verses this week. At the start, God creates a world and stands over it, making room. In the middle, he tells Jeremiah a day is coming when he won't have to write his law on stone, because he'll write it inside people, and he'll be their God and they'll be his people. And at the end, a voice from the throne says the dwelling place of God is with man, and he will live with them.\n\nSame sentence, three places. The beginning, the middle, and the end all say the same thing. God with us. The Bible isn't a rulebook you keep or a list of heroes you imitate. It's the story of a God who keeps moving toward people until he finally moves in. That's the perspective that holds everything else together. When you're lost in a verse or a chapter, zoom out. Ask where it sits between Genesis one and Revelation twenty one, and see if it isn't another step of God closing the distance.",
+      "apply": "This week, when a verse or a hard day doesn't make sense, step back and ask: where does this fit between the beginning and the end, and is God still moving toward me in it?",
+      "prayer": "God, help me see the whole story, not just the page I'm on. You have been moving toward me since the beginning. Teach me to live like you are with me today, and to rest in that.",
+      "date": "2026-10-11",
+      "es_theme": "La Única Frase",
+      "es_move": "Alejar",
+      "es_virtue": "perspectiva",
+      "es_word": "Alejar significa subir y mirar hacia atrás toda la semana. Has reunido, filtrado, entregado, contado, formado y fluido. Ahora súbete a una colina y pregúntate de qué trata este libro en una sola frase.\n\nAquí está. Dios quiere vivir con nosotros.\n\nEso es todo. Lo ves en tres versículos de esta semana. Al principio, Dios crea un mundo y se para sobre él, haciendo espacio. En el medio, le dice a Jeremías que viene un día en que no tendrá que escribir su ley en piedra, porque la escribirá dentro de las personas, y será su Dios y ellos serán su pueblo. Y al final, una voz desde el trono dice que el tabernáculo de Dios está con los hombres, y que él morará con ellos.\n\nLa misma frase, tres lugares. El principio, el medio y el final dicen lo mismo. Dios con nosotros. La Biblia no es un libro de reglas que cumples ni una lista de héroes que imitas. Es la historia de un Dios que sigue moviéndose hacia la gente hasta que por fin se muda adentro. Esa es la perspectiva que sostiene todo lo demás. Cuando te pierdas en un versículo o un capítulo, aléjate. Pregunta dónde queda entre Génesis uno y Apocalipsis veintiuno, y mira si no es otro paso de Dios acortando la distancia.",
+      "es_apply": "Esta semana, cuando un versículo o un día difícil no tenga sentido, retrocede y pregunta: ¿dónde encaja esto entre el principio y el final, y Dios sigue moviéndose hacia mí en eso?",
+      "es_prayer": "Dios, ayúdame a ver la historia completa, no solo la página en la que estoy. Te has estado moviendo hacia mí desde el principio. Enséñame a vivir como si estuvieras conmigo hoy, y a descansar en eso."
+    },
+    {
+      "week": 2,
       "day": 6,
       "move": "Flow",
       "virtue": "patience",
