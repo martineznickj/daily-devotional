@@ -1,6 +1,43 @@
 {
   "devotionals": [
     {
+      "week": 3,
+      "day": 1,
+      "move": "Gather",
+      "virtue": "humility",
+      "theme": "Covenant",
+      "readings": [
+        {
+          "ref": "Jeremiah 31:33",
+          "text": "For this is the covenant that I will make with the house of Israel after those days, declares the LORD: I will put my law within them, and I will write it on their hearts. And I will be their God, and they shall be my people.",
+          "es_ref": "Jeremías 31:33",
+          "es_text": "Pero este es el pacto que haré con la casa de Israel después de aquellos días, dice Jehová: Daré mi ley en su mente, y la escribiré en su corazón; y yo seré a ellos por Dios, y ellos me serán por pueblo."
+        },
+        {
+          "ref": "Genesis 15:17",
+          "text": "When the sun had gone down and it was dark, behold, a smoking fire pot and a flaming torch passed between these pieces.",
+          "es_ref": "Génesis 15:17",
+          "es_text": "Y sucedió que puesto el sol, y ya oscurecido, se veía un horno humeando, y una antorcha de fuego que pasaba por entre los animales divididos."
+        },
+        {
+          "ref": "Genesis 15:6",
+          "text": "And he believed the LORD, and he counted it to him as righteousness.",
+          "es_ref": "Génesis 15:6",
+          "es_text": "Y creyó a Jehová, y le fue contado por justicia."
+        }
+      ],
+      "word": "Gather is the move where you set down whatever you already think you know and read what's actually on the page. So let's do that with one word this week: covenant.\n\nThe word shows up all through the Bible, and it's easy to get wrong. We hear \"covenant\" and think contract. Two sides, each with a part to hold up. But watch what Genesis 15 shows. God tells Abram to cut some animals in half and lay the pieces out. In the old world, when two men cut a covenant, both of them walked between the pieces. It meant, may I be cut like this if I break my word. But Abram doesn't walk. He falls into a deep sleep, and only a smoking fire pot and a flaming torch pass through. God walks the path alone.\n\nJeremiah says it again, hundreds of years later. \"I will make a new covenant,\" God says, and then the line that carries everything. \"I will put my law within them, and I will write it on their hearts.\" Notice who does the putting and the writing. Not them. God does. The people broke the old covenant, and the fix isn't that they'll try harder. The fix is that God writes it inside them.\n\nGather just takes that in before rushing to apply it. Humility looks exactly like that. You let the text be about God first, before you make it about you. A covenant isn't your promise to God. It's his promise to you, and you don't hold up your end, because there isn't one for you to hold.",
+      "apply": "Read Genesis 15 slowly one more time today. Before you explain it or apply it, just make a list of what God does in the chapter and what Abram does. Don't add anything to either list. Notice who carries the whole thing.",
+      "prayer": "Lord, teach me to read you before I talk about you. Let me see the covenant as yours, not mine. Thank you that you walk the road alone, and that you write it on my heart. Amen.",
+      "date": "2026-10-12",
+      "es_theme": "Pacto",
+      "es_move": "Reunir",
+      "es_virtue": "humildad",
+      "es_word": "Reunir es el movimiento donde dejas de lado lo que ya crees saber y lees lo que de verdad está en la página. Hagamos eso con una palabra esta semana: pacto.\n\nLa palabra aparece por toda la Biblia, y es fácil entenderla mal. Escuchamos \"pacto\" y pensamos en un contrato. Dos lados, cada uno con su parte que cumplir. Pero mira lo que muestra Génesis 15. Dios le dice a Abram que corte unos animales por la mitad y ponga las piezas en el suelo. En el mundo antiguo, cuando dos hombres cortaban un pacto, los dos caminaban entre las piezas. Era una forma de decir, que me corten así si rompo mi palabra. Pero Abram no camina. Cae en un sueño profundo, y solo un horno humeando y una antorcha de fuego pasan por el medio. Dios hace el camino solo.\n\nJeremías lo dice otra vez, cientos de años después. \"Haré nuevo pacto\", dice Dios, y luego la línea que lo carga todo. \"Daré mi ley en su mente, y la escribiré en su corazón.\" Fíjate quién hace el dar y el escribir. No son ellos. Es Dios. El pueblo rompió el pacto viejo, y la solución no es que se esfuercen más. La solución es que Dios lo escribe por dentro.\n\nReunir solo recibe eso antes de correr a aplicarlo. La humildad se ve exactamente así. Dejas que el texto sea primero de Dios, antes de hacerlo de ti. Un pacto no es tu promesa a Dios. Es su promesa a ti, y no tienes que cumplir tu parte, porque no hay parte tuya que cumplir.",
+      "es_apply": "Lee Génesis 15 despacio una vez más hoy. Antes de explicarlo o aplicarlo, solo haz una lista de lo que hace Dios en el capítulo y lo que hace Abram. No agregues nada a ninguna lista. Fíjate quién lleva todo el peso.",
+      "es_prayer": "Señor, enséñame a leerte antes de hablar de ti. Déjame ver el pacto como tuyo, no mío. Gracias porque haces el camino solo, y porque lo escribes en mi corazón. Amén."
+    },
+    {
       "week": 2,
       "day": 7,
       "move": "Zoom",
