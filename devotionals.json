@@ -2,6 +2,43 @@
   "devotionals": [
     {
       "week": 3,
+      "day": 2,
+      "move": "Filter",
+      "virtue": "discernment",
+      "theme": "Covenant",
+      "readings": [
+        {
+          "ref": "Genesis 15:17",
+          "text": "When the sun had gone down and it was dark, behold, a smoking fire pot and a flaming torch passed between these pieces.",
+          "es_ref": "Génesis 15:17",
+          "es_text": "Y sucedió que puesto el sol, y ya oscurecido, se veía un horno humeando, y una antorcha de fuego que pasaba por entre los animales divididos."
+        },
+        {
+          "ref": "Genesis 15:18",
+          "text": "On that day the LORD made a covenant with Abram, saying, 'To your offspring I give this land, from the river of Egypt to the great river, the river Euphrates.'",
+          "es_ref": "Génesis 15:18",
+          "es_text": "En aquel día hizo Jehová un pacto con Abram, diciendo: A tu descendencia daré esta tierra, desde el río de Egipto hasta el río grande, el río Éufrates."
+        },
+        {
+          "ref": "Genesis 15:6",
+          "text": "And he believed the LORD, and he counted it to him as righteousness.",
+          "es_ref": "Génesis 15:6",
+          "es_text": "Y creyó a Jehová, y le fue contado por justicia."
+        }
+      ],
+      "word": "Here's what Filter does. It asks what a word actually means, and then it asks what people keep trying to make it mean. \"Covenant\" is one of those words. We hear it and think contract, a deal where two parties sign and each one has to hold up his end. That's not what's happening in Genesis 15.\n\nGod tells Abram to cut several animals in half and lay the pieces in two rows. Then a smoking fire pot and a flaming torch pass between them, while Abram just stands there. In the ancient world, when you cut animals in two and walked between the pieces, you were saying, if I break this promise, let what happened to these animals happen to me. Both sides were supposed to walk. Only one side does. God alone passes through the pieces. Abram never takes the oath.\n\nSo Filter lands here. A covenant isn't a contract between equals. It's a promise God makes and God carries. God puts his own life on the line, in the symbol of the fire, and asks nothing from Abram to seal it. That's what it means. And what it doesn't mean is that God keeps his promise only if Abram keeps his side. Abram's part is simply to believe, and even that gets counted to him as righteousness.\n\nNow look ahead and you'll see the same shape everywhere. Jeremiah 31 says the new covenant is God writing his law on our hearts, him being our God, us being his people. Not one of the six covenants in this book starts with \"you first.\" They all start with God reaching down and binding himself. That's the Filter on this word, and it changes how you read the whole thing.",
+      "apply": "Think of one promise you've been treating like a contract, something you have to earn or keep or you'll lose it. This morning, hold that promise and ask what would change if you heard God's word the way it actually reads. He carries it. You receive it.",
+      "prayer": "Lord, you walked through the pieces for me. Teach me to rest in a promise you carry instead of a contract I have to earn. Help me trust your faithfulness more than my own. Amen.",
+      "date": "2026-10-13",
+      "es_theme": "Pacto",
+      "es_move": "Filtrar",
+      "es_virtue": "discernimiento",
+      "es_word": "Esto es lo que hace Filtrar. Pregunta qué significa realmente una palabra, y luego pregunta qué le estamos tratando de meter. \"Pacto\" es una de esas palabras. La oímos y pensamos en contrato, un trato donde dos partes firman y cada una tiene que cumplir su parte. Eso no es lo que pasa en Génesis 15.\n\nDios le dice a Abram que corte varios animales por la mitad y ponga las piezas en dos filas. Luego un horno humeando y una antorcha de fuego pasan entre ellas, mientras Abram se queda parado. En el mundo antiguo, cuando cortabas animales en dos y caminabas entre las piezas, estabas diciendo: si rompo esta promesa, que me pase a mí lo que les pasó a estos animales. Los dos lados debían caminar. Solo uno camina. Dios pasa solo entre las piezas. Abram nunca hace el juramento.\n\nEntonces Filtrar llega a esto. Un pacto no es un contrato entre iguales. Es una promesa que Dios hace y Dios sostiene. Dios pone su propia vida en la línea, en el símbolo del fuego, y no le pide nada a Abram para sellarlo. Eso es lo que significa. Y lo que no significa es que Dios cumplirá su promesa solo si Abram cumple su parte. La parte de Abram es simplemente creer, y aun eso le fue contado por justicia.\n\nAhora mira hacia adelante y verás la misma forma en todas partes. Jeremías 31 dice que el nuevo pacto es Dios escribiendo su ley en nuestros corazones, él siendo nuestro Dios, nosotros siendo su pueblo. Ni uno solo de los seis pactos de este libro empieza con \"tú primero.\" Todos empiezan con Dios bajando y atándose a sí mismo. Ese es el Filtrar sobre esta palabra, y cambia cómo lees todo el libro.",
+      "es_apply": "Piensa en una promesa que has estado tratando como un contrato, algo que tienes que ganar o mantener o lo perderás. Esta mañana, sostén esa promesa y pregúntate qué cambiaría si escucharas la palabra de Dios como de verdad dice. Él la lleva. Tú la recibes.",
+      "es_prayer": "Señor, tú pasaste entre las piezas por mí. Enséñame a descansar en una promesa que tú llevas en vez de un contrato que yo tengo que ganar. Ayúdame a confiar más en tu fidelidad que en la mía. Amén."
+    },
+    {
+      "week": 3,
       "day": 1,
       "move": "Gather",
       "virtue": "humility",
