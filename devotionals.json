@@ -2,6 +2,43 @@
   "devotionals": [
     {
       "week": 3,
+      "day": 3,
+      "move": "Deliver",
+      "virtue": "generosity",
+      "theme": "Covenant",
+      "readings": [
+        {
+          "ref": "Genesis 9:13",
+          "text": "I have set my bow in the cloud, and it shall be a sign of the covenant between me and the earth.",
+          "es_ref": "Génesis 9:13",
+          "es_text": "Mi arco he puesto en las nubes, el cual será por señal del pacto entre mí y la tierra."
+        },
+        {
+          "ref": "Genesis 15:6",
+          "text": "And he believed the Lord, and he counted it to him as righteousness.",
+          "es_ref": "Génesis 15:6",
+          "es_text": "Y creyó a Jehová, y le fue contado por justicia."
+        },
+        {
+          "ref": "Jeremiah 31:33",
+          "text": "For this is the covenant that I will make with the house of Israel after those days, declares the Lord: I will put my law within them, and I will write it on their hearts. And I will be their God, and they shall be my people.",
+          "es_ref": "Jeremías 31:33",
+          "es_text": "Pero este es el pacto que haré con la casa de Israel después de aquellos días, dice Jehová: Daré mi ley en su mente, y la escribiré en su corazón; y yo seré a ellos por Dios, y ellos me serán por pueblo."
+        }
+      ],
+      "word": "What do you call it when God binds himself to people he doesn't have to? You could reach for a shelf word. Covenant is the Bible's word, and it's a good one, but it sits like a foreign coin if nobody tells you what it buys. It's not a contract where two sides haggle and sign on the dotted line. It's a promise one side makes and carries alone.\n\nDeliver is the move that hands the idea over. Generosity, because you don't keep it for yourself. So here's the covenant in one plain sentence: God makes a promise, and he keeps it even when we break it.\n\nWatch him do it. After the flood, God hangs his bow in the clouds and says, I will remember my covenant. Not you'd better remember. Not you'd better keep it. He says I will remember. The sign is for him. Then he takes Abram outside and points at the night sky. Count the stars, he says. Abram can't, but he believes, and God counts that believing as righteousness. And at the end of the line Jeremiah hears it finished: God will write his law on their hearts and be their God.\n\nSame sentence every time. God makes a promise, and he keeps it when we break it. That's the whole spine of the book.\n\nSo before you close this, try your own version. Say it to your kid, or to yourself over the kitchen sink. Not covenant theology. Just: God promised to stay, and he signs his name and stays. That's Deliver. You take the biggest idea in the book and make it small enough to hand to someone else.",
+      "apply": "Take one promise God has made you, in scripture or in your own life, and say it out loud in one sentence a child could repeat. If you can't make it plain, sit with it until you can.",
+      "prayer": "God, you made the promise and you keep it. Teach me to hold it plainly, so I can hand it to someone else today. Amen.",
+      "date": "2026-10-14",
+      "es_theme": "Pacto",
+      "es_move": "Entregar",
+      "es_virtue": "generosidad",
+      "es_word": "¿Cómo le llamas cuando Dios se ata a personas a las que no tiene por qué atarse? Podrías usar una palabra de estante. Pacto es la palabra de la Biblia, y es buena, pero se queda como una moneda extranjera si nadie te dice qué compra. No es un contrato donde dos partes regatean y firman en la línea punteada. Es una promesa que una sola parte hace y carga.\n\nEntregar es el movimiento que pasa la idea a otro. Generosidad, porque no te la quedas para ti. Así que aquí está el pacto en una sola frase: Dios hace una promesa, y la cumple aun cuando nosotros la rompemos.\n\nMíralo hacerlo. Después del diluvio, Dios cuelga su arco en las nubes y dice: me acordaré de mi pacto. No dice: más te vale recordar. No dice: más te vale cumplir. Dice: yo me acordaré. La señal es para él. Luego saca a Abram afuera y le señala el cielo de noche. Cuenta las estrellas, le dice. Abram no puede, pero cree, y Dios le cuenta esa fe como justicia. Y al final de la línea, Jeremías lo oye terminado: Dios escribirá su ley en su corazón y será su Dios.\n\nLa misma frase cada vez. Dios hace una promesa, y la cumple cuando la rompemos. Esa es toda la columna del libro.\n\nAsí que antes de cerrar esto, prueba tu propia versión. Dísela a tu hijo, o dítela a ti mismo frente al fregadero. No teología del pacto. Solo: Dios prometió quedarse, y firma su nombre y se queda. Eso es Entregar. Tomas la idea más grande del libro y la haces tan pequeña que se la puedes dar a otra persona.",
+      "es_apply": "Toma una promesa que Dios te ha hecho, en la Escritura o en tu propia vida, y dila en voz alta en una frase que un niño pueda repetir. Si no puedes hacerla clara, quédate con ella hasta que puedas.",
+      "es_prayer": "Dios, tú hiciste la promesa y tú la cumples. Enséñame a sostenerla con sencillez, para poder dársela hoy a alguien más. Amén."
+    },
+    {
+      "week": 3,
       "day": 2,
       "move": "Filter",
       "virtue": "discernment",
