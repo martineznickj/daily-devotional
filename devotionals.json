@@ -2,6 +2,43 @@
   "devotionals": [
     {
       "week": 3,
+      "day": 4,
+      "move": "Count",
+      "virtue": "honesty",
+      "theme": "Covenant",
+      "readings": [
+        {
+          "ref": "Genesis 9:12-13",
+          "text": "And God said, 'This is the sign of the covenant that I make between me and you and every living creature that is with you, for all future generations: I have set my bow in the cloud, and it shall be a sign of the covenant between me and the earth.'",
+          "es_ref": "Génesis 9:12-13",
+          "es_text": "Y dijo Dios: Esta es la señal del pacto que yo establezco entre mí y vosotros y todo ser viviente que está con vosotros, por siglos perpetuos: Mi arco he puesto en las nubes, el cual será por señal del pacto entre mí y la tierra."
+        },
+        {
+          "ref": "Genesis 15:17",
+          "text": "When the sun had gone down and it was dark, behold, a smoking fire pot and a flaming torch passed between these pieces.",
+          "es_ref": "Génesis 15:17",
+          "es_text": "Y sucedió que puesto el sol, y ya oscurecido, se veía un horno humeando, y una antorcha de fuego que pasaba por entre los animales divididos."
+        },
+        {
+          "ref": "Jeremiah 31:33",
+          "text": "For this is the covenant that I will make with the house of Israel after those days, declares the LORD: I will put my law within them, and I will write it on their hearts. And I will be their God, and they shall be my people.",
+          "es_ref": "Jeremías 31:33",
+          "es_text": "Pero este es el pacto que haré con la casa de Israel después de aquellos días, dice Jehová: Daré mi ley en su mente, y la escribiré en su corazón; y yo seré a ellos por Dios, y ellos me serán por pueblo."
+        }
+      ],
+      "word": "Count is the honest move. It doesn't ask how a verse feels. It asks what's actually there, so let's count.\n\nThe word \"covenant\" shows up seven times in Genesis 9:8-17. Seven, in the Bible, usually points at something whole or finished. And look what the covenant covers. It starts with Noah, then widens to his sons, then to every living creature, then to the earth itself. The promise keeps growing until nothing is left out.\n\nNow open Jeremiah 31:31-34 and count the \"I will\"s. Seven of them. Make shows up twice, then put, write, be, forgive, remember. Seven times God says \"I will,\" and not once does he say \"you will.\" Seven isn't a magic code. It's just a slow, honest way to notice who keeps showing up in these verses. God does. A covenant in this book isn't a deal between two equals. It's one party doing the heavy lifting.\n\nGenesis 15 shows it where you can see it. Abram cuts animals in half and lays the pieces in a row. Then a smoking fire pot and a flaming torch pass between them alone. Abram walks through nothing. God takes the oath by himself, so the promise can't fall apart when Abram stumbles. Six covenants run the length of the Bible, and every one leans the same direction. God is the one promising.\n\nSo the next time you pray, stop negotiating. Count who's holding up your side of the deal. It was never yours to hold.",
+      "apply": "Take one promise God has made to you and count the \"I will\"s in it. Then name the one part of it you've been trying to carry on your own.",
+      "prayer": "Lord, I keep trying to hold up both ends of the covenant. Remind me that you made the promises, and teach me to rest in them instead of carrying them alone. Amen.",
+      "date": "2026-10-15",
+      "es_theme": "Pacto",
+      "es_move": "Contar",
+      "es_virtue": "honestidad",
+      "es_word": "Contar es el movimiento honesto. No pregunta cómo se siente un versículo. Pregunta qué hay de verdad ahí, así que contemos.\n\nLa palabra \"pacto\" aparece siete veces en Génesis 9:8-17. Siete, en la Biblia, suele apuntar a algo entero o terminado. Y mira lo que cubre el pacto. Empieza con Noé, luego se abre a sus hijos, luego a todo ser viviente, luego a la tierra misma. La promesa sigue creciendo hasta que nada queda afuera.\n\nAhora abre Jeremías 31:31-34 y cuenta los \"yo haré\". Hay siete. Haré aparece dos veces, y luego dar, escribir, ser, perdonar, acordarse. Siete veces dice Dios \"yo haré\", y ni una sola vez dice \"tú harás\". El siete no es un código mágico. Es solo una manera lenta y honesta de notar quién sigue apareciendo en estos versículos. Dios aparece. Un pacto en este libro no es un trato entre dos iguales. Es una sola parte haciendo todo el trabajo.\n\nGénesis 15 lo muestra donde lo puedes ver. Abram corta animales por la mitad y pone los pedazos en fila. Luego un horno humeando y una antorcha de fuego pasan solos entre ellos. Abram no pasa por nada. Dios hace el juramento por sí mismo, para que la promesa no se caiga cuando Abram tropiece. Seis pactos recorren toda la Biblia, y cada uno se inclina hacia el mismo lado. Dios es el que promete.\n\nAsí que la próxima vez que ores, deja de negociar. Cuenta quién sostiene tu parte del trato. Nunca fue tuya para sostenerla.",
+      "es_apply": "Toma una promesa que Dios te ha hecho y cuenta sus \"yo haré\". Luego nombra la parte de esa promesa que has estado tratando de cargar tú solo.",
+      "es_prayer": "Señor, sigo tratando de sostener los dos extremos del pacto. Recuérdame que tú hiciste las promesas, y enséñame a descansar en ellas en vez de cargarlas solo. Amén."
+    },
+    {
+      "week": 3,
       "day": 3,
       "move": "Deliver",
       "virtue": "generosity",
