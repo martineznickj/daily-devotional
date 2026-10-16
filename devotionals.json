@@ -2,6 +2,43 @@
   "devotionals": [
     {
       "week": 3,
+      "day": 5,
+      "move": "Shape",
+      "virtue": "clarity",
+      "theme": "Covenant",
+      "readings": [
+        {
+          "ref": "Genesis 9:13",
+          "text": "I have set my bow in the cloud, and it shall be a sign of the covenant between me and the earth.",
+          "es_ref": "Génesis 9:13",
+          "es_text": "Mi arco he puesto en las nubes, el cual será por señal del pacto entre mí y la tierra."
+        },
+        {
+          "ref": "Genesis 15:6",
+          "text": "And he believed the Lord, and he counted it to him as righteousness.",
+          "es_ref": "Génesis 15:6",
+          "es_text": "Y creyó a Jehová, y le fue contado por justicia."
+        },
+        {
+          "ref": "Jeremiah 31:33",
+          "text": "I will put my law within them, and I will write it on their hearts. And I will be their God, and they shall be my people.",
+          "es_ref": "Jeremías 31:33",
+          "es_text": "Daré mi ley en su mente, y la escribiré en su corazón; y yo seré a ellos por Dios, y ellos me serán por pueblo."
+        }
+      ],
+      "word": "Shape is the move that asks how one piece fits the whole. So today hold the covenants up to the light and look at their outline.\n\nA covenant isn't a contract. A contract says, you do your part and I'll do mine, and if you break it we're done. A covenant in the Bible is closer to a family bond. God binds himself first. That's the shape of the thing.\n\nNow watch the sign move. With Noah, God hangs a bow in the cloud, outside us, where anyone can see it. With Abraham there's no object at all, just a promise spoken in the dark, and Abraham believes it, and God counts it to him as righteousness. The bond now lives in trust, not in something you can point at. Then Jeremiah says God will write the law on our hearts. The sign has moved from out there to in here.\n\nThat's the whole outline. The Bible keeps telling one story: God moving closer, every covenant a step nearer, until the new one lands where you actually live, on the inside. You aren't reading six separate agreements. You're reading one long movement of God toward people, and the sign of it slowly turning inward.\n\nThat's the clarity Shape gives. Hold this piece against the whole and it stops looking like a list. It looks like a staircase.",
+      "apply": "Think of one promise someone made you that they didn't have to keep, or one you made and meant. Where did it live, out loud in a room or on the inside? A covenant with God starts on the inside, written on the heart, and it's the same shape now as it was for Jeremiah. Where do you keep yours?",
+      "prayer": "Lord, you keep moving closer, and I keep forgetting how near you've already come. Write your word on the inside of me, not just on the page. Thank you that you bound yourself to me before I ever held up my end.",
+      "date": "2026-10-16",
+      "es_theme": "Pacto",
+      "es_move": "Formar",
+      "es_virtue": "claridad",
+      "es_word": "Formar es el movimiento que pregunta cómo encaja una pieza en el todo. Así que hoy levanta los pactos contra la luz y mira su contorno.\n\nUn pacto no es un contrato. Un contrato dice: tú haces tu parte y yo la mía, y si lo rompes, se acabó. Un pacto en la Biblia se parece más a un vínculo de familia. Dios se ata primero a sí mismo. Esa es la forma de la cosa.\n\nAhora mira cómo se mueve la señal. Con Noé, Dios cuelga un arco en la nube, fuera de nosotros, donde cualquiera puede verlo. Con Abraham no hay ningún objeto, solo una promesa dicha en la oscuridad, y Abraham la cree, y Dios se lo cuenta por justicia. El vínculo ahora vive en la confianza, no en algo que puedas señalar. Luego Jeremías dice que Dios escribirá la ley en el corazón. La señal se movió de afuera hacia adentro.\n\nEse es todo el contorno. La Biblia sigue contando una sola historia: Dios acercándose, cada pacto un paso más cerca, hasta que el nuevo aterriza donde de verdad vives, en lo interior. No estás leyendo seis acuerdos sueltos. Estás leyendo un solo movimiento largo de Dios hacia las personas, y la señal de ese pacto girando despacio hacia adentro.\n\nEsa es la claridad que da Formar. Sostén esta pieza contra el todo y deja de parecer una lista. Parece una escalera.",
+      "es_apply": "Piensa en una promesa que alguien te hizo sin tener que cumplirla, o en una que hiciste tú y la dijiste en serio. ¿Dónde vivía, en voz alta en un cuarto o en lo interior? Un pacto con Dios empieza por dentro, escrito en el corazón, y hoy tiene la misma forma que tenía para Jeremías. ¿Dónde guardas el tuyo?",
+      "es_prayer": "Señor, sigues acercándote, y yo sigo olvidando lo cerca que ya has llegado. Escribe tu palabra en mi interior, no solo en la página. Gracias porque te ataste a mí antes de que yo cumpliera mi parte."
+    },
+    {
+      "week": 3,
       "day": 4,
       "move": "Count",
       "virtue": "honesty",
