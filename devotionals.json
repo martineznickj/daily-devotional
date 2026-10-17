@@ -2,6 +2,43 @@
   "devotionals": [
     {
       "week": 3,
+      "day": 6,
+      "move": "Flow",
+      "virtue": "patience",
+      "theme": "Covenant",
+      "readings": [
+        {
+          "ref": "Genesis 9:13",
+          "text": "I have set my bow in the cloud, and it shall be a sign of the covenant between me and the earth.",
+          "es_ref": "Génesis 9:13",
+          "es_text": "Mi arco he puesto en las nubes, el cual será por señal del pacto entre mí y la tierra."
+        },
+        {
+          "ref": "Genesis 15:17",
+          "text": "When the sun had gone down and it was dark, behold, a smoking fire pot and a flaming torch passed between these pieces.",
+          "es_ref": "Génesis 15:17",
+          "es_text": "Y sucedió que puesto el sol, y ya oscurecido, se veía un horno humeando, y una antorcha de fuego que pasaba por entre los animales divididos."
+        },
+        {
+          "ref": "Jeremiah 31:33",
+          "text": "I will put my law within them, and I will write it on their hearts. And I will be their God, and they shall be my people.",
+          "es_ref": "Jeremías 31:33",
+          "es_text": "Daré mi ley en su mente, y la escribiré en su corazón; y yo seré a ellos por Dios, y ellos me serán por pueblo."
+        }
+      ],
+      "word": "Read these three passages slowly and something shows up. God is the one doing all the talking. In Genesis 9 He sets a bow in the cloud and says the covenant is His, not ours to hold up. In Genesis 15 He walks alone between the cut animals while Abram sleeps. And in Jeremiah, He says He will write His law on our hearts. Not on stone this time. Inside us.\n\nThat is the rhythm of the whole Bible. God promises. People break it. God comes back with a bigger promise. Over and over, from Noah to Abraham to the prophets. Flow is the move of patience, and this is the patient pattern of God. He never says that's it, I'm done. He makes another covenant.\n\nNotice the timing too. No covenant is random. Each one widens. Noah gets one family, then Abraham one nation, until Jeremiah hears a promise for every heart. The beat slows down and goes deeper, like a song building. The new covenant is where it lands. Not \"you will obey,\" but \"I will put it in you.\" God stops asking us to hold the rope from our side alone and takes both ends Himself.\n\nSo today Flow asks you to feel the pattern instead of just reading it. Think of a place where God kept showing up after you broke something. That is not luck. That is the same covenant rhythm. He is still keeping it.",
+      "apply": "Pick one thing you have kept trying and failing at. Do not try to fix it today. Just notice that God has kept coming back to you anyway. That is the covenant pattern, and it is still running.",
+      "prayer": "Lord, thank you that the covenant never depended on me keeping it perfectly. Teach me to rest in the pattern of your patience. Write your law on my heart today.",
+      "date": "2026-10-17",
+      "es_theme": "Pacto",
+      "es_move": "Fluir",
+      "es_virtue": "paciencia",
+      "es_word": "Lee estos tres pasajes despacio y algo aparece. Dios es el que habla todo el tiempo. En Génesis 9 pone su arco en las nubes y dice que el pacto es suyo, no nuestro para sostenerlo. En Génesis 15 camina solo entre los animales partidos mientras Abram duerme. Y en Jeremías dice que escribirá su ley en nuestro corazón. Ya no en piedra. Dentro de nosotros.\n\nEse es el ritmo de toda la Biblia. Dios promete. El pueblo lo rompe. Dios vuelve con una promesa más grande. Una y otra vez, de Noé a Abraham y a los profetas. Fluir es el movimiento de la paciencia, y este es el patrón paciente de Dios. Él nunca dice hasta aquí llegué. Hace otro pacto.\n\nFíjate también en el tiempo. Ningún pacto es al azar. Cada uno se ensancha. Noé recibe una familia, luego Abraham una nación, hasta que Jeremías escucha una promesa para todo corazón. El ritmo se vuelve más lento y más hondo, como una canción que va creciendo. El nuevo pacto es donde aterriza. No dice \"obedecerás\" sino \"lo pondré en ti\". Dios deja de pedirnos que sostengamos la cuerda solos y toma los dos extremos.\n\nAsí que hoy Fluir te invita a sentir el patrón en vez de solo leerlo. Piensa en un lugar donde Dios siguió apareciendo después de que rompiste algo. Eso no es suerte. Es el mismo ritmo del pacto. Él lo sigue cumpliendo.",
+      "es_apply": "Elige una cosa que has intentado una y otra vez y te ha fallado. No trates de arreglarla hoy. Solo nota que Dios ha seguido volviendo a ti de todos modos. Ese es el patrón del pacto, y sigue funcionando.",
+      "es_prayer": "Señor, gracias porque el pacto nunca dependió de que yo lo cumpliera perfectamente. Enséñame a descansar en el patrón de tu paciencia. Escribe tu ley en mi corazón hoy."
+    },
+    {
+      "week": 3,
       "day": 5,
       "move": "Shape",
       "virtue": "clarity",
