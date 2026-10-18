@@ -2,6 +2,43 @@
   "devotionals": [
     {
       "week": 3,
+      "day": 7,
+      "move": "Zoom",
+      "virtue": "perspective",
+      "theme": "Covenant",
+      "readings": [
+        {
+          "ref": "Genesis 9:13",
+          "text": "I have set my bow in the cloud, and it shall be a sign of the covenant between me and the earth.",
+          "es_ref": "Génesis 9:13",
+          "es_text": "Mi arco he puesto en las nubes, el cual será por señal del pacto entre mí y la tierra."
+        },
+        {
+          "ref": "Genesis 15:6",
+          "text": "And he believed the LORD, and he counted it to him as righteousness.",
+          "es_ref": "Génesis 15:6",
+          "es_text": "Y creyó a Jehová, y le fue contado por justicia."
+        },
+        {
+          "ref": "Jeremiah 31:33",
+          "text": "For this is the covenant that I will make with the house of Israel after those days, declares the LORD: I will put my law within them, and I will write it on their hearts. And I will be their God, and they shall be my people.",
+          "es_ref": "Jeremías 31:33",
+          "es_text": "Daré mi ley en su mente, y la escribiré en su corazón; y yo seré a ellos por Dios, y ellos me serán por pueblo."
+        }
+      ],
+      "word": "Zoom is the move for the seventh day, when you stop staring at one verse and pull back far enough to see the whole thing. This week you read three covenants. A rainbow over Noah's wet world. Abram asleep while a smoking pot passed between the cut animals. Then a promise written on hearts instead of stone. Up close they look like three separate deals. Step back and they become one long sentence.\n\nGod keeps reaching for people, and each time He reaches, He reaches further. With Noah He promises never to flood the earth again. With Abraham He promises a family, a land, and a blessing for every nation on earth. With Jeremiah He promises something new: a covenant that can't be broken, because He'll write it inside you and forgive what you've done. Each promise takes over where the last one stopped. None of them gets thrown away.\n\nZoom out and you see a God who doesn't quit. People break every covenant they touch, including the one He writes on our hearts. And still He comes back with a bigger promise, until finally He does it Himself in Jesus and stays. The whole book hangs on that. Not rules you keep. A person who keeps His word.\n\nThat's the view from the height. The details you gathered all week are still true. But from up here they make a shape: a God binding Himself to people who keep walking away, and refusing to let go.",
+      "apply": "Pick one promise of God you've been holding loosely. Today, write it down and put it where you'll see it all week. You're not the one keeping the covenant. He is. Your part is to keep looking at the one who made it.",
+      "prayer": "Lord, when I get lost in the details, help me step back and see what You've been doing all along. You keep Your word even when I don't keep mine. Thank You for a covenant that rests on You and not on me.",
+      "date": "2026-10-18",
+      "es_theme": "El Pacto",
+      "es_move": "Alejar",
+      "es_virtue": "perspectiva",
+      "es_word": "Alejar es el movimiento del séptimo día, cuando dejas de mirar un solo versículo y te retiras lo suficiente para verlo todo. Esta semana leíste tres pactos. Un arcoíris sobre el mundo mojado de Noé. Abram dormido mientras una antorcha de fuego pasaba entre los animales partidos. Luego una promesa escrita en el corazón en lugar de en piedra. De cerca parecen tres acuerdos distintos. Retrocede y se vuelven una sola frase larga.\n\nDios no deja de buscar a la gente, y cada vez que se acerca, se acerca más. Con Noé promete no volver a inundar la tierra. Con Abraham promete una familia, una tierra y una bendición para todas las naciones de la tierra. Con Jeremías promete algo nuevo: un pacto que no se puede romper, porque Él lo escribirá dentro de ti y perdonará lo que has hecho. Cada promesa retoma donde la anterior se detuvo. Ninguna se descarta.\n\nAléjate y verás a un Dios que no se rinde. La gente rompe cada pacto que toca, incluso el que Él escribe en nuestro corazón. Y aun así Él vuelve con una promesa más grande, hasta que al fin lo hace Él mismo en Jesús y se queda. Todo el libro cuelga de eso. No de reglas que tú cumples. De una persona que cumple su palabra.\n\nEsa es la vista desde lo alto. Los detalles que reuniste toda la semana siguen siendo ciertos. Pero desde aquí forman una figura: un Dios que se ata a un pueblo que se sigue yendo, y que se niega a soltarlo.",
+      "es_apply": "Escoge una promesa de Dios que has estado sosteniendo con poca fuerza. Hoy escríbela y ponla donde la veas toda la semana. Tú no eres quien sostiene el pacto. Él lo sostiene. Tu parte es seguir mirando al que lo hizo.",
+      "es_prayer": "Señor, cuando me pierdo en los detalles, ayúdame a retroceder y ver lo que has estado haciendo todo este tiempo. Tú cumples tu palabra aunque yo no cumpla la mía. Gracias por un pacto que descansa en ti y no en mí."
+    },
+    {
+      "week": 3,
       "day": 6,
       "move": "Flow",
       "virtue": "patience",
