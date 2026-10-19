@@ -1,6 +1,49 @@
 {
   "devotionals": [
     {
+      "week": 4,
+      "day": 1,
+      "move": "Gather",
+      "virtue": "humility",
+      "theme": "The Core Philosophy",
+      "readings": [
+        {
+          "ref": "Romans 3:23",
+          "text": "for all have sinned and fall short of the glory of God,",
+          "es_ref": "Romanos 3:23",
+          "es_text": "por cuanto todos pecaron, y están destituidos de la gloria de Dios,"
+        },
+        {
+          "ref": "Ephesians 2:8-9",
+          "text": "For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast.",
+          "es_ref": "Efesios 2:8-9",
+          "es_text": "Porque por gracia sois salvos por medio de la fe; y esto no de vosotros, pues es don de Dios; no por obras, para que nadie se gloríe."
+        },
+        {
+          "ref": "Matthew 22:37-39",
+          "text": "And he said to him, 'You shall love the Lord your God with all your heart and with all your soul and with all your mind. This is the great and first commandment. And a second is like it: You shall love your neighbor as yourself.'",
+          "es_ref": "Mateo 22:37-39",
+          "es_text": "Jesús le dijo: Amarás al Señor tu Dios con todo tu corazón, y con toda tu alma, y con toda tu mente. Este es el primero y grande mandamiento. Y el segundo es semejante: Amarás a tu prójimo como a ti mismo."
+        },
+        {
+          "ref": "2 Corinthians 5:17",
+          "text": "Therefore, if anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come.",
+          "es_ref": "2 Corintios 5:17",
+          "es_text": "De modo que si alguno está en Cristo, nueva criatura es; las cosas viejas pasaron; he aquí todas son hechas nuevas."
+        }
+      ],
+      "word": "Gather means humility, and humility starts by letting the text say what it actually says. Not what you hope it says, not what you remember hearing. So read the four verses again, slow, in order, and just watch what they claim.\n\nEvery worldview has to answer a few questions. Where did we come from? What's wrong? How is it fixed? What are we for? Where are we headed? You can answer those with big words, but these four verses hand you the answers in plain sentences.\n\nThe problem first. Romans 3:23. All have sinned and fall short of the glory of God. Nobody climbs up to the standard. That's the honest starting place.\n\nThe fix. Ephesians 2:8-9. Saved by grace through faith. It's a gift, not wages. So nobody can boast about earning it.\n\nThe point. Matthew 22:37-39. Love God with everything you've got, and love your neighbor like you love yourself. That isn't a warm feeling. That's the whole thing aimed at two targets.\n\nThe destination. 2 Corinthians 5:17. In Christ, a new creation. The old is gone, the new is here.\n\nNotice what gathering does. It stops you from running to your favorite verse and skipping the rest. All four sit side by side. Problem, gift, purpose, new life. If you only keep the grace verse you forget the problem. If you only keep the problem you forget the gift. Humility is reading them all and letting each one stand.",
+      "apply": "Pick one of the five worldview questions you've never actually asked yourself out loud. Sit with it for two minutes before you answer. Then write down what you'd say, and hold it up against these four verses. Where do they disagree with you, and where do they agree?",
+      "prayer": "Lord, slow me down. Teach me to read what you actually said instead of what I came expecting to find. Give me the humility to take in the whole thing, not just the parts I like. Amen.",
+      "date": "2026-10-19",
+      "es_theme": "La Filosofía Central",
+      "es_move": "Reunir",
+      "es_virtue": "humildad",
+      "es_word": "Reunir es humildad, y la humildad empieza dejando que el texto diga lo que realmente dice. No lo que esperas que diga, no lo que recuerdas haber oído. Así que lee los cuatro versículos otra vez, despacio, en orden, y observa lo que afirman.\n\nToda cosmovisión tiene que responder unas cuantas preguntas. ¿De dónde venimos? ¿Qué está mal? ¿Cómo se arregla? ¿Para qué estamos? ¿Hacia dónde vamos? Puedes responderlas con palabras grandilocuentes, pero estos cuatro versículos te dan las respuestas en frases sencillas.\n\nPrimero el problema. Romanos 3:23. Todos pecaron y están destituidos de la gloria de Dios. Nadie sube hasta la medida. Ese es el punto de partida honesto.\n\nEl arreglo. Efesios 2:8-9. Salvos por gracia por medio de la fe. Es un regalo, no un salario. Así que nadie puede presumir de haberlo ganado.\n\nEl propósito. Mateo 22:37-39. Ama a Dios con todo lo que tienes, y ama a tu prójimo como te amas a ti mismo. Eso no es un sentimiento tibio. Es todo, apuntando a dos blancos.\n\nEl destino. 2 Corintios 5:17. En Cristo, nueva criatura. Lo viejo pasó, lo nuevo llegó.\n\nMira lo que hace reunir. Te detiene para que no corras a tu versículo favorito y te saltes el resto. Los cuatro están lado a lado. Problema, regalo, propósito, vida nueva. Si te quedas solo con el de la gracia, olvidas el problema. Si te quedas solo con el problema, olvidas el regalo. La humildad es leerlos todos y dejar que cada uno se sostenga.",
+      "es_apply": "Elige una de las cinco preguntas que nunca te has hecho en voz alta. Siéntate con ella dos minutos antes de responder. Luego escribe lo que dirías y compáralo con estos cuatro versículos. ¿Dónde te contradicen, y dónde te dan la razón?",
+      "es_prayer": "Señor, hazme más lento. Enséñame a leer lo que realmente dijiste, en vez de lo que llegué esperando encontrar. Dame la humildad de recibir todo el conjunto, no solo las partes que me gustan. Amén."
+    },
+    {
       "week": 3,
       "day": 7,
       "move": "Zoom",
