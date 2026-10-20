@@ -2,6 +2,49 @@
   "devotionals": [
     {
       "week": 4,
+      "day": 2,
+      "move": "Filter",
+      "virtue": "discernment",
+      "theme": "The Core Philosophy",
+      "readings": [
+        {
+          "ref": "Romans 3:23",
+          "text": "for all have sinned and fall short of the glory of God,",
+          "es_ref": "Romanos 3:23",
+          "es_text": "por cuanto todos pecaron, y están destituidos de la gloria de Dios,"
+        },
+        {
+          "ref": "Ephesians 2:8-9",
+          "text": "For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast.",
+          "es_ref": "Efesios 2:8-9",
+          "es_text": "Porque por gracia sois salvos por medio de la fe; y esto no de vosotros, pues es don de Dios; no por obras, para que nadie se gloríe."
+        },
+        {
+          "ref": "Matthew 22:37-39",
+          "text": "And he said to him, 'You shall love the Lord your God with all your heart and with all your soul and with all your mind. This is the great and first commandment. And a second is like it: You shall love your neighbor as yourself.'",
+          "es_ref": "Mateo 22:37-39",
+          "es_text": "Jesús le dijo: Amarás al Señor tu Dios con todo tu corazón, y con toda tu alma, y con toda tu mente. Este es el primero y grande mandamiento. Y el segundo es semejante: Amarás a tu prójimo como a ti mismo."
+        },
+        {
+          "ref": "2 Corinthians 5:17",
+          "text": "Therefore, if anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come.",
+          "es_ref": "2 Corintios 5:17",
+          "es_text": "De modo que si alguno está en Cristo, nueva criatura es; las cosas viejas pasaron; he aquí todas son hechas nuevas."
+        }
+      ],
+      "word": "Every worldview has to answer the same five questions. Where did we come from? What's wrong with us? How do we get fixed? How should we live? What are we becoming? The Bible's answer is short, and these four verses carry it. You came from a good God, but something broke. Romans 3:23 names what broke: all have sinned, all fall short. That's the honest diagnosis, no exceptions.\n\nThen Ephesians 2 gives the fix, and this is where today's move earns its keep. Filter means discernment, knowing the difference between what a thing means and what it doesn't. Paul does the filtering right inside the verse: saved by grace, through faith, not by works, so that no one may boast. Grace means the fix is a gift. Works means the fix is something you earn. Those are two different answers to the same question, and Paul draws the line hard. You don't climb up to God by effort. He comes down to you.\n\nMatthew 22 tells you how to live once you know that: love God with everything, and your neighbor as yourself. And 2 Corinthians 5:17 tells you what you're becoming. A new creation. The old passes, the new comes.\n\nDiscernment is mostly just refusing to trade the gift for a paycheck. The moment you hear a voice that says earn it, you're not hearing the gospel.",
+      "apply": "Where are you still trying to earn what God already gave? Name one thing you're treating like a works project, and practice receiving it as grace this week.",
+      "prayer": "Father, teach me to filter. Keep me from trading your gift for a list of things I do. Thank you that the old is gone and the new has come. Amen.",
+      "date": "2026-10-20",
+      "es_theme": "La Filosofía Central",
+      "es_move": "Filtrar",
+      "es_virtue": "discernimiento",
+      "es_word": "Cada visión del mundo tiene que responder las mismas cinco preguntas. ¿De dónde venimos? ¿Qué anda mal en nosotros? ¿Cómo se arregla? ¿Cómo debemos vivir? ¿En qué nos convertimos? La respuesta de la Biblia es corta, y estos cuatro versículos la llevan. Viniste de un Dios bueno, pero algo se rompió. Romanos 3:23 dice qué se rompió: todos pecaron, todos quedan cortos. Ese es el diagnóstico honesto, sin excepciones.\n\nLuego Efesios 2 da el arreglo, y aquí es donde el movimiento de hoy gana su lugar. Filtrar significa discernimiento, saber la diferencia entre lo que algo quiere decir y lo que no quiere decir. Pablo hace el filtro dentro del propio versículo: salvos por gracia, por medio de la fe, no por obras, para que nadie se gloríe. Gracia significa que el arreglo es un regalo. Obras significa que el arreglo es algo que te ganas. Son dos respuestas distintas a la misma pregunta, y Pablo traza la línea con fuerza. No subes hasta Dios por esfuerzo. Él baja hasta ti.\n\nMateo 22 te dice cómo vivir una vez que sabes eso: ama a Dios con todo, y a tu prójimo como a ti mismo. Y 2 Corintios 5:17 te dice en qué te conviertes. Una nueva criatura. Lo viejo pasa, lo nuevo viene.\n\nEl discernimiento es sobre todo negarte a cambiar el regalo por un sueldo. En el momento en que oyes una voz que dice gánatelo, no estás oyendo el evangelio.",
+      "es_apply": "¿Dónde sigues intentando ganarte lo que Dios ya te dio? Nombra una cosa que estás tratando como un proyecto de obras, y practica recibirla como gracia esta semana.",
+      "es_prayer": "Padre, enséñame a filtrar. No dejes que cambie tu regalo por una lista de cosas que hago. Gracias porque lo viejo se fue y lo nuevo llegó. Amén."
+    },
+    {
+      "week": 4,
       "day": 1,
       "move": "Gather",
       "virtue": "humility",
