@@ -2,6 +2,37 @@
   "devotionals": [
     {
       "week": 4,
+      "day": 3,
+      "move": "Deliver",
+      "virtue": "generosity",
+      "theme": "The Core Philosophy",
+      "readings": [
+        {
+          "ref": "Ephesians 2:8-9",
+          "text": "For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast.",
+          "es_ref": "Efesios 2:8-9",
+          "es_text": "Porque por gracia sois salvos por medio de la fe; y esto no de vosotros, pues es don de Dios; no por obras, para que nadie se gloríe."
+        },
+        {
+          "ref": "Matthew 22:37-39",
+          "text": "And he said to him, 'You shall love the Lord your God with all your heart and with all your soul and with all your mind. This is the great and first commandment. And a second is like it: You shall love your neighbor as yourself.'",
+          "es_ref": "Mateo 22:37-39",
+          "es_text": "Jesús le dijo: Amarás al Señor tu Dios con todo tu corazón, y con toda tu alma, y con toda tu mente. Este es el primero y grande mandamiento. Y el segundo es semejante: Amarás a tu prójimo como a ti mismo."
+        }
+      ],
+      "word": "Deliver is the move where you stop keeping the idea to yourself and hand it over, plain enough that someone else could repeat it back. So let's do that with the whole book. If you had to state the core philosophy of the Bible in a few plain lines, here's what you'd say.\n\nYou're not okay on your own. You fall short. That's not a mood, it's a diagnosis, and the book is honest about it. But God doesn't leave you there. He saves you as a gift, not as a paycheck. You can't earn it, so you can't brag about it either. That's Ephesians, in plain words.\n\nAnd once you've got the gift, it turns into a direction. Love God with everything you are. Love the person next to you the way you'd want to be loved. That's the whole law folded down to two commands, and Jesus said those two are the point of everything.\n\nPut it together and you get the core: grace received, then love given away. You don't climb up to God. He comes down to you, and then you turn and hand it to whoever's in front of you. That's generosity, which is exactly what this move is named after. If you can say that in your own words, you've delivered the heart of the whole thing.",
+      "apply": "Find someone today, a kid or a coworker, and explain what the Bible is about in two plain sentences, using no church words. If they can repeat it back, you delivered it.",
+      "prayer": "Father, thank you that the gospel is simple enough for a child and deep enough for a lifetime. Give me plain words today, and a generous heart to share them. Amen.",
+      "date": "2026-10-21",
+      "es_theme": "La Filosofía Central",
+      "es_move": "Entregar",
+      "es_virtue": "generosidad",
+      "es_word": "Entregar es el movimiento en el que dejas de guardarte la idea y se la das a alguien, tan claro que la otra persona podría repetirla. Hagamos eso con todo el libro. Si tuvieras que decir la filosofía central de la Biblia en unas pocas líneas sencillas, dirías esto.\n\nPor ti mismo no estás bien. Te quedas corto. No es un ánimo, es un diagnóstico, y el libro es honesto al respecto. Pero Dios no te deja ahí. Te salva como un regalo, no como un sueldo. No puedes ganarlo, así que tampoco puedes presumir de él. Eso es Efesios, con palabras llanas.\n\nY una vez que tienes el regalo, se convierte en una dirección. Ama a Dios con todo lo que eres. Ama a la persona que tienes al lado como quisieras que te amaran a ti. Esa es toda la ley doblada en dos mandatos, y Jesús dijo que esos dos son el punto de todo.\n\nJúntalo y tienes el centro: gracia recibida, y luego amor regalado. No subes hasta Dios. Él baja hasta ti, y entonces tú te das la vuelta y se lo pasas a quien tengas delante. Eso es generosidad, que es justo de lo que se trata este movimiento. Si puedes decirlo con tus palabras, ya entregaste el corazón de todo.",
+      "es_apply": "Busca hoy a alguien, un hijo o un compañero de trabajo, y explícale de qué trata la Biblia en dos frases sencillas, sin palabras de iglesia. Si te lo puede repetir, lo entregaste.",
+      "es_prayer": "Padre, gracias porque el evangelio es tan sencillo que un niño lo entiende y tan profundo que dura toda la vida. Dame hoy palabras llanas, y un corazón generoso para compartirlas. Amén."
+    },
+    {
+      "week": 4,
       "day": 2,
       "move": "Filter",
       "virtue": "discernment",
