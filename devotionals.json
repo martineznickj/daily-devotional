@@ -2,6 +2,49 @@
   "devotionals": [
     {
       "week": 4,
+      "day": 4,
+      "move": "Count",
+      "virtue": "honesty",
+      "theme": "The Core Philosophy",
+      "readings": [
+        {
+          "ref": "Romans 3:23",
+          "text": "for all have sinned and fall short of the glory of God",
+          "es_ref": "Romanos 3:23",
+          "es_text": "por cuanto todos pecaron, y están destituidos de la gloria de Dios,"
+        },
+        {
+          "ref": "Ephesians 2:8-9",
+          "text": "For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast.",
+          "es_ref": "Efesios 2:8-9",
+          "es_text": "Porque por gracia sois salvos por medio de la fe; y esto no de vosotros, pues es don de Dios; no por obras, para que nadie se gloríe."
+        },
+        {
+          "ref": "Matthew 22:37-39",
+          "text": "You shall love the Lord your God with all your heart and with all your soul and with all your mind. This is the great and first commandment. And a second is like it: You shall love your neighbor as yourself.",
+          "es_ref": "Mateo 22:37-39",
+          "es_text": "Jesús le dijo: Amarás al Señor tu Dios con todo tu corazón, y con toda tu alma, y con toda tu mente. Este es el primero y grande mandamiento. Y el segundo es semejante: Amarás a tu prójimo como a ti mismo."
+        },
+        {
+          "ref": "2 Corinthians 5:17",
+          "text": "Therefore, if anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come.",
+          "es_ref": "2 Corintios 5:17",
+          "es_text": "De modo que si alguno está en Cristo, nueva criatura es; las cosas viejas pasaron; he aquí todas son hechas nuevas."
+        }
+      ],
+      "word": "Every worldview has to answer a handful of questions. Where we came from, who we are, what's broken, how it gets fixed, where we're headed. Count them, and you land on five. The Bible doesn't dodge any of them. It answers the whole set with a few verses you can hold in one hand.\n\nThe Count move is about honesty, and honesty means noticing what the text actually numbers and repeats. So look at the first reading. All have sinned. Not most, not the people over there. All. That diagnosis is total, and it's the one thing a worldview has to get right, because if the problem is smaller than it really is, the fix will be too.\n\nThen watch grace count differently. Ephesians 2:8-9 stacks up grace, faith, gift, and then crosses one thing off the list: works. Not a result of works, it says, and says again. You can't tally your way to this. It's a gift, and a gift doesn't come with a ledger.\n\nMatthew 22 counts to two. Love God. Love your neighbor. The whole law, Jesus says, hangs on those two commands, not ten or six hundred thirteen. Two, and they hold all of it.\n\nAnd 2 Corinthians counts a before and an after. Old, new. Passed away, come. If you're in Christ, the whole tally resets. That's the core philosophy in one honest count: all of us fell short, grace fixed it without a ledger, love is the whole response, and the old has already given way to the new.",
+      "apply": "Do one honest count today. Find the one place you're still keeping a ledger, the thing you think you have to earn back. Then read Ephesians 2:8-9 again and notice what the tally looks like from God's side.",
+      "prayer": "Lord, you count me differently than I count myself. Teach me to take the honest number, all of it, and hand it to you, and to live like the old has already passed and the new has already come. Amen.",
+      "date": "2026-10-22",
+      "es_theme": "La Filosofía Central",
+      "es_move": "Contar",
+      "es_virtue": "honestidad",
+      "es_word": "Cada cosmovisión tiene que responder unas cuantas preguntas. De dónde venimos, quiénes somos, qué está roto, cómo se arregla, hacia dónde vamos. Cuéntalas y llegas a cinco. La Biblia no esquiva ninguna. Responde todo el conjunto con unos pocos versículos que caben en una mano.\n\nEl movimiento de Contar tiene que ver con la honestidad, y la honestidad es fijarse en lo que el texto de verdad enumera y repite. Mira la primera lectura. Todos pecaron. No la mayoría, no la gente de allá. Todos. Ese diagnóstico es total, y es lo único que una cosmovisión tiene que acertar, porque si el problema es más pequeño de lo que en realidad es, la solución se quedará corta.\n\nLuego observa cómo la gracia cuenta de otra manera. Efesios 2:8-9 apila gracia, fe, don, y después tacha una cosa de la lista: las obras. No por obras, dice, y lo repite. No puedes sumar tu camino hasta esto. Es un regalo, y un regalo no viene con un libro de cuentas.\n\nMateo 22 cuenta hasta dos. Ama a Dios. Ama a tu prójimo. Toda la ley, dice Jesús, cuelga de esos dos mandamientos, no de diez ni de seiscientos trece. Dos, y sostienen todo.\n\nY 2 Corintios cuenta un antes y un después. Viejo, nuevo. Pasaron, vinieron. Si estás en Cristo, toda la cuenta se reinicia. Esa es la filosofía central en un solo conteo honesto: todos quedamos cortos, la gracia lo arregló sin libro de cuentas, el amor es la respuesta completa, y lo viejo ya le cedió el paso a lo nuevo.",
+      "es_apply": "Haz un conteo honesto hoy. Encuentra el único lugar donde todavía llevas un libro de cuentas, eso que crees que tienes que volver a ganar. Luego lee Efesios 2:8-9 otra vez y fíjate cómo se ve la cuenta desde el lado de Dios.",
+      "es_prayer": "Señor, tú me cuentas distinto de como yo me cuento. Enséñame a tomar la cifra honesta, toda, y a entregártela, y a vivir como si lo viejo ya hubiera pasado y lo nuevo ya hubiera llegado. Amén."
+    },
+    {
+      "week": 4,
       "day": 3,
       "move": "Deliver",
       "virtue": "generosity",
