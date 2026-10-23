@@ -2,6 +2,49 @@
   "devotionals": [
     {
       "week": 4,
+      "day": 5,
+      "move": "Shape",
+      "virtue": "clarity",
+      "theme": "The Core Philosophy",
+      "readings": [
+        {
+          "ref": "Romans 3:23",
+          "text": "for all have sinned and fall short of the glory of God,",
+          "es_ref": "Romanos 3:23",
+          "es_text": "por cuanto todos pecaron, y están destituidos de la gloria de Dios,"
+        },
+        {
+          "ref": "Ephesians 2:8-9",
+          "text": "For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast.",
+          "es_ref": "Efesios 2:8-9",
+          "es_text": "Porque por gracia sois salvos por medio de la fe; y esto no de vosotros, pues es don de Dios; no por obras, para que nadie se gloríe."
+        },
+        {
+          "ref": "Matthew 22:37-39",
+          "text": "And he said to him, 'You shall love the Lord your God with all your heart and with all your soul and with all your mind. This is the great and first commandment. And a second is like it: You shall love your neighbor as yourself.'",
+          "es_ref": "Mateo 22:37-39",
+          "es_text": "Jesús le dijo: Amarás al Señor tu Dios con todo tu corazón, y con toda tu alma, y con toda tu mente. Este es el primero y grande mandamiento. Y el segundo es semejante: Amarás a tu prójimo como a ti mismo."
+        },
+        {
+          "ref": "2 Corinthians 5:17",
+          "text": "Therefore, if anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come.",
+          "es_ref": "2 Corintios 5:17",
+          "es_text": "De modo que si alguno está en Cristo, nueva criatura es; las cosas viejas pasaron; he aquí todas son hechas nuevas."
+        }
+      ],
+      "word": "The Shape move asks one question: how does this piece fit the whole story? So before we read a single verse this week, we lay four cards on the table and see what picture they make.\n\nCard one, Romans 3:23. Everyone is in the same boat. We all fall short, which is a gentler way of saying we missed. Not some of us. All of us. That's the problem, stated flat, with no blame pointed at anyone else.\n\nCard two, Ephesians 2:8-9. Here's the fix, and notice what the fix isn't. It isn't effort. It's grace through faith, a gift, so nobody gets to brag about earning it. The direction of the whole thing reverses here. Everything else in life says work harder. This says receive.\n\nCard three, Matthew 22:37-39. With the problem and the fix in place, we get the point. Love God with everything you've got, and love the person in front of you. Every other rule hangs off those two.\n\nCard four, 2 Corinthians 5:17. What actually happens to a person when this lands. The old passes away. Something new comes. Not improved, not patched. New.\n\nProblem, fix, point, change. Four questions every worldview has to answer: what's wrong, how is it fixed, what's it for, and who do I become. Most systems skip one. This one doesn't.",
+      "apply": "You already carry a mental map, a picture of how your own life hangs together. Try writing your version of those four lines: what's wrong, what's the fix, what's the point, what changes. Then hold it next to these four verses and see where they differ. You don't have to fix anything today. Just notice it.",
+      "prayer": "God, I don't always see the whole shape. Show me where I've got the order wrong, and where I'm still trying to earn what you already gave. Make me new, and teach me to love you and the person in front of me today.",
+      "date": "2026-10-23",
+      "es_theme": "La Filosofía Central",
+      "es_move": "Formar",
+      "es_virtue": "claridad",
+      "es_word": "El movimiento de Formar hace una sola pregunta: ¿cómo encaja esta pieza en la historia completa? Así que antes de leer un solo versículo esta semana, ponemos cuatro cartas sobre la mesa y vemos qué dibujo forman.\n\nCarta uno, Romanos 3:23. Todos estamos en el mismo barco. Todos nos quedamos cortos, que es una forma suave de decir que fallamos. No algunos de nosotros. Todos. Ese es el problema, dicho sin rodeos, sin señalar a nadie más.\n\nCarta dos, Efesios 2:8-9. Aquí está la solución, y fíjate en lo que la solución no es. No es esfuerzo. Es gracia por medio de la fe, un regalo, para que nadie se gloríe de haberlo ganado. Aquí se invierte la dirección de todo. El resto de la vida dice esfuérzate más. Esto dice recibe.\n\nCarta tres, Mateo 22:37-39. Con el problema y la solución en su lugar, llegamos al punto. Ama a Dios con todo lo que tienes, y ama a la persona que tienes delante. Todas las demás reglas cuelgan de esas dos.\n\nCarta cuatro, 2 Corintios 5:17. Lo que de verdad le pasa a una persona cuando esto aterriza. Lo viejo pasa. Algo nuevo llega. No mejorado, no remendado. Nuevo.\n\nProblema, solución, punto, cambio. Cuatro preguntas que toda cosmovisión tiene que responder: qué está mal, cómo se arregla, para qué sirve y en quién me convierto. La mayoría se salta una. Esta no.",
+      "es_apply": "Ya llevas un mapa mental, un dibujo de cómo se sostiene tu propia vida. Intenta escribir tu versión de esas cuatro líneas: qué está mal, cuál es la solución, cuál es el punto, qué cambia. Luego ponlo al lado de estos cuatro versículos y mira en qué se diferencian. No tienes que arreglar nada hoy. Solo obsérvalo.",
+      "es_prayer": "Dios, no siempre veo la forma completa. Muéstrame dónde tengo mal el orden, y dónde sigo tratando de ganar lo que ya me diste. Hazme nuevo, y enséñame a amarte a ti y a la persona que tengo delante hoy."
+    },
+    {
+      "week": 4,
       "day": 4,
       "move": "Count",
       "virtue": "honesty",
