@@ -2,6 +2,49 @@
   "devotionals": [
     {
       "week": 4,
+      "day": 6,
+      "move": "Flow",
+      "virtue": "patience",
+      "theme": "The Core Philosophy",
+      "readings": [
+        {
+          "ref": "Romans 3:23",
+          "text": "for all have sinned and fall short of the glory of God",
+          "es_ref": "Romanos 3:23",
+          "es_text": "por cuanto todos pecaron, y están destituidos de la gloria de Dios"
+        },
+        {
+          "ref": "Ephesians 2:8-9",
+          "text": "For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast.",
+          "es_ref": "Efesios 2:8-9",
+          "es_text": "Porque por gracia sois salvos por medio de la fe; y esto no de vosotros, pues es don de Dios; no por obras, para que nadie se gloríe."
+        },
+        {
+          "ref": "Matthew 22:37-39",
+          "text": "You shall love the Lord your God with all your heart and with all your soul and with all your mind. This is the great and first commandment. And a second is like it: You shall love your neighbor as yourself.",
+          "es_ref": "Mateo 22:37-39",
+          "es_text": "Amarás al Señor tu Dios con todo tu corazón, y con toda tu alma, y con toda tu mente. Este es el primero y grande mandamiento. Y el segundo es semejante: Amarás a tu prójimo como a ti mismo."
+        },
+        {
+          "ref": "2 Corinthians 5:17",
+          "text": "Therefore, if anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come.",
+          "es_ref": "2 Corintios 5:17",
+          "es_text": "De modo que si alguno está en Cristo, nueva criatura es; las cosas viejas pasaron; he aquí todas son hechas nuevas."
+        }
+      ],
+      "word": "Every worldview has to answer five questions, whether it admits it or not. Where do we come from. What's gone wrong. How it gets fixed. How we should live. Where it all ends. You can answer with a shrug, but a shrug is still an answer.\n\nWhat Flow notices is that these four verses aren't scattered. They line up, and the order does the teaching. Romans says we fall short of the glory of God. That buries the first answer inside the sentence: we were made for glory. Then comes the shortfall, the sin. Ephesians answers the fix: grace, through faith, not works, so no one can boast. Matthew answers how to live: love God with everything you have, and love your neighbor. And the ending: a new creation, the old gone.\n\nHear the beat. Made for glory, fell short, saved free, taught to love, made new. Grace comes before the command. That's the whole thing. You don't love your way into God's approval. You stand under a gift you couldn't earn, and then the commands stop being a ladder and turn into a direction. Love is the answer to grace, not the price of it.\n\nThe pattern asks for patience. When you run the answers backward, rules first and grace second, the whole thing seizes up. Let it flow the way it was written. Fall short, receive, love, become new. Say it slow until it becomes yours.",
+      "apply": "Think about the order you actually live in. Notice where you're trying to earn what's already been given. Spend today letting grace come first, and see what the commands feel like after that.",
+      "prayer": "Lord, I keep scrambling the order. Teach me to receive before I reach, to rest in the grace you gave so freely. Let love come out of the gift, not as a bid for it. Amen.",
+      "date": "2026-10-24",
+      "es_theme": "La Filosofía Central",
+      "es_move": "Fluir",
+      "es_virtue": "paciencia",
+      "es_word": "Toda cosmovisión tiene que responder cinco preguntas, lo admita o no. De dónde venimos. Qué salió mal. Cómo se arregla. Cómo debemos vivir. Dónde termina todo. Puedes responder con un encogimiento de hombros, pero el encogimiento también es una respuesta.\n\nLo que nota Fluir es que estos cuatro versículos no están sueltos. Se alinean, y el orden hace la enseñanza. Romanos dice que estamos destituidos de la gloria de Dios. Eso esconde la primera respuesta dentro de la frase: fuimos hechos para la gloria. Luego viene el quedarse cortos, el pecado. Efesios responde el arreglo: gracia, por la fe, no por obras, para que nadie se gloríe. Mateo responde cómo vivir: ama a Dios con todo lo que tienes, y ama a tu prójimo. Y el final: una criatura nueva, lo viejo quedó atrás.\n\nEscucha el pulso. Hechos para la gloria, quedamos cortos, salvados gratis, enseñados a amar, hechos nuevos. La gracia viene antes que el mandato. Eso es todo. No amas para ganarte la aprobación de Dios. Te paras bajo un regalo que no pudiste merecer, y entonces los mandatos dejan de ser una escalera y se vuelven una dirección. El amor es la respuesta a la gracia, no su precio.\n\nEl patrón pide paciencia. Cuando corres las respuestas al revés, primero las reglas y después la gracia, todo se traba. Déjalo fluir como fue escrito. Quedar corto, recibir, amar, hacerse nuevo. Dilo despacio hasta que se vuelva tuyo.",
+      "es_apply": "Piensa en el orden en el que de verdad vives. Nota dónde estás tratando de ganarte lo que ya te fue dado. Dedica hoy a dejar que la gracia venga primero, y mira cómo se sienten los mandatos después de eso.",
+      "es_prayer": "Señor, sigo enredando el orden. Enséñame a recibir antes de estirar la mano, a descansar en la gracia que diste tan gratis. Que el amor salga del regalo, no de una oferta para merecerlo. Amén."
+    },
+    {
+      "week": 4,
       "day": 5,
       "move": "Shape",
       "virtue": "clarity",
