@@ -2,6 +2,49 @@
   "devotionals": [
     {
       "week": 4,
+      "day": 7,
+      "move": "Zoom",
+      "virtue": "perspective",
+      "theme": "The Core Philosophy",
+      "readings": [
+        {
+          "ref": "Romans 3:23",
+          "text": "for all have sinned and fall short of the glory of God,",
+          "es_ref": "Romanos 3:23",
+          "es_text": "por cuanto todos pecaron, y están destituidos de la gloria de Dios,"
+        },
+        {
+          "ref": "Ephesians 2:8-9",
+          "text": "For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast.",
+          "es_ref": "Efesios 2:8-9",
+          "es_text": "Porque por gracia sois salvos por medio de la fe; y esto no de vosotros, pues es don de Dios; no por obras, para que nadie se gloríe."
+        },
+        {
+          "ref": "Matthew 22:37-39",
+          "text": "You shall love the Lord your God with all your heart and with all your soul and with all your mind. This is the great and first commandment. And a second is like it: You shall love your neighbor as yourself.",
+          "es_ref": "Mateo 22:37-39",
+          "es_text": "Amarás al Señor tu Dios con todo tu corazón, y con toda tu alma, y con toda tu mente. Este es el primero y grande mandamiento. Y el segundo es semejante: Amarás a tu prójimo como a ti mismo."
+        },
+        {
+          "ref": "2 Corinthians 5:17",
+          "text": "Therefore, if anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come.",
+          "es_ref": "2 Corintios 5:17",
+          "es_text": "De modo que si alguno está en Cristo, nueva criatura es; las cosas viejas pasaron; he aquí todas son hechas nuevas."
+        }
+      ],
+      "word": "Zoom means step way back until the separate verses stop looking separate. Do that with this week. Every worldview, whether anyone says so out loud or not, answers five questions. Where do we come from. What's gone wrong. How does it get fixed. How should we live. Where does it all end. You can dodge them with a shrug, but a shrug is still an answer. The way you live is your answer.\n\nThe Bible answers all five, and it hides the first answer inside the shortfall. Romans 3:23 says we fall short of the glory of God, which means we were made for it. We come from a Maker who meant us for glory. What's gone wrong is sin, all of us, no exceptions. The fix is Ephesians 2:8-9, grace through faith, a gift, not wages, so nobody brags. How to live is Matthew 22:37-39, love God with everything, love your neighbor like yourself. And the end is 2 Corinthians 5:17, a new creation, the old gone.\n\nStep back and four verses become one map. Made for glory, fell short, saved free, taught to love, made new. Zoom is the move that turns scattered proof texts into a single story. And there's a test built into it. When the five answers hold together, your life gets a center. When one of them drifts, everything else tilts with it. You don't have to have it all sorted today. But you can see the whole thing at once, and that's worth something.",
+      "apply": "Pick one of the five questions and sit with it for a minute. Where you come from, what's gone wrong, how it gets fixed, how to live, where it ends. Notice which one you answer most often without thinking. Say your real answer out loud, then set it next to what the verse says. See where they line up and where they don't. Don't try to fix it yet. Just see it, the way a map shows the whole road before you pick a turn.",
+      "prayer": "God, I mostly see the verse in front of me and the day in front of me. Give me Your height of view, the way You hold all of it at once. Teach me to live like the whole story is true, even when I can only see one piece. Amen.",
+      "date": "2026-10-25",
+      "es_theme": "La Filosofía Central",
+      "es_move": "Alejar",
+      "es_virtue": "perspectiva",
+      "es_word": "Alejar significa dar un paso tan atrás que los versículos dejen de verse sueltos. Hazlo con esta semana. Toda cosmovisión, lo diga alguien en voz alta o no, responde cinco preguntas. De dónde venimos. Qué salió mal. Cómo se arregla. Cómo debemos vivir. Dónde termina todo. Puedes esquivarlas con un encogimiento de hombros, pero el encogimiento también es una respuesta. La manera en que vives es tu respuesta.\n\nLa Biblia responde las cinco, y esconde la primera respuesta dentro del quedarse cortos. Romanos 3:23 dice que estamos destituidos de la gloria de Dios, y eso quiere decir que fuimos hechos para ella. Venimos de un Hacedor que nos quiso para la gloria. Lo que salió mal es el pecado, todos, sin excepciones. El arreglo es Efesios 2:8-9, gracia por la fe, un regalo, no un sueldo, para que nadie se gloríe. Cómo vivir es Mateo 22:37-39, ama a Dios con todo, ama a tu prójimo como a ti mismo. Y el final es 2 Corintios 5:17, una criatura nueva, lo viejo quedó atrás.\n\nDa un paso atrás y cuatro versículos se vuelven un solo mapa. Hechos para la gloria, quedamos cortos, salvados gratis, enseñados a amar, hechos nuevos. Alejar es el movimiento que convierte versículos sueltos en una sola historia. Y trae una prueba adentro. Cuando las cinco respuestas se sostienen juntas, tu vida encuentra un centro. Cuando una se desvía, todo lo demás se inclina con ella. No tienes que tenerlo todo resuelto hoy. Pero puedes ver el conjunto de una sola vez, y eso vale algo.",
+      "es_apply": "Escoge una de las cinco preguntas y siéntate con ella un minuto. De dónde vienes, qué salió mal, cómo se arregla, cómo vivir, dónde termina. Nota cuál respondes más a menudo sin pensar. Di tu respuesta real en voz alta, y ponla junto a lo que dice el versículo. Mira dónde coinciden y dónde no. No intentes arreglarlo todavía. Solo míralo, como un mapa te muestra todo el camino antes de que escojas un giro.",
+      "es_prayer": "Dios, casi siempre veo solo el versículo que tengo delante y el día que tengo delante. Dame tu altura de miras, la manera en que tú sostienes todo a la vez. Enséñame a vivir como si la historia entera fuera verdad, incluso cuando solo alcanzo a ver un pedazo. Amén."
+    },
+    {
+      "week": 4,
       "day": 6,
       "move": "Flow",
       "virtue": "patience",
