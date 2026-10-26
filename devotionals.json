@@ -1,6 +1,37 @@
 {
   "devotionals": [
     {
+      "week": 5,
+      "day": 1,
+      "move": "Gather",
+      "virtue": "humility",
+      "theme": "Creation",
+      "readings": [
+        {
+          "ref": "Genesis 1:1",
+          "text": "In the beginning, God created the heavens and the earth.",
+          "es_ref": "Génesis 1:1",
+          "es_text": "En el principio creó Dios los cielos y la tierra."
+        },
+        {
+          "ref": "Genesis 1:31",
+          "text": "And God saw everything that he had made, and behold, it was very good. And there was evening and there was morning, the sixth day.",
+          "es_ref": "Génesis 1:31",
+          "es_text": "Y vio Dios todo lo que había hecho, y he aquí que era bueno en gran manera. Y fue la tarde y la mañana el día sexto."
+        }
+      ],
+      "word": "Gather is the humblest move, and it only has one job. Before you explain anything, before you form an opinion, you look at what the text actually says. So do that this morning. Open to Genesis 1 and read the first line slowly. \"In the beginning, God created the heavens and the earth.\" That's it. No argument, no proof, no warm-up. The book starts with God already there, already at work.\n\nNotice what Gather doesn't do. It doesn't ask you to settle how creation happened, or how old the earth is. Those are real questions, but they aren't what this sentence is doing. The sentence is making a claim about the source of everything. Reality has an origin, and that origin is a person, not a force or an accident.\n\nKeep reading to the end of the chapter and you'll hit a phrase that repeats like a heartbeat. God saw that it was good. Good, and then very good. Try it right now. Read verse one out loud, then the last verse of the chapter, and notice who shows up in both. The same person, God, on both ends. That's gathering: you underline what's there, you don't decorate it.\n\nHumility here looks like slowing down long enough to let the text say what it says, before you make it say what you want. That's the whole move.",
+      "apply": "Before you decide what Genesis 1 means, do the slower thing first. Read the chapter out loud, then write one plain sentence about what it actually says about where everything came from. Nothing more. Don't fix it, don't argue with it, don't add your own ideas yet. Just gather the facts and let them sit.",
+      "prayer": "Father, slow me down this week. Help me read your word the way it's written, not the way I want it to be. Teach me to start where you start, with you already there.",
+      "date": "2026-10-26",
+      "es_theme": "La Creación",
+      "es_move": "Reunir",
+      "es_virtue": "humildad",
+      "es_word": "Reunir es el movimiento más humilde, y solo tiene un trabajo. Antes de explicar nada, antes de formarte una opinión, miras lo que el texto dice de verdad. Así que hazlo esta mañana. Abre en Génesis 1 y lee la primera línea despacio. \"En el principio creó Dios los cielos y la tierra.\" Eso es todo. Sin discusión, sin prueba, sin preámbulo. El libro comienza con Dios ya ahí, ya trabajando.\n\nNota lo que Reunir no hace. No te pide que resuelvas cómo ocurrió la creación, ni cuántos años tiene la tierra. Esas son preguntas reales, pero no es lo que esta frase está haciendo. La frase afirma algo sobre el origen de todo. La realidad tiene un origen, y ese origen es una persona, no una fuerza ni un accidente.\n\nSigue leyendo hasta el final del capítulo y encontrarás una frase que se repite como un latido. Vio Dios que era bueno. Bueno, y luego bueno en gran manera. Pruébalo ahora mismo. Lee el versículo uno en voz alta, luego el último versículo del capítulo, y nota quién aparece en ambos. La misma persona, Dios, en los dos extremos. Eso es reunir: subrayas lo que está ahí, no lo decoras.\n\nLa humildad aquí se ve en bajar la velocidad lo suficiente para dejar que el texto diga lo que dice, antes de que tú lo hagas decir lo que quieres. Ese es todo el movimiento.",
+      "es_apply": "Antes de decidir qué significa Génesis 1, haz primero lo más lento. Lee el capítulo en voz alta y escribe una sola frase sencilla sobre lo que dice en realidad acerca de de dónde vino todo. Nada más. No lo arregles, no discutas con él, no añadas todavía tus propias ideas. Solo reúne los hechos y déjalos reposar.",
+      "es_prayer": "Padre, hazme bajar la velocidad esta semana. Ayúdame a leer tu palabra como está escrita, no como yo quiero que sea. Enséñame a empezar donde empiezas tú, contigo ya ahí."
+    },
+    {
       "week": 4,
       "day": 7,
       "move": "Zoom",
