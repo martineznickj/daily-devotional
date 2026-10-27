@@ -2,6 +2,37 @@
   "devotionals": [
     {
       "week": 5,
+      "day": 2,
+      "move": "Filter",
+      "virtue": "discernment",
+      "theme": "Creation",
+      "readings": [
+        {
+          "ref": "Genesis 1:1",
+          "text": "In the beginning, God created the heavens and the earth.",
+          "es_ref": "Génesis 1:1",
+          "es_text": "En el principio creó Dios los cielos y la tierra."
+        },
+        {
+          "ref": "Genesis 1:31",
+          "text": "And God saw everything that he had made, and behold, it was very good.",
+          "es_ref": "Génesis 1:31",
+          "es_text": "Y vio Dios todo lo que había hecho, y he aquí que era bueno en gran manera."
+        }
+      ],
+      "word": "Filter is the move that asks what this means, and what it does not mean. Genesis 1 is a good place to practice, because people read this chapter and get stuck on the wrong question. They want to know how. How long it took, what the mechanism was, how exactly it all happened. Genesis simply isn't interested in any of that. It never tries to be a science textbook, and if you read it like one, you'll fight it the whole way.\n\nWhat the text does claim is narrower and bigger at the same time. It claims there is a God, and that everything came from him. \"In the beginning, God created the heavens and the earth.\" Before anything else existed, he already was. The world isn't an accident, and it isn't a lucky break. It has a source, and the source is personal.\n\nIt also claims the world is good. Seven times in chapter one God looks at what he made and calls it good, and on the sixth day he looks at all of it and calls it very good. That word good isn't about comfort or the weather. It means fitting, right, working the way it was meant to work.\n\nSo Filter hands you a clean line. Genesis 1 doesn't tell you the mechanics of creation. It tells you two things you can stand on. There is a Maker, and what he made is good. Don't read it for chemistry, and don't read it for a timeline. Read it for the claim it actually makes. You didn't come from nowhere. You came from someone, and what he made is good.",
+      "apply": "Think of one place in your life that feels like an accident or a mistake. Just one. For today, treat it as made and seen by God. Not fixed yet, not explained. Simply made, and seen. Sit with that for a minute and notice what changes in how you talk to him about it.",
+      "prayer": "Father, thank you that I didn't come from nowhere. You made everything, and you called it good. Teach me to read your word for what it actually says, and to rest in the fact that what you made is good, even when I can't see it yet. Amen.",
+      "date": "2026-10-27",
+      "es_theme": "La Creación",
+      "es_move": "Filtrar",
+      "es_virtue": "discernimiento",
+      "es_word": "Filtrar es el movimiento que pregunta qué significa esto y qué no significa. Génesis 1 es un buen lugar para practicarlo, porque la gente lee este capítulo y se atasca en la pregunta equivocada. Quieren saber cómo. Cuánto tardó, cuál fue el mecanismo, cómo pasó todo exactamente. A Génesis, sencillamente, no le interesa nada de eso. Nunca intenta ser un libro de texto de ciencia, y si lo lees así, vas a pelear con él todo el camino.\n\nLo que el texto sí afirma es más estrecho y más grande a la vez. Afirma que hay un Dios, y que todo salió de él. \"En el principio creó Dios los cielos y la tierra.\" Antes de que existiera cualquier otra cosa, él ya era. El mundo no es un accidente, y no es un golpe de suerte. Tiene una fuente, y esa fuente es personal.\n\nTambién afirma que el mundo es bueno. Siete veces en el capítulo uno Dios mira lo que hizo y lo llama bueno, y en el día sexto mira todo y lo llama bueno en gran manera. Esa palabra, bueno, no habla de comodidad ni del clima. Significa que encaja, que es correcto, que funciona como debe funcionar.\n\nAsí que Filtrar te da una línea limpia. Génesis 1 no te dice la mecánica de la creación. Te dice dos cosas sobre las que puedes pararte. Hay un Creador, y lo que hizo es bueno. No lo leas buscando química, y no lo leas buscando un calendario. Léelo por lo que de verdad afirma. No saliste de la nada. Saliste de alguien, y lo que él hizo es bueno.",
+      "es_apply": "Piensa en un lugar de tu vida que se siente como un accidente o un error. Solo uno. Por hoy, trátalo como hecho y visto por Dios. Todavía no arreglado, todavía no explicado. Simplemente hecho, y visto. Quédate con eso un minuto y fíjate en qué cambia en cómo le hablas de ello.",
+      "es_prayer": "Padre, gracias porque no salí de la nada. Tú hiciste todo, y lo llamaste bueno. Enséñame a leer tu palabra por lo que de verdad dice, y a descansar en que lo que hiciste es bueno, aunque yo todavía no lo vea. Amén."
+    },
+    {
+      "week": 5,
       "day": 1,
       "move": "Gather",
       "virtue": "humility",
