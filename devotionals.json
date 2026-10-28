@@ -2,6 +2,37 @@
   "devotionals": [
     {
       "week": 5,
+      "day": 3,
+      "move": "Deliver",
+      "virtue": "generosity",
+      "theme": "Creation",
+      "readings": [
+        {
+          "ref": "Genesis 1:1",
+          "text": "In the beginning, God created the heavens and the earth.",
+          "es_ref": "Génesis 1:1",
+          "es_text": "En el principio creó Dios los cielos y la tierra."
+        },
+        {
+          "ref": "Genesis 1:31",
+          "text": "And God saw everything that he had made, and behold, it was very good. And there was evening and there was morning, the sixth day.",
+          "es_ref": "Génesis 1:31",
+          "es_text": "Y vio Dios todo lo que había hecho, y he aquí que era bueno en gran manera. Y fue la tarde y la mañana el día sexto."
+        }
+      ],
+      "word": "Deliver is the move that asks you to stop collecting and start saying. Not the smartest version. The clearest one. So here are the first two chapters of the Bible in one sentence, in my own words: God made everything on purpose, it was good, and it is still his.\n\nThat is the whole thing. If you can say it to a kid over breakfast and they nod, you delivered it.\n\nThe word \"good\" does the heavy lifting. God doesn't make stuff and walk off. He looks at it. Again and again in Genesis 1 he steps back and calls it good, and at the end he calls the whole creation \"very good.\" Nothing here is an accident or a leftover. The sky, the dirt, the fish, you. All of it came from a decision, and the decision was good.\n\nChapter 2 gets even more personal. God doesn't just speak a human into the world from a distance. He forms the man out of dust with his own hands and breathes into him. That is a picture you can feel. You were shaped, not stamped. You were breathed into, not switched on.\n\nThat matters on a Wednesday when the week feels like it's just happening to you. You didn't drift into existence. You were made on purpose, by someone who looked at what he made and liked it. Deliver that to yourself first. Then it is a lot easier to say it plainly to anyone who asks.",
+      "apply": "Take the creation story and put it in one plain sentence, the kind you could text a friend. Write it down before you say it out loud. Keep it short enough that you don't have to explain it twice. Then actually say it to one person today, and notice whether the plain version lands better than the fancy one.",
+      "prayer": "God, thank you for making me on purpose. Help me to say plainly what you've done, to myself and to anyone who asks. Amen.",
+      "date": "2026-10-28",
+      "es_theme": "La Creación",
+      "es_move": "Entregar",
+      "es_virtue": "generosidad",
+      "es_word": "Entregar es el movimiento que te pide dejar de juntar y empezar a decir. No la versión más inteligente. La más clara. Así que aquí van los dos primeros capítulos de la Biblia en una sola frase, con mis propias palabras: Dios hizo todo a propósito, era bueno, y todavía es suyo.\n\nEso es todo. Si se lo dices a un niño en el desayuno y asiente con la cabeza, ya lo entregaste.\n\nLa palabra \"bueno\" hace el trabajo pesado. Dios no hace las cosas y se va. Él las mira. Una y otra vez en Génesis 1 da un paso atrás y lo llama bueno, y al final llama a toda la creación \"bueno en gran manera.\" Nada de esto es un accidente ni una sobra. El cielo, la tierra, los peces, tú. Todo vino de una decisión, y la decisión fue buena.\n\nEl capítulo 2 se vuelve aún más personal. Dios no crea al ser humano solo con una palabra desde lejos. Forma al hombre del polvo con sus propias manos y sopla en él. Esa es una imagen que se siente. Fuiste formado, no estampado. Recibiste aliento, no te encendieron con un botón.\n\nEso importa un miércoles, cuando la semana se siente como algo que simplemente te está pasando. No llegaste a existir por casualidad. Fuiste hecho a propósito, por alguien que miró lo que hizo y le gustó. Entrégate eso primero. Después es mucho más fácil decirlo con claridad a quien te pregunte.",
+      "es_apply": "Toma la historia de la creación y ponla en una sola frase sencilla, del tipo que podrías mandar por mensaje a un amigo. Escríbela antes de decirla en voz alta. Hazla tan corta que no tengas que explicarla dos veces. Después dísela hoy a una persona, y fíjate si la versión sencilla llega mejor que la elegante.",
+      "es_prayer": "Dios, gracias por haberme hecho a propósito. Ayúdame a decir con claridad lo que has hecho, a mí mismo y a cualquiera que pregunte. Amén."
+    },
+    {
+      "week": 5,
       "day": 2,
       "move": "Filter",
       "virtue": "discernment",
