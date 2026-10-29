@@ -2,6 +2,43 @@
   "devotionals": [
     {
       "week": 5,
+      "day": 4,
+      "move": "Count",
+      "virtue": "honesty",
+      "theme": "Creation",
+      "readings": [
+        {
+          "ref": "Genesis 1:1",
+          "text": "In the beginning, God created the heavens and the earth.",
+          "es_ref": "Génesis 1:1",
+          "es_text": "En el principio creó Dios los cielos y la tierra."
+        },
+        {
+          "ref": "Genesis 1:31",
+          "text": "And God saw everything that he had made, and behold, it was very good. And there was evening and there was morning, the sixth day.",
+          "es_ref": "Génesis 1:31",
+          "es_text": "Y vio Dios todo lo que había hecho, y he aquí que era bueno en gran manera. Y fue la tarde y la mañana el día sexto."
+        },
+        {
+          "ref": "Genesis 2:2",
+          "text": "And on the seventh day God finished his work that he had done, and he rested on the seventh day from all his work that he had done.",
+          "es_ref": "Génesis 2:2",
+          "es_text": "Y acabó Dios en el día séptimo la obra que hizo; y reposó el día séptimo de toda la obra que hizo."
+        }
+      ],
+      "word": "Genesis 1 is built on a pattern, and Count is the move that finds it. Six days of work, split into two sets of three. Days one through three form things: light, then sky and sea, then dry land. Days four through six fill those things: sun and stars, then birds and fish, then animals and people. Each forming day has a matching filling day. God carves out rooms first, then furnishes them.\n\nThen the repetitions. \"And God said\" shows up ten times. \"And it was so\" follows it. \"And God saw that it was good\" shows up seven times. Only the sixth day gets more than good. It gets \"very good,\" because now there is a whole finished world to look at, and a person standing in it.\n\nOne more count. \"And there was evening and there was morning\" closes six of the days. A day in this book starts at evening. Rest comes first, then the work, and the day moves from dark toward light.\n\nBut the seventh day has no evening and no morning. Genesis 2 says God rested on it, and the day just stays open. Six days that close, one that doesn't.\n\nThe honesty of counting is this: the text is not vague. Someone ordered it on purpose. A world with that much pattern didn't fall together by accident, and the pattern itself says the thing made is good.",
+      "apply": "Count something real today. How many times this week did good show up that you didn't arrange? Go ahead and number it. Counting is a way of seeing on purpose, and seeing is where thanking starts.",
+      "prayer": "God, teach me to notice the order you built into things. Thank you that what you made is good, and that the seventh day stays open. Help me rest in it.",
+      "date": "2026-10-29",
+      "es_theme": "La Creación",
+      "es_move": "Contar",
+      "es_virtue": "honestidad",
+      "es_word": "Génesis 1 está armado sobre un patrón, y Contar es el movimiento que lo encuentra. Seis días de trabajo, divididos en dos grupos de tres. Los días uno, dos y tres forman cosas: la luz, luego el cielo y el mar, luego la tierra seca. Los días cuatro, cinco y seis llenan esas cosas: el sol y las estrellas, luego las aves y los peces, luego los animales y las personas. Cada día que forma tiene un día que lo llena. Dios primero hace las habitaciones, y después las amuebla.\n\nLuego vienen las repeticiones. \"Y dijo Dios\" aparece diez veces. Después sigue \"y fue así\". \"Y vio Dios que era bueno\" aparece siete veces. Solo el sexto día recibe más que bueno. Recibe \"bueno en gran manera\", porque ahora hay un mundo entero terminado, y una persona parada dentro de él.\n\nUna cuenta más. \"Y fue la tarde y la mañana\" cierra seis de los días. El día en este libro empieza por la tarde. Primero el descanso, luego el trabajo, y el día avanza de la oscuridad hacia la luz.\n\nPero el séptimo día no tiene tarde ni mañana. Génesis 2 dice que Dios reposó en él, y ese día queda abierto. Seis días que se cierran, uno que no.\n\nLa honestidad de contar es esto: el texto no es vago. Alguien lo ordenó a propósito. Un mundo con tanto patrón no cayó junto por accidente, y el patrón mismo dice que lo hecho es bueno.",
+      "es_apply": "Cuenta algo real hoy. ¿Cuántas veces esta semana apareció algo bueno que tú no arreglaste? Ponle número. Contar es una forma de ver a propósito, y ver es donde empieza el agradecer.",
+      "es_prayer": "Dios, enséñame a notar el orden que pusiste en las cosas. Gracias porque lo que hiciste es bueno, y porque el séptimo día queda abierto. Ayúdame a descansar en él."
+    },
+    {
+      "week": 5,
       "day": 3,
       "move": "Deliver",
       "virtue": "generosity",
