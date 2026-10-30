@@ -2,6 +2,37 @@
   "devotionals": [
     {
       "week": 5,
+      "day": 5,
+      "move": "Shape",
+      "virtue": "clarity",
+      "theme": "Creation",
+      "readings": [
+        {
+          "ref": "Genesis 1:1",
+          "text": "In the beginning, God created the heavens and the earth.",
+          "es_ref": "Génesis 1:1",
+          "es_text": "En el principio creó Dios los cielos y la tierra."
+        },
+        {
+          "ref": "Genesis 1:31",
+          "text": "And God saw everything that he had made, and behold, it was very good.",
+          "es_ref": "Génesis 1:31",
+          "es_text": "Y vio Dios todo lo que había hecho, y he aquí que era bueno en gran manera."
+        }
+      ],
+      "word": "Shape asks one question: how does this piece fit the whole? So set Genesis 1 down next to the rest of the Bible and look at the outline.\n\nThe book begins with God making a place. He speaks, and light comes out of nothing. He separates, he fills, he sets a man and a woman in a garden and walks there with them. That's the shape of the whole story in miniature: God with his people in a good land. You'll see that exact shape again at the very end, in Revelation, when the city comes down and God dwells with his people. Same shape, restored.\n\nLook closer and the days themselves have a shape. The first three days God forms the spaces: light and dark, sky and sea, dry land. The next three he fills what he formed: the sun and moon and stars fill the light and dark, the birds and fish fill the sky and sea, the animals and people fill the land. Forming, then filling. Empty, then full. That's not a random list of days. It's a frame, and it means creation moves from bare toward brimming, and it ends in rest, not exhaustion.\n\nSo Shape says this: creation isn't just the first chapter you read before getting to the good stuff. It's the frame the whole painting hangs on. The fall, the covenants, the cross, the return, all of it is God doing one thing. Making good what he already called good. When you lose sight of that, the Bible turns into a rulebook and a rescue manual. When you hold the shape, you see one long work of love from first light to the last day.",
+      "apply": "Take one thing you're facing today that feels like it came from nothing, or feels formless and empty. Ask where God might be forming a space for something to fill it. The same God who spoke light into a dark, unshaped world is still speaking into yours.",
+      "prayer": "Father, thank you that you made a good world and called it good. Help me hold the shape of your story when my days feel formless. Shape me, fill me, and rest with me. Amen.",
+      "date": "2026-10-30",
+      "es_theme": "La Creación",
+      "es_move": "Formar",
+      "es_virtue": "claridad",
+      "es_word": "Formar hace una sola pregunta: ¿cómo encaja esta pieza en el todo? Así que pon Génesis 1 junto al resto de la Biblia y mira el contorno.\n\nEl libro empieza con Dios haciendo un lugar. Habla, y la luz sale de la nada. Separa, llena, pone a un hombre y a una mujer en un huerto y camina allí con ellos. Esa es la forma de toda la historia en miniatura: Dios con su pueblo en una tierra buena. Verás esa misma forma otra vez al final, en Apocalipsis, cuando la ciudad desciende y Dios mora con su pueblo. La misma forma, restaurada.\n\nMira más de cerca y los días mismos tienen forma. Los primeros tres días Dios forma los espacios: la luz y la oscuridad, el cielo y el mar, la tierra seca. Los siguientes tres llena lo que formó: el sol, la luna y las estrellas llenan la luz y la oscuridad, las aves y los peces llenan el cielo y el mar, los animales y las personas llenan la tierra. Formar, luego llenar. Vacío, luego pleno. No es una lista de días al azar. Es un marco, y significa que la creación avanza de lo desnudo hacia lo rebosante, y termina en reposo, no en agotamiento.\n\nAsí que Formar dice esto: la creación no es solo el primer capítulo que lees antes de llegar a lo bueno. Es el marco del que cuelga todo el cuadro. La caída, los pactos, la cruz, el regreso, todo es Dios haciendo una sola cosa. Volviendo bueno lo que ya había llamado bueno. Cuando pierdes eso de vista, la Biblia se vuelve un libro de reglas y un manual de rescate. Cuando sostienes la forma, ves una sola obra larga de amor, desde la primera luz hasta el último día.",
+      "es_apply": "Toma una cosa que enfrentas hoy que sientas que salió de la nada, o que se siente sin forma y vacía. Pregunta dónde podría Dios estar formando un espacio para que algo lo llene. El mismo Dios que habló luz a un mundo oscuro y sin forma sigue hablando al tuyo.",
+      "es_prayer": "Padre, gracias porque hiciste un mundo bueno y lo llamaste bueno. Ayúdame a sostener la forma de tu historia cuando mis días se sientan sin forma. Fórmame, lléname, y descansa conmigo. Amén."
+    },
+    {
+      "week": 5,
       "day": 4,
       "move": "Count",
       "virtue": "honesty",
