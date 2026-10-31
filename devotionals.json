@@ -2,6 +2,37 @@
   "devotionals": [
     {
       "week": 5,
+      "day": 6,
+      "move": "Flow",
+      "virtue": "patience",
+      "theme": "Creation",
+      "readings": [
+        {
+          "ref": "Genesis 1:31",
+          "text": "And God saw everything that he had made, and behold, it was very good. And there was evening and there was morning, the sixth day.",
+          "es_ref": "Génesis 1:31",
+          "es_text": "Y vio Dios todo lo que había hecho, y he aquí que era bueno en gran manera. Y fue la tarde y la mañana el día sexto."
+        },
+        {
+          "ref": "Genesis 2:3",
+          "text": "So God blessed the seventh day and made it holy, because on it God rested from all his work that he had done in creation.",
+          "es_ref": "Génesis 2:3",
+          "es_text": "Y bendijo Dios al día séptimo, y lo santificó, porque en él reposó de toda la obra que había hecho en la creación."
+        }
+      ],
+      "word": "Most of us read Genesis 1 looking for what God made. Light, sky, sea, land, creatures, man. It's a list. But there's a rhythm underneath the list, and it's easy to miss because you're watching the things appear.\n\n\"And there was evening and there was morning.\" That line shows up six times, once for each day of work. It's a drumbeat under the whole chapter. God doesn't do everything at once. He could. He speaks and light exists, so speed isn't the issue. He works in days. One day opens, then it closes with an evening and a morning, and then another day opens.\n\nThat's Flow. It's patience. Creation isn't frantic. It's steady, ordered, one beat after another. And on the seventh day, God stops. Not because he's tired. He rests, and he blesses the rest and calls it holy. So work has a rhythm, and so does stopping. Both belong to the pattern. The day of rest is part of creation, not a break from it.\n\nYou can feel this when your own days turn into one long scramble. God made the world in six days and then he stopped, on purpose, and made the stopping holy. That means the pause isn't a failure of your schedule. It's part of the design. A good life has an evening and a morning built into it. It has a finish line.\n\nPatience doesn't mean slow. It means you keep the rhythm. You work, then you rest. Then you work again. Not everything has to happen today.",
+      "apply": "Where in your week is there no evening and no morning, just one endless stretch of doing? Pick one stopping point today and treat it as holy. Close the day. Actually stop. Let tomorrow be tomorrow, and trust that whatever didn't get done can wait until the next day opens.",
+      "prayer": "Lord, you made the world in a rhythm, not a rush. Teach me to keep your pace, to work when it's time and to rest when the day closes, and to trust that you finish what you start. Amen.",
+      "date": "2026-10-31",
+      "es_theme": "La Creación",
+      "es_move": "Fluir",
+      "es_virtue": "paciencia",
+      "es_word": "La mayoría de nosotros leemos Génesis 1 buscando lo que Dios hizo. La luz, el cielo, el mar, la tierra, las criaturas, el hombre. Es una lista. Pero debajo de la lista hay un ritmo, y es fácil no verlo porque estás mirando cómo aparecen las cosas.\n\n\"Y fue la tarde y la mañana.\" Esa frase aparece seis veces, una por cada día de trabajo. Es un tambor que suena debajo de todo el capítulo. Dios no hace todo de una sola vez. Podría. Habla y la luz existe, así que la velocidad no es el problema. Trabaja por días. Un día se abre, luego se cierra con una tarde y una mañana, y entonces se abre otro día.\n\nEso es Fluir. Es paciencia. La creación no es frenética. Es constante, ordenada, un paso tras otro. Y al séptimo día, Dios se detiene. No porque esté cansado. Descansa, y bendice el descanso y lo llama santo. Así que el trabajo tiene un ritmo, y también el detenerse. Los dos son parte del patrón. El día de descanso es parte de la creación, no un descanso de ella.\n\nPuedes sentirlo cuando tus propios días se convierten en una sola carrera larga. Dios hizo el mundo en seis días y luego se detuvo, a propósito, e hizo santo el detenerse. Eso significa que la pausa no es un fallo de tu horario. Es parte del diseño. Una buena vida tiene una tarde y una mañana adentro. Tiene una línea de meta.\n\nLa paciencia no significa lentitud. Significa mantener el ritmo. Trabajas, luego descansas. Luego trabajas otra vez. No todo tiene que pasar hoy.",
+      "es_apply": "¿Dónde en tu semana no hay tarde ni mañana, solo un tramo interminable de hacer? Elige hoy un punto para detenerte y trátalo como santo. Cierra el día. Detente de verdad. Deja que mañana sea mañana, y confía en que lo que no se terminó puede esperar hasta que se abra el próximo día.",
+      "es_prayer": "Señor, hiciste el mundo con un ritmo, no con prisa. Enséñame a llevar tu paso, a trabajar cuando toca y a descansar cuando el día se cierra, y a confiar en que tú terminas lo que empiezas. Amén."
+    },
+    {
+      "week": 5,
       "day": 5,
       "move": "Shape",
       "virtue": "clarity",
