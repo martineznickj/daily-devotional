@@ -2,6 +2,37 @@
   "devotionals": [
     {
       "week": 5,
+      "day": 7,
+      "move": "Zoom",
+      "virtue": "perspective",
+      "theme": "Creation",
+      "readings": [
+        {
+          "ref": "Genesis 1:1",
+          "text": "In the beginning, God created the heavens and the earth.",
+          "es_ref": "Génesis 1:1",
+          "es_text": "En el principio creó Dios los cielos y la tierra."
+        },
+        {
+          "ref": "Genesis 1:31",
+          "text": "And God saw everything that he had made, and behold, it was very good. And there was evening and there was morning, the sixth day.",
+          "es_ref": "Génesis 1:31",
+          "es_text": "Y vio Dios todo lo que había hecho, y he aquí que era bueno en gran manera. Y fue la tarde y la mañana el día sexto."
+        }
+      ],
+      "word": "You've spent the week close to the text. Monday you gathered what it says. Tuesday you filtered it. Wednesday you said it in your own words. Thursday you counted the days and the refrains. Friday you saw its shape. Saturday you heard its rhythm. Now Zoom pulls the camera back.\n\nFrom the height, Genesis 1 and 2 look like one thing, not two. God speaks, and a world that wasn't there begins to be. Light. Water and sky. Dry land and green things. Sun, moon, and stars. Fish and birds. Animals. Then a man and a woman, made in his image, told to fill the earth and keep it. Each step builds on the last, and at the end God steps back and calls the whole thing very good.\n\nZoom isn't just a review trick. It's where the meaning lands. Up close you can see a verb or a repeated phrase. Step back and you see the point of the week: reality has a source. It didn't drift into being. Someone wanted it. The earth isn't an accident and you aren't either. You were made, on purpose, by a God who looked at everything he made and liked it.\n\nThat's the thing to carry. Whatever this week felt like, it started with intention and it's still held by it. You don't have to make yourself from scratch. You were made, and it was good.",
+      "apply": "Look back over your own week the way Zoom looks at creation. What did God make in you, or show you, that you missed while you were busy close up? Name one thing you can step back and see as good.",
+      "prayer": "Father, slow my mind enough to see the whole. Thank you that I was made on purpose, not by accident, and that you called your work very good. Teach me to step back and believe it again. Amen.",
+      "date": "2026-11-01",
+      "es_theme": "La Creación",
+      "es_move": "Alejar",
+      "es_virtue": "perspectiva",
+      "es_word": "Has pasado la semana cerca del texto. El lunes reuniste lo que dice. El martes lo filtraste. El miércoles lo dijiste con tus propias palabras. El jueves contaste los días y las frases que se repiten. El viernes viste su forma. El sábado escuchaste su ritmo. Ahora Alejar aleja la cámara.\n\nDesde arriba, Génesis 1 y 2 se ven como una sola cosa, no dos. Dios habla, y un mundo que no estaba empieza a existir. La luz. El agua y el cielo. La tierra seca y lo verde. El sol, la luna y las estrellas. Los peces y las aves. Los animales. Luego un hombre y una mujer, hechos a su imagen, llamados a llenar la tierra y a cuidarla. Cada paso se apoya en el anterior, y al final Dios da un paso atrás y llama a todo aquello bueno en gran manera.\n\nAlejar no es solo un truco de repaso. Es donde aterriza el sentido. De cerca puedes ver un verbo o una frase repetida. Da un paso atrás y ves el punto de la semana: la realidad tiene una fuente. No llegó a existir por casualidad. Alguien la quiso. La tierra no es un accidente, y tú tampoco. Fuiste hecho a propósito, por un Dios que miró todo lo que hizo y le gustó.\n\nEso es lo que te llevas. No importa cómo haya sido esta semana, empezó con intención y todavía está sostenida por ella. No tienes que fabricarte desde cero. Fuiste hecho, y era bueno.",
+      "es_apply": "Mira hacia atrás tu propia semana como Alejar mira la creación. ¿Qué hizo Dios en ti, o qué te mostró, que se te escapó mientras estabas ocupado de cerca? Nombra una cosa que puedas ver desde lejos y llamar buena.",
+      "es_prayer": "Padre, calma mi mente lo suficiente para ver el todo. Gracias porque fui hecho a propósito, no por accidente, y porque llamaste a tu obra muy buena. Enséñame a dar un paso atrás y creerlo de nuevo. Amén."
+    },
+    {
+      "week": 5,
       "day": 6,
       "move": "Flow",
       "virtue": "patience",
