@@ -1,6 +1,43 @@
 {
   "devotionals": [
     {
+      "week": 6,
+      "day": 1,
+      "move": "Gather",
+      "virtue": "humility",
+      "theme": "The Fall",
+      "readings": [
+        {
+          "ref": "Genesis 3:6",
+          "text": "So when the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was to be desired to make one wise, she took of its fruit and ate, and she also gave some to her husband who was with her, and he ate.",
+          "es_ref": "Génesis 3:6",
+          "es_text": "Y vio la mujer que el árbol era bueno para comer, y que era agradable a los ojos, y árbol codiciable para alcanzar la sabiduría; y tomó de su fruto, y comió; y dio también a su marido, el cual comió así como ella."
+        },
+        {
+          "ref": "Genesis 3:8-9",
+          "text": "And they heard the sound of the LORD God walking in the garden in the cool of the day, and the man and his wife hid themselves from the presence of the LORD God among the trees of the garden. But the LORD God called to the man and said to him, 'Where are you?'",
+          "es_ref": "Génesis 3:8-9",
+          "es_text": "Y oyeron la voz de Jehová Dios que se paseaba en el huerto, al aire del día; y el hombre y su mujer se escondieron de la presencia de Jehová Dios entre los árboles del huerto. Mas Jehová Dios llamó al hombre, y le dijo: ¿Dónde estás tú?"
+        },
+        {
+          "ref": "Romans 5:12",
+          "text": "Therefore, just as sin came into the world through one man, and death through sin, and so death spread to all men because all sinned",
+          "es_ref": "Romanos 5:12",
+          "es_text": "Por tanto, como el pecado entró en el mundo por un hombre, y por el pecado la muerte, así la muerte pasó a todos los hombres, por cuanto todos pecaron."
+        }
+      ],
+      "word": "Gather just means slow down and look at what the page actually says. So look. A man and a woman take fruit they were told not to take. Their eyes open. They see they're naked, they sew fig leaves, and when they hear God walking in the garden, they hide.\n\nNotice what God does not do. He doesn't open with the rule. He doesn't begin with a lecture. His first words are a question. Where are you? Not \"what have you done,\" not \"you broke the command.\" He asks where the man has gone.\n\nThat one question tells you what the Fall actually is. The command was real, and they broke it. But the deepest break isn't legal. It's relational. The first thing that dies isn't a body. It's the ease between them and God. They hide because hiding is what you do when a relationship breaks.\n\nGather holds you to the text, and the text won't let you reduce this to a rulebook. The rule matters, but it sits inside a friendship. God walked in the garden in the cool of the day. That's the detail to sit with. This wasn't a courtroom. It was a place where God came to be with the people he made. And when it broke, he still came looking, still asked a question that gives the man a chance to step out and talk.\n\nThat's the humility of Gather. You don't arrive with your answer. You let the text hand you its own, one slow verse at a time.",
+      "apply": "Read Genesis 3 again slowly, and notice the one thing you usually skip. Maybe it's that God's first question in the garden isn't about the rule at all. It's \"Where are you?\" Sit with that. God came looking.",
+      "prayer": "Father, you know where I hide, and you come looking anyway. Teach me to stop sewing leaves and step out into your light. Amen.",
+      "date": "2026-11-02",
+      "es_theme": "La Caída",
+      "es_move": "Reunir",
+      "es_virtue": "humildad",
+      "es_word": "Reunir solo significa ir despacio y mirar lo que dice la página. Así que mira. Un hombre y una mujer toman del fruto que se les dijo que no tomaran. Se les abren los ojos. Ven que están desnudos, cosen hojas de higuera, y cuando oyen a Dios paseándose por el huerto, se esconden.\n\nFíjate en lo que Dios no hace. No empieza por la regla. No abre con un regaño. Sus primeras palabras son una pregunta. ¿Dónde estás tú? No dice \"qué has hecho\", ni \"rompiste el mandato\". Pregunta dónde se ha ido el hombre.\n\nEsa sola pregunta te dice lo que es la Caída. El mandato era real, y lo quebrantaron. Pero la ruptura más honda no es legal. Es de relación. Lo primero que muere no es un cuerpo. Es la cercanía entre ellos y Dios. Se esconden porque esconderse es lo que haces cuando una relación se rompe.\n\nReunir te sujeta al texto, y el texto no te deja reducir esto a un reglamento. La regla importa, pero vive dentro de una amistad. Dios se paseaba por el huerto al aire del día. Ese es el detalle para detenerte. Esto no era un tribunal. Era un lugar donde Dios venía a estar con la gente que hizo. Y cuando se rompió, él vino a buscarlos igual, y preguntó algo que le da al hombre la oportunidad de salir y hablar.\n\nEsa es la humildad de Reunir. No llegas con tu respuesta. Dejas que el texto te dé la suya, un versículo lento a la vez.",
+      "es_apply": "Lee Génesis 3 otra vez, despacio, y fíjate en lo que normalmente te saltas. Quizá sea que la primera pregunta de Dios en el huerto no trata de la regla. Es \"¿Dónde estás tú?\" Detente en eso. Dios vino a buscarte.",
+      "es_prayer": "Padre, tú sabes dónde me escondo, y aun así vienes a buscarme. Enséñame a dejar de coser hojas y a salir a tu luz. Amén."
+    },
+    {
       "week": 5,
       "day": 7,
       "move": "Zoom",
