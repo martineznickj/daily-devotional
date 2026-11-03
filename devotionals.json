@@ -2,6 +2,37 @@
   "devotionals": [
     {
       "week": 6,
+      "day": 2,
+      "move": "Filter",
+      "virtue": "discernment",
+      "theme": "The Fall",
+      "readings": [
+        {
+          "ref": "Genesis 3:6",
+          "text": "So when the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was to be desired to make one wise, she took of its fruit and ate, and she also gave some to her husband who was with her, and he ate.",
+          "es_ref": "Génesis 3:6",
+          "es_text": "Y vio la mujer que el árbol era bueno para comer, y que era agradable a los ojos, y árbol codiciable para alcanzar la sabiduría; y tomó de su fruto, y comió; y dio también a su marido, el cual comió así como ella."
+        },
+        {
+          "ref": "Romans 5:19",
+          "text": "For as by the one man's disobedience the many were made sinners, so by the one man's obedience the many will be made righteous.",
+          "es_ref": "Romanos 5:19",
+          "es_text": "Porque así como por la desobediencia de un hombre los muchos fueron constituidos pecadores, así también por la obediencia de uno, los muchos serán constituidos justos."
+        }
+      ],
+      "word": "The serpent never made Eve eat. Read it again. He only reframed what she was already looking at. The fruit was good for food, a delight to the eyes, desirable for wisdom. All of that was true, in a way. The tree really did look like that. So the fall wasn't about wanting something ugly. It was about trusting her own read of the situation over what God had actually said.\n\nThat's the part to filter out. The half-truth was the whole trick. You will be like God, knowing good and evil. Half of that sentence was true. The serpent left out the part about death, about stepping away from the one who had given them everything. Eve didn't sort it, so she ate.\n\nHere's what the fall is not. It's not that fruit was the crime, or that God set them up to fail, or that desire itself is dirty. It's a relationship that broke. They hid. They stopped trusting the voice that used to walk with them in the garden in the cool of the day.\n\nRomans 5:19 shows the fix matches the break. One man's disobedience made many sinners. One man's obedience makes many righteous. Same shape, reversed. So discernment isn't suspicion of everything good. It's holding a thought up and asking, does this match what God said? That one question, asked early, saves a whole lot of hiding later.",
+      "apply": "Think of one thought you've been chewing on this week, something that sounds right but leaves you a little uneasy. Hold it next to what God has actually said. What matches, and what got left out?",
+      "prayer": "Lord, teach me to sort what you said from what I want to hear. Catch me before I hide. Thank you that the one who broke it is not the one who repairs it. Amen.",
+      "date": "2026-11-03",
+      "es_theme": "La Caída",
+      "es_move": "Filtrar",
+      "es_virtue": "discernimiento",
+      "es_word": "La serpiente nunca obligó a Eva a comer. Léelo otra vez. Solo le cambió el enfoque de lo que ya estaba mirando. El fruto era bueno para comer, agradable a los ojos, codiciable para la sabiduría. Todo cierto, en cierto modo. El árbol de verdad se veía así. Así que la caída no fue por desear algo feo. Fue por confiar más en su propia lectura de la situación que en lo que Dios había dicho.\n\nEso es lo que hay que filtrar. La media verdad era todo el engaño. Seréis como Dios, sabiendo el bien y el mal. La mitad de esa frase era cierta. La serpiente dejó fuera lo de la muerte, lo de alejarse del que les había dado todo. Eva no lo separó, y comió.\n\nEsto es lo que la caída no es. No es que la fruta fuera el crimen, ni que Dios les pusiera una trampa, ni que el deseo en sí sea sucio. Es una relación que se rompió. Se escondieron. Dejaron de confiar en la voz que solía caminar con ellos en el huerto al fresco del día.\n\nRomanos 5:19 muestra que la reparación coincide con la rotura. La desobediencia de un hombre hizo pecadores a muchos. La obediencia de uno hace justos a muchos. La misma forma, al revés. Así que el discernimiento no es sospechar de todo lo bueno. Es sostener un pensamiento y preguntar: ¿esto coincide con lo que Dios dijo? Esa pregunta, hecha a tiempo, evita mucho esconderse después.",
+      "es_apply": "Piensa en un pensamiento que has estado rumiando esta semana, algo que suena bien pero te deja un poco inquieto. Ponlo junto a lo que Dios ha dicho. ¿Qué coincide, y qué se quedó fuera?",
+      "es_prayer": "Señor, enséñame a separar lo que dijiste de lo que quiero oír. Detenme antes de esconderme. Gracias porque el que lo rompió no es el que lo repara. Amén."
+    },
+    {
+      "week": 6,
       "day": 1,
       "move": "Gather",
       "virtue": "humility",
