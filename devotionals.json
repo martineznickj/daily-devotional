@@ -2,6 +2,43 @@
   "devotionals": [
     {
       "week": 6,
+      "day": 3,
+      "move": "Deliver",
+      "virtue": "generosity",
+      "theme": "The Fall",
+      "readings": [
+        {
+          "ref": "Genesis 3:8",
+          "text": "And they heard the sound of the LORD God walking in the garden in the cool of the day, and the man and his wife hid themselves from the presence of the LORD God among the trees of the garden.",
+          "es_ref": "Génesis 3:8",
+          "es_text": "Y oyeron la voz de Jehová Dios que se paseaba en el huerto, al aire del día; y el hombre y su mujer se escondieron de la presencia de Jehová Dios entre los árboles del huerto."
+        },
+        {
+          "ref": "Genesis 3:9",
+          "text": "But the LORD God called to the man and said to him, 'Where are you?'",
+          "es_ref": "Génesis 3:9",
+          "es_text": "Mas Jehová Dios llamó al hombre, y le dijo: ¿Dónde estás tú?"
+        },
+        {
+          "ref": "Romans 5:19",
+          "text": "For as by the one man's disobedience the many were made sinners, so by the one man's obedience the many will be made righteous.",
+          "es_ref": "Romanos 5:19",
+          "es_text": "Porque así como por la desobediencia de un hombre los muchos fueron constituidos pecadores, así también por la obediencia de uno, los muchos serán constituidos justos."
+        }
+      ],
+      "word": "Deliver is the move where you stop gathering and filtering and say the thing out loud, in your own words. The real test of understanding is whether you can hand the idea to another person. So let's do that with the Fall. Here's my sentence: sin made us hide, and God came looking. Try writing your own. What actually happens in Genesis 3? A man and a woman are given one boundary. They cross it. And instead of walking toward God, they hide. The Fall isn't mainly about a broken rule. It's about a snapped relationship. When you force it into plain words, the word that keeps coming up is hiding. Sin doesn't announce itself. It makes you cover up. Adam and Eve sew fig leaves and duck behind trees. Then they blame each other. And God's first move isn't a verdict. It's a question: Where are you? He comes looking. Romans says the same thing in one clean sentence. One man's disobedience made the many sinners. One man's obedience will make the many righteous. That's the generosity of this move. Once you say the hard truth in your own words, you can see the way out in your own words too. If the Fall is hiding, the rescue is God finding you. That's a sentence you can carry all day and hand to someone else.",
+      "apply": "Say it out loud today. What is the thing you have been hiding from, or the part of your story you keep covered? Put it in one plain sentence, in your own words. Then notice that God's first question is still the same one he asked in the garden.",
+      "prayer": "Lord, I am good at hiding and quick to blame. Thank you that you came looking for me instead of leaving me behind the trees. Give me honest words, and the courage to use them.",
+      "date": "2026-11-04",
+      "es_theme": "La Caída",
+      "es_move": "Entregar",
+      "es_virtue": "generosidad",
+      "es_word": "Entregar es el movimiento en el que dejas de reunir y filtrar y dices la cosa en voz alta, con tus propias palabras. La verdadera prueba de que entendiste es si puedes pasar la idea a otra persona. Hagámoslo con la Caída. Esta es mi frase: el pecado nos hizo escondernos, y Dios vino a buscarnos. Intenta escribir la tuya. ¿Qué pasa en realidad en Génesis 3? A un hombre y a una mujer se les da un solo límite. Lo cruzan. Y en lugar de caminar hacia Dios, se esconden. La Caída no se trata sobre todo de una regla rota. Se trata de una relación que se quebró. Cuando lo obligas a salir en palabras simples, la palabra que sigue apareciendo es esconderse. El pecado no se anuncia. Te hace taparte. Adán y Eva cosen hojas de higuera y se esconden detrás de los árboles. Luego se culpan el uno al otro. Y el primer movimiento de Dios no es un veredicto. Es una pregunta: ¿Dónde estás? Él viene a buscar. Romanos dice lo mismo en una sola frase limpia. La desobediencia de un hombre hizo pecadores a los muchos. La obediencia de uno hará justos a los muchos. Esa es la generosidad de este movimiento. Una vez que dices la verdad dura con tus propias palabras, también puedes ver la salida con tus propias palabras. Si la Caída es esconderse, el rescate es que Dios te encuentra. Esa es una frase que puedes llevar todo el día y regalar a otra persona.",
+      "es_apply": "Dilo en voz alta hoy. ¿De qué te has estado escondiendo, o qué parte de tu historia mantienes tapada? Ponlo en una sola frase simple, con tus propias palabras. Luego nota que la primera pregunta de Dios sigue siendo la misma que hizo en el huerto.",
+      "es_prayer": "Señor, soy bueno para esconderme y rápido para culpar. Gracias porque viniste a buscarme en lugar de dejarme detrás de los árboles. Dame palabras honestas, y el valor para usarlas."
+    },
+    {
+      "week": 6,
       "day": 2,
       "move": "Filter",
       "virtue": "discernment",
