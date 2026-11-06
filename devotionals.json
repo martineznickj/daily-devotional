@@ -2,6 +2,49 @@
   "devotionals": [
     {
       "week": 6,
+      "day": 5,
+      "move": "Shape",
+      "virtue": "clarity",
+      "theme": "The Fall",
+      "readings": [
+        {
+          "ref": "Genesis 3:6",
+          "text": "So when the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was to be desired to make one wise, she took of its fruit and ate, and she also gave some to her husband who was with her, and he ate.",
+          "es_ref": "Génesis 3:6",
+          "es_text": "Y vio la mujer que el árbol era bueno para comer, y que era agradable a los ojos, y árbol codiciable para alcanzar la sabiduría; y tomó de su fruto, y comió; y dio también a su marido, el cual comió así como ella."
+        },
+        {
+          "ref": "Genesis 3:9",
+          "text": "But the LORD God called to the man and said to him, 'Where are you?'",
+          "es_ref": "Génesis 3:9",
+          "es_text": "Mas Jehová Dios llamó al hombre, y le dijo: ¿Dónde estás tú?"
+        },
+        {
+          "ref": "Genesis 3:15",
+          "text": "I will put enmity between you and the woman, and between your offspring and her offspring; he shall bruise your head, and you shall bruise his heel.",
+          "es_ref": "Génesis 3:15",
+          "es_text": "Y pondré enemistad entre ti y la mujer, y entre tu simiente y la simiente suya; ésta te herirá en la cabeza, y tú le herirás en el calcañar."
+        },
+        {
+          "ref": "Romans 5:19",
+          "text": "For as by the one man's disobedience the many were made sinners, so by the one man's obedience the many will be made righteous.",
+          "es_ref": "Romanos 5:19",
+          "es_text": "Porque así como por la desobediencia de un hombre los muchos fueron constituidos pecadores, así también por la obediencia de uno, los muchos serán constituidos justos."
+        }
+      ],
+      "word": "Shape asks one question: where does this piece sit in the whole story? And Genesis 3 is a hinge. Everything before it was good. God looked at what he made and called it good, again and again, and it was. Then the man and the woman reach for the one thing they were told not to touch, and the world tilts. They hide. They blame each other. The ground grows thorns. Death walks in. The goodness didn't vanish. It got bent.\n\nBut here's the part we miss when we read fast. Right in the middle of the curse, God stops talking to the serpent and speaks a promise. The offspring of the woman will crush the serpent's head. That seed is the thread the whole rest of the book pulls. Genesis, the prophets, the Gospels. Every story after this is either the problem getting worse or that promise getting closer. Until Jesus.\n\nPaul draws the whole shape for us in Romans 5. One man's disobedience made the many sinners. One man's obedience makes the many righteous. That's the entire plot in two halves, the fall and the fix, with one hinge between them.\n\nSo when you see brokenness, don't read it as the last word. Read it as the middle of a story that's already turning. The same God who asked, \"Where are you?\" was already on his way to fix it.",
+      "apply": "Think about a place in your life that feels like the middle of a story, not the end. Something you'd call broken, or stuck, or still waiting. What promise has God already planted there that you're not seeing yet?",
+      "prayer": "Lord, help me see where this story turns. Thank you that the fall is not the last word, and that the seed you promised has crushed the serpent's head. Keep me walking toward that day. Amen.",
+      "date": "2026-11-06",
+      "es_theme": "La Caída",
+      "es_move": "Formar",
+      "es_virtue": "claridad",
+      "es_word": "Formar hace una sola pregunta: ¿dónde encaja esta pieza en toda la historia? Y Génesis 3 es una bisagra. Todo lo que estaba antes era bueno. Dios miró lo que hizo y lo llamó bueno, una y otra vez, y así era. Luego el hombre y la mujer tomaron lo único que se les dijo que no tocaran, y el mundo se inclinó. Se esconden. Se culpan el uno al otro. La tierra da espinas. La muerte entra. La bondad no desapareció. Quedó torcida.\n\nPero aquí está la parte que se nos escapa cuando leemos rápido. Justo en medio de la maldición, Dios deja de hablarle a la serpiente y dice una promesa. La simiente de la mujer aplastará la cabeza de la serpiente. Esa semilla es el hilo que tira de todo el resto del libro. Génesis, los profetas, los Evangelios. Cada historia después de esta es o el problema que empeora o la promesa que se acerca. Hasta Jesús.\n\nPablo nos dibuja la forma entera en Romanos 5. Por la desobediencia de un hombre, los muchos fueron hechos pecadores. Por la obediencia de uno, los muchos serán hechos justos. Ese es todo el argumento en dos mitades, la caída y la reparación, con una bisagra en el medio.\n\nAsí que cuando veas lo roto, no lo leas como la última palabra. Léelo como el medio de una historia que ya está girando. El mismo Dios que preguntó, \"¿Dónde estás tú?\", ya venía en camino a arreglarlo.",
+      "es_apply": "Piensa en un lugar de tu vida que se siente como el medio de una historia, no el final. Algo que llamarías roto, o estancado, o todavía en espera. ¿Qué promesa ha plantado Dios allí que aún no estás viendo?",
+      "es_prayer": "Señor, ayúdame a ver dónde gira esta historia. Gracias porque la caída no es la última palabra, y porque la semilla que prometiste ha aplastado la cabeza de la serpiente. Sigue guiándome hacia ese día. Amén."
+    },
+    {
+      "week": 6,
       "day": 3,
       "move": "Deliver",
       "virtue": "generosity",
