@@ -2,6 +2,37 @@
   "devotionals": [
     {
       "week": 6,
+      "day": 6,
+      "move": "Flow",
+      "virtue": "patience",
+      "theme": "The Fall",
+      "readings": [
+        {
+          "ref": "Genesis 3:8-9",
+          "text": "And they heard the sound of the LORD God walking in the garden in the cool of the day, and the man and his wife hid themselves from the presence of the LORD God among the trees of the garden. But the LORD God called to the man and said to him, 'Where are you?'",
+          "es_ref": "Génesis 3:8-9",
+          "es_text": "Y oyeron la voz de Jehová Dios que se paseaba en el huerto, al aire del día; y el hombre y su mujer se escondieron de la presencia de Jehová Dios entre los árboles del huerto. Mas Jehová Dios llamó al hombre, y le dijo: ¿Dónde estás tú?"
+        },
+        {
+          "ref": "Romans 5:19-20",
+          "text": "For as by the one man's disobedience the many were made sinners, so by the one man's obedience the many will be made righteous. Now the law came in to increase the trespass, but where sin increased, grace abounded all the more.",
+          "es_ref": "Romanos 5:19-20",
+          "es_text": "Porque así como por la desobediencia de un hombre los muchos fueron constituidos pecadores, así también por la obediencia de uno, los muchos serán constituidos justos. Pero la ley se introdujo para que el pecado abundase; mas cuando el pecado abundó, sobreabundó la gracia;"
+        }
+      ],
+      "word": "The fall has a rhythm. That's what you notice when you slow down and read Genesis 3 without rushing ahead to the part about the snake.\n\nBefore anything breaks, there's a habit. God walked in the garden in the cool of the day. Not once, as a special visit. It's just what he did. And on the day everything fell apart, he kept the habit. He came walking, and the man and his wife hid.\n\nThat's the first beat. We hide. God still comes. Then instead of a verdict, there's a question. \"Where are you?\" Not \"how could you.\" A question that invites the hider to come out and talk.\n\nThe second beat comes in Romans. Paul sets two men side by side and lets the rhythm play out. One trespass by one man, and death got a head start. One act of obedience by another man, and life began its long work. Then the line that slows the whole thing down: where sin increased, grace abounded all the more. Sin works fast. Grace works long. A lie lands in a second. Trust takes years.\n\nFlow is the move of patience. It's learning to read your life by the long rhythm, not the loud moment. The habit God kept that evening, walking in the garden, he's still keeping. You hide, and he comes looking. Not once. Every time. That's the pattern that repeats, and it's the one you can rest in.",
+      "apply": "Think of one place in your life where you've been hiding, the way Adam did. Now picture God showing up there anyway, same as always, asking you a question instead of handing you a sentence. What would you say back to him today?",
+      "prayer": "God, you kept your habit of walking near even after I hid from you. Teach me your slow rhythm, and give me the courage to come out of the trees. Amen.",
+      "date": "2026-11-07",
+      "es_theme": "La Caída",
+      "es_move": "Fluir",
+      "es_virtue": "paciencia",
+      "es_word": "La caída tiene un ritmo. Eso es lo que notas cuando lees Génesis 3 despacio, sin correr hacia la parte de la serpiente.\n\nAntes de que nada se rompa, hay una costumbre. Dios se paseaba por el huerto al aire del día. No una sola vez, como una visita especial. Era lo que él hacía. Y el día en que todo se vino abajo, mantuvo la costumbre. Vino caminando, y el hombre y su mujer se escondieron.\n\nEse es el primer golpe. Nosotros nos escondemos. Dios sigue viniendo. Y en lugar de una sentencia, hay una pregunta: \"¿Dónde estás tú?\". No dice \"¿cómo pudiste?\". Una pregunta que invita al que se esconde a salir y hablar.\n\nEl segundo golpe viene en Romanos. Pablo pone a dos hombres uno al lado del otro y deja que el ritmo avance. Una desobediencia de un hombre, y la muerte tomó ventaja. Un acto de obediencia de otro hombre, y la vida empezó su trabajo largo. Y aquí está la frase que lo frena todo: cuando el pecado abundó, sobreabundó la gracia. El pecado trabaja rápido. La gracia trabaja largo. Una mentira cae en un segundo. La confianza toma años.\n\nFluir es el movimiento de la paciencia. Es aprender a leer tu vida por el ritmo largo, no por el momento ruidoso. La costumbre que Dios mantuvo aquella tarde, paseando por el huerto, la sigue manteniendo. Tú te escondes, y él viene a buscarte. No una vez. Cada vez. Ese es el patrón que se repite, y es en el que puedes descansar.",
+      "es_apply": "Piensa en un lugar de tu vida donde te has estado escondiendo, como hizo Adán. Ahora imagina a Dios apareciendo allí de todos modos, igual que siempre, haciéndote una pregunta en lugar de darte una sentencia. ¿Qué le responderías hoy?",
+      "es_prayer": "Dios, mantuviste tu costumbre de caminar cerca aun después de que me escondí de ti. Enséñame tu ritmo lento, y dame el valor de salir de entre los árboles. Amén."
+    },
+    {
+      "week": 6,
       "day": 5,
       "move": "Shape",
       "virtue": "clarity",
