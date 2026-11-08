@@ -2,6 +2,37 @@
   "devotionals": [
     {
       "week": 6,
+      "day": 7,
+      "move": "Zoom",
+      "virtue": "perspective",
+      "theme": "The Fall",
+      "readings": [
+        {
+          "ref": "Genesis 3:9",
+          "text": "But the Lord God called to the man and said to him, 'Where are you?'",
+          "es_ref": "Génesis 3:9",
+          "es_text": "Mas Jehová Dios llamó al hombre, y le dijo: ¿Dónde estás tú?"
+        },
+        {
+          "ref": "Romans 5:15",
+          "text": "But the free gift is not like the trespass. For if many died through one man's trespass, much more have the grace of God and the free gift by the grace of that one man Jesus Christ abounded for many.",
+          "es_ref": "Romanos 5:15",
+          "es_text": "Pero el don no fue como la transgresión; porque si por la transgresión de aquel uno murieron los muchos, abundaron mucho más para los muchos la gracia y el don de Dios por la gracia de un hombre, Jesucristo."
+        }
+      ],
+      "word": "All week we've stood close to the tree. We watched the serpent talk. We watched the man and the woman take and hide. Close up, Genesis 3 reads like the end of something. But Sunday is the day you step back, so let's do that.\n\nFrom a height, the Fall is not the last chapter. It's the hinge. Everything before it runs toward this moment, and everything after runs out of it. And there's a detail easy to miss when you're reading verse by verse: the first word God speaks after the fall is not a curse. It's a question. Where are you?\n\nGod doesn't ask because he doesn't know. He asks because he wants them to come back. That question is the sound of the whole Bible. From Eden to the cross, God walks through the garden of history calling the same thing to hiding people. Where are you?\n\nPaul saw it from the same height. He lines up two men and says, look at the totals. One trespass from Adam, and death reached everyone. One act of obedience from Jesus, and grace did more. Look at that word. Much more. The fall is real and it broke everything, but the math tilts the other way. Sin is a flood, Paul says, but grace is a deeper sea.\n\nSo zoom out and see it whole: the fall isn't the story. The fall is the setting. The story is a God who keeps asking and keeps out-giving the damage. That's the whole book in one frame.",
+      "apply": "Step back and read the week backward. Start at the cross and walk back to the garden. Notice God doing the same thing in both places: seeking, not hiding. Then sit for a minute with the question he asked in the garden, and let yourself answer it.",
+      "prayer": "Father, you have never stopped asking where I am. Thank you that the fall did not end the story, and that your grace always out-runs the damage. Give me the courage to stop hiding and walk toward your voice. Amen.",
+      "date": "2026-11-08",
+      "es_theme": "La Caída",
+      "es_move": "Alejar",
+      "es_virtue": "perspectiva",
+      "es_word": "Toda la semana estuvimos cerca del árbol. Vimos a la serpiente hablar. Vimos al hombre y a la mujer tomar y esconderse. De cerca, Génesis 3 parece el final de algo. Pero el domingo es el día de dar un paso atrás, así que hagámoslo.\n\nDesde lo alto, la Caída no es el último capítulo. Es la bisagra. Todo lo anterior corre hacia este momento, y todo lo que sigue sale de él. Y hay un detalle fácil de perder cuando lees versículo por versículo: la primera palabra que Dios dice después de la caída no es una maldición. Es una pregunta. ¿Dónde estás?\n\nDios no pregunta porque no sepa. Pregunta porque quiere que vuelvan. Esa pregunta es el sonido de toda la Biblia. Desde el Edén hasta la cruz, Dios camina por el jardín de la historia llamando lo mismo a la gente que se esconde. ¿Dónde estás?\n\nPablo lo vio desde la misma altura. Pone a dos hombres frente a frente y dice: mira los totales. Una transgresión de Adán, y la muerte alcanzó a todos. Un acto de obediencia de Jesús, y la gracia hizo más. Mira esa palabra. Mucho más. La caída es real y lo rompió todo, pero la cuenta se inclina hacia el otro lado. El pecado es un río, dice Pablo, pero la gracia es un mar más profundo.\n\nAsí que aléjate y míralo entero: la caída no es la historia. La caída es el escenario. La historia es un Dios que sigue preguntando y sigue dando más de lo que el daño quitó. Ese es el libro entero en una sola imagen.",
+      "es_apply": "Da un paso atrás y lee la semana al revés. Empieza en la cruz y camina de regreso al jardín. Nota que Dios hace lo mismo en ambos lugares: busca, no se esconde. Luego siéntate un momento con la pregunta que hizo en el jardín, y deja que tu corazón la responda.",
+      "es_prayer": "Padre, nunca has dejado de preguntar dónde estoy. Gracias porque la caída no terminó la historia, y porque tu gracia siempre supera el daño. Dame el valor de dejar de esconderme y caminar hacia tu voz. Amén."
+    },
+    {
+      "week": 6,
       "day": 6,
       "move": "Flow",
       "virtue": "patience",
