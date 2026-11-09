@@ -1,6 +1,43 @@
 {
   "devotionals": [
     {
+      "week": 7,
+      "day": 1,
+      "move": "Gather",
+      "virtue": "humility",
+      "theme": "The Bookend",
+      "readings": [
+        {
+          "ref": "Genesis 1:1-3",
+          "text": "In the beginning, God created the heavens and the earth. The earth was without form and void, and darkness was over the face of the deep. And the Spirit of God was hovering over the face of the waters. And God said, 'Let there be light,' and there was light.",
+          "es_ref": "Génesis 1:1-3",
+          "es_text": "En el principio creó Dios los cielos y la tierra. Y la tierra estaba desordenada y vacía, y las tinieblas estaban sobre la faz del abismo, y el Espíritu de Dios se movía sobre la faz de las aguas. Y dijo Dios: Sea la luz; y fue la luz."
+        },
+        {
+          "ref": "Revelation 21:3-5",
+          "text": "And I heard a loud voice from the throne saying, 'Behold, the dwelling place of God is with man. He will dwell with them, and they will be his people, and God himself will be with them as their God. He will wipe away every tear from their eyes, and death shall be no more, neither shall there be mourning, nor crying, nor pain anymore, for the former things have passed away.' And he who was seated on the throne said, 'Behold, I am making all things new.'",
+          "es_ref": "Apocalipsis 21:3-5",
+          "es_text": "Y oí una gran voz del cielo que decía: He aquí el tabernáculo de Dios con los hombres, y él morará con ellos; y ellos serán su pueblo, y Dios mismo estará con ellos como su Dios. Enjugará Dios toda lágrima de los ojos de ellos; y ya no habrá muerte, ni habrá más llanto, ni clamor, ni dolor; porque las primeras cosas pasaron. Y el que estaba sentado en el trono dijo: He aquí, yo hago nuevas todas las cosas."
+        },
+        {
+          "ref": "Revelation 22:1-2",
+          "text": "Then the angel showed me the river of the water of life, bright as crystal, flowing from the throne of God and of the Lamb through the middle of the street of the city; also, on either side of the river, the tree of life with its twelve kinds of fruit, yielding its fruit each month. The leaves of the tree were for the healing of the nations.",
+          "es_ref": "Apocalipsis 22:1-2",
+          "es_text": "Después me mostró un río limpio de agua de vida, resplandeciente como cristal, que salía del trono de Dios y del Cordero. En medio de la calle de la ciudad, y a uno y otro lado del río, estaba el árbol de la vida, que produce doce frutos, dando cada mes su fruto; y las hojas del árbol eran para la sanidad de las naciones."
+        }
+      ],
+      "word": "The first page of the Bible and the last page are about the same thing. That's what Gather asks you to notice. Not to interpret yet, not to draw a lesson yet. Just look.\n\nGenesis opens with darkness and water and God speaking light into both. Revelation ends with a city that needs no lamp and no sun, because God himself is the light. Same God. Same move. He comes to where it's dark and makes it bright.\n\nThen the details. Genesis gives us a garden with a tree and a river. Revelation gives us a city, but look at what sits in the middle of it. A river, bright as crystal, and the tree of life on either side. Not a different tree. The tree. The one that was there at the start, still there at the end.\n\nAnd the man in the middle of it all is the same one. At the beginning God walks with Adam in the cool of the day. At the end the voice from the throne says the dwelling place of God is with man. He will dwell with them. That isn't new information. That was the plan from page one.\n\nSo gather it slowly this morning. The book doesn't start in a garden and end somewhere else. It starts in a garden and ends in a garden that has grown into a city, with the same river, the same tree, the same God who wanted to be near you the whole time. Hold that before you do anything else with it.",
+      "apply": "Before you do anything today, take two minutes and write down everything concrete you actually see in these verses. The water. The light. The tree. The river. The voice. Don't explain any of it. Just list what's there. Then notice which of those details shows up on both the first page and the last page.",
+      "prayer": "God, you were there at the start and you'll be there at the end, and you wanted to be near me the whole time. Teach me to slow down and see what you've actually written. Give me the humility to look before I talk.",
+      "date": "2026-11-09",
+      "es_theme": "El Sujetalibros",
+      "es_move": "Reunir",
+      "es_virtue": "humildad",
+      "es_word": "La primera página de la Biblia y la última hablan de lo mismo. Eso es lo que Reunir te pide que notes. No interpretes todavía, no saques una lección todavía. Solo mira.\n\nGénesis abre con oscuridad y agua, y con Dios hablando luz sobre ambas. Apocalipsis termina con una ciudad que no necesita lámpara ni sol, porque Dios mismo es la luz. El mismo Dios. El mismo gesto. Él llega a donde está oscuro y lo hace brillar.\n\nLuego los detalles. Génesis nos da un jardín con un árbol y un río. Apocalipsis nos da una ciudad, pero mira lo que hay en el medio. Un río, resplandeciente como cristal, y el árbol de la vida a ambos lados. No un árbol distinto. El árbol. El que estaba al principio, todavía ahí al final.\n\nY el hombre en el centro de todo es el mismo. Al principio Dios camina con Adán al aire del día. Al final la voz desde el trono dice que el tabernáculo de Dios está con los hombres. Él morará con ellos. Eso no es información nueva. Ese era el plan desde la primera página.\n\nAsí que reúnelo despacio esta mañana. El libro no empieza en un jardín y termina en otro lugar. Empieza en un jardín y termina en un jardín que ha crecido hasta ser una ciudad, con el mismo río, el mismo árbol, el mismo Dios que quiso estar cerca de ti todo el tiempo. Sostén eso antes de hacer cualquier otra cosa con ello.",
+      "es_apply": "Antes de hacer cualquier cosa hoy, toma dos minutos y escribe todo lo concreto que de verdad ves en estos versículos. El agua. La luz. El árbol. El río. La voz. No expliques nada. Solo haz una lista de lo que está ahí. Luego nota cuáles de esos detalles aparecen tanto en la primera página como en la última.",
+      "es_prayer": "Dios, tú estabas al principio y estarás al final, y quisiste estar cerca de mí todo el tiempo. Enséñame a ir despacio y a ver lo que de verdad has escrito. Dame la humildad de mirar antes de hablar."
+    },
+    {
       "week": 6,
       "day": 7,
       "move": "Zoom",
