@@ -2,6 +2,43 @@
   "devotionals": [
     {
       "week": 7,
+      "day": 2,
+      "move": "Filter",
+      "virtue": "discernment",
+      "theme": "The Bookend",
+      "readings": [
+        {
+          "ref": "Genesis 1:1-2",
+          "text": "In the beginning, God created the heavens and the earth. The earth was without form and void, and darkness was over the face of the deep. And the Spirit of God was hovering over the face of the waters.",
+          "es_ref": "Génesis 1:1-2",
+          "es_text": "En el principio creó Dios los cielos y la tierra. Y la tierra estaba desordenada y vacía, y las tinieblas estaban sobre la faz del abismo, y el Espíritu de Dios se movía sobre la faz de las aguas."
+        },
+        {
+          "ref": "Revelation 21:3-4",
+          "text": "And I heard a loud voice from the throne saying, 'Behold, the dwelling place of God is with man. He will dwell with them, and they will be his people, and God himself will be with them as their God. He will wipe away every tear from their eyes, and death shall be no more.'",
+          "es_ref": "Apocalipsis 21:3-4",
+          "es_text": "Y oí una gran voz del cielo que decía: He aquí el tabernáculo de Dios con los hombres, y él morará con ellos; y ellos serán su pueblo, y Dios mismo estará con ellos como su Dios. Enjugará Dios toda lágrima de los ojos de ellos; y ya no habrá muerte, ni habrá más llanto, ni clamor, ni dolor; porque las primeras cosas pasaron."
+        },
+        {
+          "ref": "Revelation 22:1-2",
+          "text": "Then the angel showed me the river of the water of life, bright as crystal, flowing from the throne of God and of the Lamb through the middle of the street of the city; also, on either side of the river, the tree of life with its twelve kinds of fruit, yielding its fruit each month. The leaves of the tree were for the healing of the nations.",
+          "es_ref": "Apocalipsis 22:1-2",
+          "es_text": "Después me mostró un río limpio de agua de vida, resplandeciente como cristal, que salía del trono de Dios y del Cordero. En medio de la calle de la ciudad, y a uno y otro lado del río, estaba el árbol de la vida, que produce doce frutos, dando cada mes su fruto; y las hojas del árbol eran para la sanidad de las naciones."
+        }
+      ],
+      "word": "Filter means asking what a thing means, and just as much, what it doesn't. So before you line up Genesis and Revelation and call them matching bookends, slow down and check the fit.\n\nThey are not the same picture. The book opens with darkness over the deep, an earth without form, the Spirit hovering over water. The book closes with a city, light that never goes out, and no sea at all. Same God, same story, but the ending is not a rerun of the beginning. That's the first thing to filter out: the Bible does not promise you get the garden back. It promises something better. The garden was a seed. The city is the harvest.\n\nAnd notice the direction. We usually picture heaven as a place we climb up to. The text says the opposite. The holy city comes down, out of heaven, from God. God doesn't call you to escape the world. He moves into it. The last pages are not about leaving. They are about him arriving.\n\nThat's what the tree and river tell you. The tree of life, the one barred after the fall, shows up again at the very end, standing on both sides of a river that flows from God's throne. Its leaves heal the nations. What got locked is unlocked. What started in a garden finishes as a city with the garden still inside it.\n\nSo filter the bookends carefully. The promise isn't going back. It's going all the way through.",
+      "apply": "Think about the two ends of one thing in your life. Where did it start, and where is it actually headed? If the direction feels like escape, like getting away from it all, ask what it would look like to let God move into the middle of it instead.",
+      "prayer": "Lord, thank you that the story doesn't end where it started. Teach me to read the whole arc, not just the page I'm on. Help me trust that you're moving in, not calling me to run away. Amen.",
+      "date": "2026-11-10",
+      "es_theme": "El Comienzo y el Fin",
+      "es_move": "Filtrar",
+      "es_virtue": "discernimiento",
+      "es_word": "Filtrar es preguntar qué significa una cosa y, con la misma fuerza, qué no significa. Así que antes de poner Génesis y Apocalipsis uno al lado del otro y llamarlos extremos que coinciden, ve despacio y revisa el ajuste.\n\nNo son la misma imagen. El libro abre con tinieblas sobre el abismo, una tierra sin forma, el Espíritu moviéndose sobre las aguas. El libro cierra con una ciudad, una luz que nunca se apaga, y ya sin mar. El mismo Dios, la misma historia, pero el final no es una repetición del comienzo. Eso es lo primero que hay que filtrar: la Biblia no te promete que vas a recuperar el jardín. Te promete algo mejor. El jardín era una semilla. La ciudad es la cosecha.\n\nY fíjate en la dirección. Nosotros solemos imaginarnos el cielo como un lugar al que subimos. El texto dice lo contrario. La ciudad santa baja del cielo, de parte de Dios. Dios no te llama a escapar del mundo. Él se muda a él. Las últimas páginas no hablan de irse. Hablan de que él llega.\n\nEso es lo que te dicen el árbol y el río. El árbol de la vida, el que quedó cerrado después de la caída, aparece otra vez al final, a los dos lados de un río que fluye desde el trono de Dios. Sus hojas sanan a las naciones. Lo que se cerró se abre. Lo que empezó en un jardín termina como una ciudad con el jardín todavía adentro.\n\nAsí que filtra bien los extremos. La promesa no es volver atrás. Es atravesarlo todo hasta el final.",
+      "es_apply": "Piensa en los dos extremos de una cosa en tu vida. ¿Dónde empezó y hacia dónde va de verdad? Si la dirección se siente como una huida, como querer escapar de todo, pregúntate cómo se vería dejar que Dios se mude al centro en lugar de escapar.",
+      "es_prayer": "Señor, gracias porque la historia no termina donde empezó. Enséñame a leer el arco completo, no solo la página en la que estoy. Ayúdame a confiar en que tú te mudas adentro y no me llamas a huir. Amén."
+    },
+    {
+      "week": 7,
       "day": 1,
       "move": "Gather",
       "virtue": "humility",
