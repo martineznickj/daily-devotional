@@ -2,6 +2,43 @@
   "devotionals": [
     {
       "week": 7,
+      "day": 3,
+      "move": "Deliver",
+      "virtue": "generosity",
+      "theme": "The Bookend",
+      "readings": [
+        {
+          "ref": "Genesis 1:1",
+          "text": "In the beginning, God created the heavens and the earth.",
+          "es_ref": "Génesis 1:1",
+          "es_text": "En el principio creó Dios los cielos y la tierra."
+        },
+        {
+          "ref": "Revelation 21:3",
+          "text": "Behold, the dwelling place of God is with man. He will dwell with them, and they will be his people, and God himself will be with them as their God.",
+          "es_ref": "Apocalipsis 21:3",
+          "es_text": "Y oí una gran voz del cielo que decía: He aquí el tabernáculo de Dios con los hombres, y él morará con ellos; y ellos serán su pueblo, y Dios mismo estará con ellos como su Dios."
+        },
+        {
+          "ref": "Revelation 22:1",
+          "text": "Then the angel showed me the river of the water of life, bright as crystal, flowing from the throne of God and of the Lamb.",
+          "es_ref": "Apocalipsis 22:1",
+          "es_text": "Después me mostró un río limpio de agua de vida, resplandeciente como cristal, que salía del trono de Dios y del Cordero."
+        }
+      ],
+      "word": "Deliver is the move where you stop reading and say it back in your own words. The virtue behind it is generosity, because taking a hard idea, putting it in plain language, and handing it to someone is a gift. So today's job is one sentence. The whole book, in one breath.\n\nHere's my try. God made a garden where he lived with us. We broke it. He's coming back to make a city where he lives with us forever, and nothing breaks it again. That's the bookend.\n\nGenesis one starts it. God creates, and his Spirit hovers over the water the way a bird sits over its nest. Revelation twenty-two ends it with the same picture. A river runs from God's throne, and the tree of life grows on both banks, its leaves healing the nations. The tree and the river never went away. Neither did God.\n\nAt the start we were cut off from the tree. At the end nobody is. John hears a loud voice: the dwelling place of God is with man. A new heaven and a new earth, and it's easy to hear that as God scrapping the old plan and starting fresh. He isn't. He's finishing the plan he started in the first verse.\n\nNow say it yourself, in your own sentence, not mine. Out loud, and to someone if you can. You'll find the sentence you can actually hand to another person is the one you've already taken hold of yourself. That's the generosity of it. You don't get the story by guarding it. You get it by handing it over.",
+      "apply": "Try this today. Before you close the book, say the whole story out loud in one sentence, and in your own words. If you can't do it yet, you've found the part you don't own. Go read that part again. The point isn't to sound smart. It's to be able to give the story away to someone who needs it.",
+      "prayer": "God, thank you for a story that ends where it began, with you living with us. Teach me to hold it well enough to hand it to someone else. Give me your words, and give me someone to share them with.",
+      "date": "2026-11-11",
+      "es_theme": "El Sujetalibros",
+      "es_move": "Entregar",
+      "es_virtue": "generosidad",
+      "es_word": "Entregar es el movimiento en el que dejas de leer y lo dices otra vez con tus propias palabras. La virtud detrás es la generosidad, porque tomar una idea difícil, ponerla en un lenguaje sencillo y dársela a alguien es un regalo. Así que la tarea de hoy es una sola frase. Todo el libro, en un solo aliento.\n\nEste es mi intento. Dios hizo un jardín donde vivía con nosotros. Nosotros lo rompimos. Él va a volver para hacer una ciudad donde vivirá con nosotros para siempre, y nada la va a romper otra vez. Ese es el sujetalibros.\n\nGénesis uno lo comienza. Dios crea, y su Espíritu se mueve sobre el agua como un ave que se posa sobre su nido. Apocalipsis veintidós lo termina con la misma imagen. Un río sale del trono de Dios, y el árbol de la vida crece a ambos lados, y sus hojas sanan a las naciones. El árbol y el río nunca se fueron. Dios tampoco.\n\nAl principio quedamos separados del árbol. Al final nadie lo está. Juan escucha una gran voz: el tabernáculo de Dios está con los hombres. Un cielo nuevo y una tierra nueva, y es fácil escuchar eso como si Dios descartara el plan viejo y empezara de cero. No es así. Él está terminando el plan que empezó en el primer versículo.\n\nAhora dilo tú, con tu propia frase, no la mía. En voz alta, y a alguien si puedes. Vas a descubrir que la frase que de verdad puedes darle a otra persona es la que tú ya tomaste primero. Esa es la generosidad. No te quedas con la historia al guardarla. Te la quedas al entregarla.",
+      "es_apply": "Prueba esto hoy. Antes de cerrar el libro, di la historia completa en voz alta, en una sola frase, y con tus propias palabras. Si todavía no puedes, acabas de encontrar la parte que no es tuya. Vuelve a leerla. El punto no es sonar inteligente. Es poder regalarle la historia a alguien que la necesita.",
+      "es_prayer": "Dios, gracias por una historia que termina donde empezó, contigo viviendo con nosotros. Enséñame a sostenerla lo bastante bien como para dársela a otra persona. Dame tus palabras, y dame a alguien con quien compartirlas."
+    },
+    {
+      "week": 7,
       "day": 2,
       "move": "Filter",
       "virtue": "discernment",
