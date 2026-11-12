@@ -2,6 +2,43 @@
   "devotionals": [
     {
       "week": 7,
+      "day": 4,
+      "move": "Count",
+      "virtue": "honesty",
+      "theme": "The Bookend",
+      "readings": [
+        {
+          "ref": "Genesis 1:1",
+          "text": "In the beginning, God created the heavens and the earth.",
+          "es_ref": "Génesis 1:1",
+          "es_text": "En el principio creó Dios los cielos y la tierra."
+        },
+        {
+          "ref": "Genesis 2:9",
+          "text": "And out of the ground the LORD God made to spring up every tree that is pleasant to the sight and good for food. The tree of life was in the midst of the garden, and the tree of the knowledge of good and evil.",
+          "es_ref": "Génesis 2:9",
+          "es_text": "Y Jehová Dios hizo nacer de la tierra todo árbol delicioso a la vista, y bueno para comer; también el árbol de vida en medio del huerto, y el árbol de la ciencia del bien y del mal."
+        },
+        {
+          "ref": "Revelation 22:1-2",
+          "text": "Then the angel showed me the river of the water of life, bright as crystal, flowing from the throne of God and of the Lamb through the middle of the street of the city; also, on either side of the river, the tree of life with its twelve kinds of fruit, yielding its fruit each month. The leaves of the tree were for the healing of the nations.",
+          "es_ref": "Apocalipsis 22:1-2",
+          "es_text": "Después me mostró un río limpio de agua de vida, resplandeciente como cristal, que salía del trono de Dios y del Cordero. En medio de la calle de la ciudad, y a uno y otro lado del río, estaba el árbol de la vida, que produce doce frutos, dando cada mes su fruto; y las hojas del árbol eran para la sanidad de las naciones."
+        }
+      ],
+      "word": "Count today. Don't explain anything yet. Just count.\n\nOpen the front of the book. There's a garden, and in it a river and a tree of life. Behind all of it, God. Now flip to the back. There's a city, and through the middle of it a river, and on either side of the river a tree of life. The same river. The same tree. The garden became a city, but the river never dried up and the tree never got cut down.\n\nThat's the bookend. The Bible isn't two stories, an old one and a new one. It's one story with a front door and a back door, and both doors are made of the same wood.\n\nHonesty is the right virtue for this move, because numbers don't flatter you. Genesis says one river flowed out of Eden and split into four. Revelation says one river runs through the city. The four came back together into one. And the tree of life sits in the first chapters and the last chapters, mostly quiet in between, like the story set it down at the start and left it waiting.\n\nWhat changed is the scale, not the furniture. A garden for two people became a city for every nation, and now the leaves of the tree heal them instead of standing behind a gate. But count it and it's the same river and the same tree, with the same God at the center.",
+      "apply": "Take two minutes and write down, by hand, everything you can find that shows up in both Genesis one and two and Revelation twenty-one and twenty-two. Then name the one thing that has stayed true at both ends of your life so far, and let it steady you today.",
+      "prayer": "Lord, you started this story and you mean to finish it. Teach me to count the things that never change, and to rest in them instead of in the things that won't last. Amen.",
+      "date": "2026-11-12",
+      "es_theme": "El Sujetalibros",
+      "es_move": "Contar",
+      "es_virtue": "honestidad",
+      "es_word": "Cuenta hoy. No expliques nada todavía. Solo cuenta.\n\nAbre el principio del libro. Hay un huerto, y en él un río y un árbol de la vida. Detrás de todo, Dios. Ahora salta al final. Hay una ciudad, y por en medio de ella un río, y a cada lado del río un árbol de la vida. El mismo río. El mismo árbol. El huerto se volvió ciudad, pero el río nunca se secó y el árbol nunca fue cortado.\n\nEse es el sujetalibros. La Biblia no son dos historias, una vieja y una nueva. Es una sola historia con una puerta de entrada y una puerta de salida, y las dos puertas están hechas de la misma madera.\n\nLa honestidad es la virtud correcta para este movimiento, porque los números no te halagan. Génesis dice que un río salía del Edén y se dividía en cuatro. Apocalipsis dice que un río corre por la ciudad. Los cuatro volvieron a juntarse en uno. Y el árbol de la vida está en los primeros capítulos y en los últimos, casi en silencio en medio, como si la historia lo hubiera dejado al principio y lo dejara esperando.\n\nLo que cambió fue la escala, no los muebles. Un huerto para dos personas se volvió una ciudad para todas las naciones, y ahora las hojas del árbol las sanan en vez de quedar detrás de una puerta. Pero cuéntalo y es el mismo río y el mismo árbol, con el mismo Dios al centro.",
+      "es_apply": "Toma dos minutos y escribe a mano todo lo que encuentres que aparece tanto en Génesis uno y dos como en Apocalipsis veintiuno y veintidós. Luego nombra lo único que ha seguido en pie en los dos extremos de tu vida hasta ahora, y deja que te dé calma hoy.",
+      "es_prayer": "Señor, tú empezaste esta historia y piensas terminarla. Enséñame a contar lo que nunca cambia, y a descansar en ello en vez de en lo que no va a durar. Amén."
+    },
+    {
+      "week": 7,
       "day": 3,
       "move": "Deliver",
       "virtue": "generosity",
