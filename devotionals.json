@@ -2,6 +2,43 @@
   "devotionals": [
     {
       "week": 7,
+      "day": 5,
+      "move": "Shape",
+      "virtue": "clarity",
+      "theme": "The Bookend",
+      "readings": [
+        {
+          "ref": "Genesis 1:1-2",
+          "text": "In the beginning, God created the heavens and the earth. The earth was without form and void, and darkness was over the face of the deep. And the Spirit of God was hovering over the face of the waters.",
+          "es_ref": "Génesis 1:1-2",
+          "es_text": "En el principio creó Dios los cielos y la tierra. Y la tierra estaba desordenada y vacía, y las tinieblas estaban sobre la faz del abismo, y el Espíritu de Dios se movía sobre la faz de las aguas."
+        },
+        {
+          "ref": "Revelation 21:1-2",
+          "text": "Then I saw a new heaven and a new earth, for the first heaven and the first earth had passed away, and the sea was no more. And I saw the holy city, new Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband.",
+          "es_ref": "Apocalipsis 21:1-2",
+          "es_text": "Vi un cielo nuevo y una tierra nueva; porque el primer cielo y la primera tierra pasaron, y el mar ya no existía más. Y yo Juan vi la santa ciudad, la nueva Jerusalén, descender del cielo, de Dios, dispuesta como una esposa ataviada para su marido."
+        },
+        {
+          "ref": "Revelation 22:1-2",
+          "text": "Then the angel showed me the river of the water of life, bright as crystal, flowing from the throne of God and of the Lamb through the middle of the street of the city; also, on either side of the river, the tree of life with its twelve kinds of fruit, yielding its fruit each month. The leaves of the tree were for the healing of the nations.",
+          "es_ref": "Apocalipsis 22:1-2",
+          "es_text": "Después me mostró un río limpio de agua de vida, resplandeciente como cristal, que salía del trono de Dios y del Cordero. En medio de la calle de la ciudad, y a uno y otro lado del río, estaba el árbol de la vida, que produce doce frutos, dando cada mes su fruto; y las hojas del árbol eran para la sanidad de las naciones."
+        }
+      ],
+      "word": "Shape asks one question: how does this piece fit the whole story? And the bookend is the clearest answer the Bible gives. Open the book and you're in a garden. Close it and you're in a city. Same tree, same river. And the same God, closer at the end than he was at the start.\n\nIn Genesis the Spirit of God hovers over the face of the waters. In Revelation the river of the water of life flows from the throne through the middle of the street. In Genesis the tree of life stands in the garden. In Revelation it grows on either side of the river, its leaves for the healing of the nations. What started small and hidden ends big and public. A garden for two becomes a city for everyone.\n\nThere's one sharp line to see. In the beginning God speaks light into a dark, formless world. At the end there is no night. They need no lamp or sun, because the Lord God himself is their light. The whole book moves from \"let there be light\" to \"the Lord God will be their light.\" The same God, closer now than he was then.\n\nThis is why Shape matters. If you only read Genesis you see a story that breaks. If you only read Revelation you see a story that starts in the middle. Put the two ends together and you see the whole shape. God made a world, we broke it, and he doesn't abandon it. He redeems it. The bookend holds the story open, and the same tree and river show up at both ends, with the same God, to promise it's the same story the whole way through.",
+      "apply": "Read the first three chapters of Genesis and the last two of Revelation back to back. Notice what stayed the same and what changed, and let that show you the shape of the whole story.",
+      "prayer": "Lord, help me see the whole story, not just the page I'm on. You made a world, you stayed with it, and you're making it new. Teach me to hold both ends and trust you in the middle.",
+      "date": "2026-11-13",
+      "es_theme": "El remate",
+      "es_move": "Formar",
+      "es_virtue": "claridad",
+      "es_word": "Formar hace una sola pregunta: ¿cómo encaja esta pieza en toda la historia? Y el remate es la respuesta más clara que da la Biblia. Abre el libro y estás en un jardín. Ciérralo y estás en una ciudad. El mismo árbol, el mismo río. Y el mismo Dios, más cerca al final que al principio.\n\nEn Génesis el Espíritu de Dios se mueve sobre la faz de las aguas. En Apocalipsis el río de agua de vida sale del trono y corre por el medio de la calle. En Génesis el árbol de la vida está en el jardín. En Apocalipsis crece a uno y otro lado del río, con hojas para la sanidad de las naciones. Lo que empezó pequeño y escondido termina grande y a la vista de todos. Un jardín para dos se vuelve una ciudad para todos.\n\nY hay una línea muy clara. Al principio Dios habla y hace salir la luz en un mundo oscuro y sin forma. Al final ya no hay noche. No necesitan lámpara ni sol, porque Dios el Señor los ilumina. Todo el libro va de \"sea la luz\" a \"Dios el Señor los iluminará\". El mismo Dios, más cerca que antes.\n\nPor eso importa Formar. Si solo lees Génesis ves una historia que se rompe. Si solo lees Apocalipsis ves una historia que empieza por la mitad. Pon los dos extremos juntos y ves la forma entera. Dios hizo un mundo, nosotros lo rompimos, y él no lo abandona. Lo redime. El remate sostiene la historia abierta, y el mismo árbol y el mismo río aparecen en los dos extremos, con el mismo Dios, para prometer que es la misma historia de principio a fin.",
+      "es_apply": "Lee los tres primeros capítulos de Génesis y los dos últimos de Apocalipsis, uno seguido del otro. Mira qué siguió igual y qué cambió, y deja que eso te muestre la forma de toda la historia.",
+      "es_prayer": "Señor, ayúdame a ver la historia entera y no solo la página donde estoy. Tú hiciste un mundo, te quedaste con él, y lo estás haciendo nuevo. Enséñame a sostener los dos extremos y a confiar en ti en el medio."
+    },
+    {
+      "week": 7,
       "day": 4,
       "move": "Count",
       "virtue": "honesty",
