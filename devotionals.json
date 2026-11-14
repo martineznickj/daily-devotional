@@ -2,6 +2,43 @@
   "devotionals": [
     {
       "week": 7,
+      "day": 6,
+      "move": "Flow",
+      "virtue": "patience",
+      "theme": "The Bookend",
+      "readings": [
+        {
+          "ref": "Genesis 1:1-3",
+          "text": "In the beginning, God created the heavens and the earth. The earth was without form and void, and darkness was over the face of the deep. And the Spirit of God was hovering over the face of the waters. And God said, 'Let there be light,' and there was light.",
+          "es_ref": "Génesis 1:1-3",
+          "es_text": "En el principio creó Dios los cielos y la tierra. Y la tierra estaba desordenada y vacía, y las tinieblas estaban sobre la faz del abismo, y el Espíritu de Dios se movía sobre la faz de las aguas. Y dijo Dios: Sea la luz; y fue la luz."
+        },
+        {
+          "ref": "Revelation 21:1-5",
+          "text": "Then I saw a new heaven and a new earth, for the first heaven and the first earth had passed away, and the sea was no more. And I saw the holy city, new Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband. And I heard a loud voice from the throne saying, 'Behold, the dwelling place of God is with man. He will dwell with them, and they will be his people, and God himself will be with them as their God. He will wipe away every tear from their eyes, and death shall be no more, neither shall there be mourning, nor crying, nor pain anymore, for the former things have passed away.' And he who was seated on the throne said, 'Behold, I am making all things new.'",
+          "es_ref": "Apocalipsis 21:1-5",
+          "es_text": "Vi un cielo nuevo y una tierra nueva; porque el primer cielo y la primera tierra pasaron, y el mar ya no existía más. Y yo Juan vi la santa ciudad, la nueva Jerusalén, descender del cielo, de Dios, dispuesta como una esposa ataviada para su marido. Y oí una gran voz del cielo que decía: He aquí el tabernáculo de Dios con los hombres, y él morará con ellos; y ellos serán su pueblo, y Dios mismo estará con ellos como su Dios. Enjugará Dios toda lágrima de los ojos de ellos; y ya no habrá muerte, ni habrá más llanto, ni clamor, ni dolor; porque las primeras cosas pasaron. Y el que estaba sentado en el trono dijo: He aquí, yo hago nuevas todas las cosas."
+        },
+        {
+          "ref": "Revelation 22:1-5",
+          "text": "Then the angel showed me the river of the water of life, bright as crystal, flowing from the throne of God and of the Lamb through the middle of the street of the city; also, on either side of the river, the tree of life with its twelve kinds of fruit, yielding its fruit each month. The leaves of the tree were for the healing of the nations. No longer will there be anything accursed, but the throne of God and of the Lamb will be in it, and his servants will worship him. They will see his face, and his name will be on their foreheads. And night will be no more. They will need no light of lamp or sun, for the Lord God will be their light, and they will reign forever and ever.",
+          "es_ref": "Apocalipsis 22:1-5",
+          "es_text": "Después me mostró un río limpio de agua de vida, resplandeciente como cristal, que salía del trono de Dios y del Cordero. En medio de la calle de la ciudad, y a uno y otro lado del río, estaba el árbol de la vida, que produce doce frutos, dando cada mes su fruto; y las hojas del árbol eran para la sanidad de las naciones. Y no habrá más maldición; y el trono de Dios y del Cordero estará en ella, y sus siervos le servirán, y verán su rostro, y su nombre estará en sus frentes. No habrá allí más noche; y no tienen necesidad de luz de lámpara, ni de luz del sol, porque Dios el Señor los iluminará; y reinarán por los siglos de los siglos."
+        }
+      ],
+      "word": "Flow is about rhythm, the thing that comes back around. Open the Bible at page one and you're standing in a garden. There's a river, a tree, and God walking with people in the cool of the day. Turn to the last page and you're in a city. But look at what's still there. A river. A tree of life. And God, this time not just passing through but living right in the middle, close enough to wipe tears from eyes.\n\nSame pieces at both ends. That's the pattern. The story doesn't run from a garden to nowhere. It runs from garden to city, from small to full, from God nearby to God at home. Everything in between, the fall, the flood, the kings, the exile, the cross, is the long slow middle. Flow hears the beat under all of it.\n\nThe virtue that rides with Flow is patience. The middle is where you live. You're somewhere between the garden and the city, and the pattern doesn't hurry. A river doesn't rush toward its end, it just runs. God planted a garden knowing it would become a city, and he hasn't panicked about it once. You can borrow that same calm. What he started, he finishes. The same God on the first page is the one on the last, and he's still walking toward you in the middle.",
+      "apply": "Think of the part of your life that feels like a long middle right now, the waiting that drags. What has already come back around? Name one thing from your beginning that's still true today. The pattern isn't lost. It's just moving at river speed.",
+      "prayer": "God, you started this and you will finish it. Teach me to trust the middle, to see the pattern instead of the delay. Keep me patient while the river runs toward the city. Amen.",
+      "date": "2026-11-14",
+      "es_theme": "El remate",
+      "es_move": "Fluir",
+      "es_virtue": "paciencia",
+      "es_word": "Fluir tiene que ver con el ritmo, con lo que vuelve a aparecer. Abre la Biblia en la primera página y estás en un huerto. Hay un río, un árbol, y Dios caminando con la gente al fresco del día. Pasa a la última página y estás en una ciudad. Pero mira lo que sigue ahí. Un río. Un árbol de la vida. Y Dios, esta vez no solo de paso, sino viviendo justo en el centro, lo bastante cerca para enjugar las lágrimas de los ojos.\n\nLas mismas piezas en los dos extremos. Ese es el patrón. La historia no va de un huerto a la nada. Va de un huerto a una ciudad, de lo pequeño a lo pleno, de un Dios cercano a un Dios en casa. Todo lo que hay en medio, la caída, el diluvio, los reyes, el destierro, la cruz, es el medio largo y lento. Fluir oye el latido debajo de todo eso.\n\nLa virtud que acompaña a Fluir es la paciencia. El medio es donde vives tú. Estás entre el huerto y la ciudad, y el patrón no tiene prisa. Un río no corre hacia su fin, simplemente fluye. Dios plantó un huerto sabiendo que se volvería ciudad, y no se ha angustiado ni una sola vez. Puedes tomar prestada esa calma. Lo que él empezó, lo termina. El mismo Dios de la primera página es el de la última, y sigue caminando hacia ti en el medio.",
+      "es_apply": "Piensa en la parte de tu vida que ahora mismo se siente como un medio largo, la espera que se alarga. ¿Qué ha vuelto a aparecer ya? Nombra una cosa de tu comienzo que sigue siendo cierta hoy. El patrón no se ha perdido. Solo se mueve a velocidad de río.",
+      "es_prayer": "Dios, tú empezaste esto y tú lo terminarás. Enséñame a confiar en el medio, a ver el patrón en lugar de la demora. Mantenme paciente mientras el río corre hacia la ciudad. Amén."
+    },
+    {
+      "week": 7,
       "day": 5,
       "move": "Shape",
       "virtue": "clarity",
