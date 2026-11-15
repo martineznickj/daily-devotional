@@ -2,6 +2,43 @@
   "devotionals": [
     {
       "week": 7,
+      "day": 7,
+      "move": "Zoom",
+      "virtue": "perspective",
+      "theme": "The Bookend",
+      "readings": [
+        {
+          "ref": "Genesis 1:1",
+          "text": "In the beginning, God created the heavens and the earth.",
+          "es_ref": "Génesis 1:1",
+          "es_text": "En el principio creó Dios los cielos y la tierra."
+        },
+        {
+          "ref": "Revelation 21:3",
+          "text": "And I heard a loud voice from the throne saying, 'Behold, the dwelling place of God is with man. He will dwell with them, and they will be his people, and God himself will be with them as their God.'",
+          "es_ref": "Apocalipsis 21:3",
+          "es_text": "Y oí una gran voz del cielo que decía: He aquí el tabernáculo de Dios con los hombres, y él morará con ellos; y ellos serán su pueblo, y Dios mismo estará con ellos como su Dios."
+        },
+        {
+          "ref": "Revelation 22:1-2",
+          "text": "Then the angel showed me the river of the water of life, bright as crystal, flowing from the throne of God and of the Lamb through the middle of the street of the city; also, on either side of the river, the tree of life with its twelve kinds of fruit.",
+          "es_ref": "Apocalipsis 22:1-2",
+          "es_text": "Después me mostró un río limpio de agua de vida, resplandeciente como cristal, que salía del trono de Dios y del Cordero. En medio de la calle de la ciudad, y a uno y otro lado del río, estaba el árbol de la vida, que produce doce frutos, dando cada mes su fruto."
+        }
+      ],
+      "word": "Zoom asks you to step back. Set down the single verses and the single days for a moment, and look at the two ends of the book at once. It opens in a garden with a river and a tree. It closes in a city with a river and a tree. Same book, same God, and the whole story between them is Him walking back toward the people He made.\n\nGenesis starts quiet. God speaks, light appears, and a garden grows out of nothing. There's a tree of life there, and a river. Then the people leave the garden. Sin gets in the middle, and for thousands of years the story is God finding His way back. Every covenant, every prophet, every promise is a step in that same direction.\n\nNow look at the other end. John sees a city coming down out of heaven, and it's not just any city. The tree of life is back, growing on both sides of the river. The river flows from the throne of God. And here's the line that holds it all together: the dwelling place of God is with man. The garden was God with His people. The city is God with His people, forever. The book doesn't end with us climbing up to Him. It ends with Him coming down to stay.\n\nThat's the whole thing in one glance. Genesis and Revelation are the same picture, the first one small and the second one finished. Everything in between is the road from one to the other. When you zoom out, the Bible stops being a pile of separate stories and becomes one story: God set up a home, we broke it, and He's bringing it back, better than before.",
+      "apply": "Think about the last thing you finished that felt whole, a project or a season. Now step back from it the way Zoom steps back from the whole Bible. What's the one thread that ran from its beginning to its end? Notice that God was working through it even when the middle looked broken.",
+      "prayer": "Father, help me see the whole story and not just the page I'm on today. Thank you that the end of the book is you, dwelling with us. Keep my eyes lifted to the city you're bringing down. Amen.",
+      "date": "2026-11-15",
+      "es_theme": "El Principio y el Fin",
+      "es_move": "Alejar",
+      "es_virtue": "perspectiva",
+      "es_word": "Alejar te pide que des un paso atrás. Deja por un momento los versos sueltos y los días sueltos, y mira los dos extremos del libro a la vez. Empieza en un jardín con un río y un árbol. Termina en una ciudad con un río y un árbol. El mismo libro, el mismo Dios, y toda la historia que hay en medio es Él caminando de regreso hacia la gente que creó.\n\nGénesis empieza en calma. Dios habla, aparece la luz, y de la nada crece un jardín. Ahí hay un árbol de la vida, y un río. Después la gente sale del jardín. El pecado se mete en medio, y durante miles de años la historia es Dios buscando el camino de vuelta. Cada pacto, cada profeta, cada promesa es un paso en esa misma dirección.\n\nAhora mira el otro extremo. Juan ve una ciudad que baja del cielo, y no es una ciudad cualquiera. El árbol de la vida ha vuelto, creciendo a ambos lados del río. El río sale del trono de Dios. Y aquí está la frase que lo sostiene todo: el tabernáculo de Dios está con los hombres. El jardín era Dios con su pueblo. La ciudad es Dios con su pueblo, para siempre. El libro no termina con nosotros subiendo hacia Él. Termina con Él bajando para quedarse.\n\nEso es todo, de un vistazo. Génesis y Apocalipsis son el mismo cuadro, el primero pequeño y el segundo terminado. Todo lo que hay en medio es el camino de uno al otro. Cuando alejas la vista, la Biblia deja de ser un montón de historias sueltas y se vuelve una sola historia: Dios preparó un hogar, nosotros lo rompimos, y Él lo está trayendo de vuelta, mejor que antes.",
+      "es_apply": "Piensa en lo último que terminaste y que te dejó una sensación de algo completo, un proyecto o una etapa. Ahora da un paso atrás, como hace Alejar con toda la Biblia. ¿Cuál es el hilo que corrió desde su principio hasta su fin? Date cuenta de que Dios estaba obrando en medio, aun cuando la parte del medio parecía rota.",
+      "es_prayer": "Padre, ayúdame a ver la historia completa y no solo la página en la que estoy hoy. Gracias porque el final del libro eres tú, morando con nosotros. Mantén mis ojos levantados hacia la ciudad que estás bajando. Amén."
+    },
+    {
+      "week": 7,
       "day": 6,
       "move": "Flow",
       "virtue": "patience",
