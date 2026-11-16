@@ -1,6 +1,49 @@
 {
   "devotionals": [
     {
+      "week": 8,
+      "day": 1,
+      "move": "Gather",
+      "virtue": "humility",
+      "theme": "Typology",
+      "readings": [
+        {
+          "ref": "Romans 5:14",
+          "text": "Yet death reigned from Adam to Moses, even over those whose sinning was not like the transgression of Adam, who was a type of the one who was to come.",
+          "es_ref": "Romanos 5:14",
+          "es_text": "No obstante, reinó la muerte desde Adán hasta Moisés, aun en los que no pecaron a la manera de la transgresión de Adán, el cual es figura del que había de venir."
+        },
+        {
+          "ref": "John 3:14",
+          "text": "And as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up,",
+          "es_ref": "Juan 3:14",
+          "es_text": "Y como Moisés levantó la serpiente en el desierto, así es necesario que el Hijo del Hombre sea levantado,"
+        },
+        {
+          "ref": "1 Corinthians 5:7",
+          "text": "Cleanse out the old leaven that you may be a new lump, as you really are unleavened. For Christ, our Passover lamb, has been sacrificed.",
+          "es_ref": "1 Corintios 5:7",
+          "es_text": "Limpiaos, pues, de la vieja levadura, para que seáis nueva masa, sin levadura como sois; porque nuestra pascua, que es Cristo, ya fue sacrificada por nosotros."
+        },
+        {
+          "ref": "Galatians 3:24",
+          "text": "So then, the law was our guardian until Christ came, in order that we might be justified by faith.",
+          "es_ref": "Gálatas 3:24",
+          "es_text": "De manera que la ley ha sido nuestro ayo, para llevarnos a Cristo, a fin de que fuésemos justificados por la fe."
+        }
+      ],
+      "word": "Typology is a big word, and it can feel like one. Here's what Gather asks before any of that. Slow down. Look at the page. Four short verses, and each one points backward to something old and forward to someone new. Adam is called \"a type of the one who was to come.\" The serpent Moses lifted in the desert gets lifted again, only this time it's the Son of Man. Christ is called our Passover lamb. The law is called a guardian. Notice the pattern. Every one of these is a real thing first. A real man named Adam. A real bronze serpent. A real lamb killed the night Israel left Egypt. A real set of commands given at Sinai. God didn't start with an idea and then build a story to fit it. He did the thing first, in history, with dirt and blood and fire. The shadow came later, and the shadow has a name. Jesus.\n\nGather's humility is just this: read what's there before you build a system. You don't have to force every Old Testament detail to mean something. You only watch how Paul and John did it. They picked real events and let them point forward. Adam points to the one who would come to undo what Adam did. The serpent points to the cross. The lamb points to the sacrifice. The law points to the classroom that hands you off to the teacher. The method is already on the page. You're not inventing connections. You're noticing the ones the Bible already drew.",
+      "apply": "Pick one of these four pictures and sit with it for a minute today. The serpent, the lamb, the guardian, or Adam. Read the old story it comes from slowly, out loud if you can. Before you ask what it means, ask what it says. Write down the plain facts. That's the whole move.",
+      "prayer": "Lord, slow me down. Teach me to read what you actually wrote before I reach for what I think it means. Open my eyes to the real things you did, so I can see the one they all point to. Amen.",
+      "date": "2026-11-16",
+      "es_theme": "Tipología",
+      "es_move": "Reunir",
+      "es_virtue": "humildad",
+      "es_word": "Tipología suena a palabra grande, y puede sentirse como una. Esto es lo que Reunir pide antes de todo eso. Ve despacio. Mira la página. Cuatro versículos cortos, y cada uno apunta hacia atrás a algo viejo y hacia delante a alguien nuevo. A Adán se le llama \"figura del que había de venir\". La serpiente que Moisés levantó en el desierto se levanta otra vez, solo que ahora es el Hijo del Hombre. A Cristo se le llama nuestra pascua. A la ley se le llama ayo. Fíjate en el patrón. Cada uno de estos es primero una cosa real. Un hombre real llamado Adán. Una serpiente de bronce real. Un cordero real matado la noche en que Israel salió de Egipto. Un conjunto real de mandamientos dados en el Sinaí. Dios no empezó con una idea y luego construyó una historia para que encajara. Hizo la cosa primero, en la historia, con tierra y sangre y fuego. La sombra vino después, y la sombra tiene nombre. Jesús.\n\nLa humildad de Reunir es simplemente esto: lee lo que hay antes de construir un sistema. No tienes que forzar cada detalle del Antiguo Testamento para que signifique algo. Solo observa cómo lo hicieron Pablo y Juan. Tomaron eventos reales y los dejaron apuntar hacia delante. Adán apunta al que vendría a deshacer lo que Adán hizo. La serpiente apunta a la cruz. El cordero apunta al sacrificio. La ley apunta al salón de clase que te entrega al maestro. El método ya está en la página. No estás inventando conexiones. Estás notando las que la Biblia ya trazó.",
+      "es_apply": "Elige una de estas cuatro imágenes y siéntate con ella un minuto hoy. La serpiente, el cordero, el ayo o Adán. Lee despacio la historia antigua de la que viene, en voz alta si puedes. Antes de preguntar qué significa, pregunta qué dice. Anota los hechos simples. Ese es todo el movimiento.",
+      "es_prayer": "Señor, hazme ir despacio. Enséñame a leer lo que de verdad escribiste antes de estirar la mano hacia lo que creo que significa. Abre mis ojos a las cosas reales que hiciste, para que pueda ver a aquel al que todas apuntan. Amén."
+    },
+    {
       "week": 7,
       "day": 7,
       "move": "Zoom",
