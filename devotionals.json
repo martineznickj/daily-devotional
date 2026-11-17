@@ -2,6 +2,49 @@
   "devotionals": [
     {
       "week": 8,
+      "day": 2,
+      "move": "Filter",
+      "virtue": "discernment",
+      "theme": "Typology",
+      "readings": [
+        {
+          "ref": "Romans 5:14",
+          "text": "Yet death reigned from Adam to Moses, even over those whose sinning was not like the transgression of Adam, who was a type of the one who was to come.",
+          "es_ref": "Romanos 5:14",
+          "es_text": "No obstante, reinó la muerte desde Adán hasta Moisés, aun en los que no pecaron a la manera de la transgresión de Adán, el cual es figura del que había de venir."
+        },
+        {
+          "ref": "John 3:14",
+          "text": "And as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up,",
+          "es_ref": "Juan 3:14",
+          "es_text": "Y como Moisés levantó la serpiente en el desierto, así es necesario que el Hijo del Hombre sea levantado,"
+        },
+        {
+          "ref": "1 Corinthians 5:7",
+          "text": "Cleanse out the old leaven that you may be a new lump, as you really are unleavened. For Christ, our Passover lamb, has been sacrificed.",
+          "es_ref": "1 Corintios 5:7",
+          "es_text": "Limpiaos, pues, de la vieja levadura, para que seáis nueva masa, sin levadura como sois; porque nuestra pascua, que es Cristo, ya fue sacrificada por nosotros."
+        },
+        {
+          "ref": "Galatians 3:24",
+          "text": "So then, the law was our guardian until Christ came, in order that we might be justified by faith.",
+          "es_ref": "Gálatas 3:24",
+          "es_text": "De manera que la ley ha sido nuestro ayo, para llevarnos a Cristo, a fin de que fuésemos justificados por la fe."
+        }
+      ],
+      "word": "Filter is discernment. It asks what a thing means, and what it doesn't mean. Typology is where Filter earns its keep, because it is the easiest thing to get backwards. Adam was a type of Christ. The bronze serpent pointed at the cross. The Passover lamb was a picture of Jesus. The law was a guardian to bring us to him. Every one of these works like a shadow.\n\nA shadow is real. It is just not the thing itself. It tells you something is standing behind you, but you don't bow to the shadow. Filter's job is to keep the pointer pointing at the one it points to. The bronze serpent was never magic. It was a preview of the cross, where the real healing happens. The Passover lamb was not the point. The Lamb of God was.\n\nWhen you read the Old Testament and a pattern keeps showing up, Filter asks one question. Is this thing the substance, or is it showing me the substance? Almost always, it is the second.\n\nThat also tells you what typology is not. It is not a code. You don't read the Old Testament like a crossword where every tent peg secretly means something else. Do that and you turn the book into a puzzle and miss the actual people. Adam was a real man. Moses really lifted up that serpent. The lamb really died that night. Filter holds both at once: the shadow was real, and it was still a shadow.",
+      "apply": "Think of one thing in your life right now that points at something bigger than itself. A meal that points at provision. A habit that points at who you are becoming. Don't make it carry the weight. Let it just point.",
+      "prayer": "Lord, teach me to read with care, so I don't mistake the sign for the thing it points to. Keep my eyes on you, the substance of every shadow. Amen.",
+      "date": "2026-11-17",
+      "es_theme": "Tipología",
+      "es_move": "Filtrar",
+      "es_virtue": "discernimiento",
+      "es_word": "Filtrar es discernir. Pregunta qué significa una cosa, y qué no significa. La tipología es donde Filtrar se gana el pan, porque es lo más fácil de poner al revés. Adán era una figura de Cristo. La serpiente de bronce apuntaba a la cruz. El cordero de la Pascua era un retrato de Jesús. La ley era un ayo para llevarnos a él. Cada uno funciona como una sombra.\n\nUna sombra es real. Solo que no es la cosa misma. Te dice que algo está parado detrás de ti, pero no te inclinas ante la sombra. El trabajo de Filtrar es mantener la señal apuntando hacia aquel a quien señala. La serpiente de bronce nunca fue mágica. Era un adelanto de la cruz, donde ocurre la verdadera sanidad. El cordero de la Pascua no era el punto. El Cordero de Dios sí lo era.\n\nCuando lees el Antiguo Testamento y un patrón sigue apareciendo, Filtrar hace una sola pregunta. ¿Esta cosa es la sustancia, o me está mostrando la sustancia? Casi siempre, es lo segundo.\n\nEso también te dice lo que la tipología no es. No es un código. No lees el Antiguo Testamento como un crucigrama donde cada estaca de la tienda significa otra cosa en secreto. Haz eso y conviertes el libro en un acertijo y te pierdes a las personas reales. Adán fue un hombre real. Moisés de verdad levantó aquella serpiente. El cordero de verdad murió esa noche. Filtrar sostiene las dos cosas a la vez: la sombra era real, y seguía siendo una sombra.",
+      "es_apply": "Piensa en una cosa de tu vida hoy que apunta a algo más grande que ella misma. Una comida que apunta a la provisión. Un hábito que apunta a quién te estás volviendo. No la hagas cargar con el peso. Déjala que solo apunte.",
+      "es_prayer": "Señor, enséñame a leer con cuidado, para no confundir la señal con aquello que señala. Mantén mis ojos en ti, la sustancia de toda sombra. Amén."
+    },
+    {
+      "week": 8,
       "day": 1,
       "move": "Gather",
       "virtue": "humility",
