@@ -2,6 +2,49 @@
   "devotionals": [
     {
       "week": 8,
+      "day": 3,
+      "move": "Deliver",
+      "virtue": "generosity",
+      "theme": "Typology",
+      "readings": [
+        {
+          "ref": "Romans 5:14",
+          "text": "Yet death reigned from Adam to Moses, even over those whose sinning was not like the transgression of Adam, who was a type of the one who was to come.",
+          "es_ref": "Romanos 5:14",
+          "es_text": "No obstante, reinó la muerte desde Adán hasta Moisés, aun en los que no pecaron a la manera de la transgresión de Adán, el cual es figura del que había de venir."
+        },
+        {
+          "ref": "John 3:14",
+          "text": "And as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up,",
+          "es_ref": "Juan 3:14",
+          "es_text": "Y como Moisés levantó la serpiente en el desierto, así es necesario que el Hijo del Hombre sea levantado,"
+        },
+        {
+          "ref": "1 Corinthians 5:7",
+          "text": "Cleanse out the old leaven that you may be a new lump, as you really are unleavened. For Christ, our Passover lamb, has been sacrificed.",
+          "es_ref": "1 Corintios 5:7",
+          "es_text": "Limpiaos, pues, de la vieja levadura, para que seáis nueva masa, sin levadura como sois; porque nuestra pascua, que es Cristo, ya fue sacrificada por nosotros."
+        },
+        {
+          "ref": "Galatians 3:24",
+          "text": "So then, the law was our guardian until Christ came, in order that we might be justified by faith.",
+          "es_ref": "Gálatas 3:24",
+          "es_text": "De manera que la ley ha sido nuestro ayo, para llevarnos a Cristo, a fin de que fuésemos justificados por la fe."
+        }
+      ],
+      "word": "Typology is a big church word for something your eyes already know. The Old Testament is full of shadows, and a shadow is just a real thing showing up before the thing itself arrives. Adam was a type. The bronze serpent was a type. The Passover lamb was a type. The law was a type. Paul says it right out in Romans: Adam was a type of the one who was to come. A type is a stamp pressed into one page before the ink lands on the next.\n\nThat's where Deliver comes in. Most people read the Old Testament and see old rules, or a God who seems far away. Deliver says, put it in your own words, one sentence, and don't keep it to yourself. Here is the whole of typology in one sentence: the Old Testament is Jesus, ahead of time, in shadow form. Adam fails in a garden, Jesus obeys in a garden. The serpent gets lifted up and looking saves you, Jesus gets lifted up and looking at Him saves you. The lamb dies so the firstborn lives, Jesus the Lamb dies so we live. The law walks you to school, then hands you off to the Teacher.\n\nIf you can say that in your own words, you own it. And owning it is what lets you give it away. You can't hand someone a shadow you never touched. So today, don't just read this. Say it back. Out loud. In the kitchen. One sentence. Jesus, ahead of time, in shadow form.",
+      "apply": "Put today's idea in one sentence of your own, out loud, and say it to one person before the day ends. If it wobbles, the gap between the book's words and yours is exactly where you still need to understand it.",
+      "prayer": "Jesus, you were there ahead of time, in every shadow, before I knew your name. Teach me to say what you've done in my own words, so I can hand it to someone else. Give me a sentence that is true, and a chance to give it away today.",
+      "date": "2026-11-18",
+      "es_theme": "Tipología",
+      "es_move": "Entregar",
+      "es_virtue": "generosidad",
+      "es_word": "Tipología es una palabra de iglesia para algo que tus ojos ya conocen. El Antiguo Testamento está lleno de sombras, y una sombra no es más que una cosa real que aparece antes de que la cosa misma llegue. Adán fue una figura. La serpiente de bronce fue una figura. El cordero de pascua fue una figura. La ley fue una figura. Pablo lo dice directo en Romanos: Adán era figura del que había de venir. Una figura es un sello apretado en una página antes de que la tinta caiga en la siguiente.\n\nAhí entra Entregar. Mucha gente lee el Antiguo Testamento y ve reglas viejas, o un Dios que parece lejano. Entregar dice: dilo con tus propias palabras, en una sola frase, y no te lo quedes. Aquí está toda la tipología en una frase: el Antiguo Testamento es Jesús, antes de tiempo, en forma de sombra. Adán cae en un huerto, Jesús obedece en un huerto. Levantan la serpiente y mirar te salva, levantan a Jesús y mirarlo te salva. El cordero muere para que viva el primogénito, y Jesús, el Cordero, muere para que vivamos nosotros. La ley te acompaña a la escuela y luego te entrega al Maestro.\n\nSi puedes decirlo con tus propias palabras, es tuyo. Y tenerlo tuyo es lo que te deja regalarlo. No puedes darle a nadie una sombra que nunca tocaste. Así que hoy no solo lo leas. Dilo de vuelta. En voz alta. En la cocina. Una frase. Jesús, antes de tiempo, en forma de sombra.",
+      "es_apply": "Pon la idea de hoy en una frase tuya, en voz alta, y dísela a una persona antes de que acabe el día. Si se te tambalea, el hueco entre las palabras del libro y las tuyas es justo donde todavía te falta entender.",
+      "es_prayer": "Jesús, estuviste antes de tiempo, en cada sombra, antes de que yo supiera tu nombre. Enséñame a decir lo que has hecho con mis propias palabras, para poder dárselo a alguien más. Dame una frase que sea verdad, y una ocasión para regalarla hoy."
+    },
+    {
+      "week": 8,
       "day": 2,
       "move": "Filter",
       "virtue": "discernment",
