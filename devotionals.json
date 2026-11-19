@@ -2,6 +2,49 @@
   "devotionals": [
     {
       "week": 8,
+      "day": 4,
+      "move": "Count",
+      "virtue": "honesty",
+      "theme": "Typology",
+      "readings": [
+        {
+          "ref": "Romans 5:14",
+          "text": "Yet death reigned from Adam to Moses, even over those whose sinning was not like the transgression of Adam, who was a type of the one who was to come.",
+          "es_ref": "Romanos 5:14",
+          "es_text": "No obstante, reinó la muerte desde Adán hasta Moisés, aun en los que no pecaron a la manera de la transgresión de Adán, el cual es figura del que había de venir."
+        },
+        {
+          "ref": "John 3:14",
+          "text": "And as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up.",
+          "es_ref": "Juan 3:14",
+          "es_text": "Y como Moisés levantó la serpiente en el desierto, así es necesario que el Hijo del Hombre sea levantado."
+        },
+        {
+          "ref": "1 Corinthians 5:7",
+          "text": "Cleanse out the old leaven that you may be a new lump, as you really are unleavened. For Christ, our Passover lamb, has been sacrificed.",
+          "es_ref": "1 Corintios 5:7",
+          "es_text": "Limpiaos, pues, de la vieja levadura, para que seáis nueva masa, sin levadura como sois; porque nuestra pascua, que es Cristo, ya fue sacrificada por nosotros."
+        },
+        {
+          "ref": "Galatians 3:24",
+          "text": "So then, the law was our guardian until Christ came, in order that we might be justified by faith.",
+          "es_ref": "Gálatas 3:24",
+          "es_text": "De manera que la ley ha sido nuestro ayo, para llevarnos a Cristo, a fin de que fuésemos justificados por la fe."
+        }
+      ],
+      "word": "Thursday is Count day, and count usually means numbers. Here it means something better. It means noticing that a shape keeps showing up.\n\nFour passages, four writers, four centuries. And all four point at the same person. Paul calls Adam \"a type of the one who was to come.\" Jesus says the bronze serpent Moses lifted up pointed at him. Paul again says the Passover lamb was Christ. And the law, he says, was a guardian meant to hand us over to Jesus when he arrived.\n\nCount that. One man who brought death, and the one who brings life. One serpent lifted on a pole, and the Son of Man lifted on a cross. One lamb killed so the angel would pass over, and the Lamb killed so death would pass over. One law that could only escort you to the door, and the one who opened it.\n\nThe word for this is typology, and it isn't a code to crack. It's a shadow. A shadow is real, you can see it, but it's not the thing that casts it. Adam was the shadow. Christ is the man. The lamb was the shadow. Christ is the sacrifice. The Old Testament isn't a book about something else. It's a long, slow pointing. And honesty is exactly what Count asks for here, because the honest thing is to admit we don't get to invent these links. The Bible draws them for us. We just count what's already on the page.\n\nCount the types. Don't stretch them. Four is enough.",
+      "apply": "Pick one thing in your life that keeps repeating, a pattern you've lived through more than once. Give it the same treatment Count gives Adam and the lamb. Look at it honestly, without forcing it, and see what it points toward. Maybe it's a shadow of something God is trying to hand you. Count it, and leave room for him to show you the real thing.",
+      "prayer": "Lord, you wrote the whole story with one man in mind. Teach me to read it that way, and to count the signs without forcing them. Make my honesty a doorway to you. Amen.",
+      "date": "2026-11-19",
+      "es_theme": "Tipología",
+      "es_move": "Contar",
+      "es_virtue": "honestidad",
+      "es_word": "El jueves es el día de Contar, y contar suele ser cosa de números. Aquí significa algo mejor. Significa darte cuenta de que una forma sigue apareciendo.\n\nCuatro pasajes, cuatro escritores, cuatro siglos. Y los cuatro apuntan a la misma persona. Pablo llama a Adán \"figura del que había de venir\". Jesús dice que la serpiente de bronce que Moisés levantó señalaba hacia él. Pablo dice otra vez que el cordero de la pascua era Cristo. Y la ley, dice, fue un ayo que debía entregarnos a Jesús cuando él llegara.\n\nCuenta eso. Un hombre que trajo la muerte, y el que trae la vida. Una serpiente levantada en un palo, y el Hijo del Hombre levantado en una cruz. Un cordero muerto para que el ángel pasara de largo, y el Cordero muerto para que la muerte pasara de largo. Una ley que solo podía acompañarte hasta la puerta, y el que abrió la puerta.\n\nLa palabra para esto es tipología, y no es un código que haya que descifrar. Es una sombra. La sombra es real, la puedes ver, pero no es la cosa que la proyecta. Adán era la sombra. Cristo es el hombre. El cordero era la sombra. Cristo es el sacrificio. El Antiguo Testamento no es un libro sobre otra cosa. Es un señalar lento y largo. Y la honestidad es justo lo que Contar pide aquí, porque lo honesto es admitir que no nos toca inventar estos vínculos. La Biblia los traza por nosotros. Nosotros solo contamos lo que ya está en la página.\n\nCuenta los tipos. No los estires. Cuatro bastan.",
+      "es_apply": "Elige una cosa en tu vida que se repite, un patrón que has vivido más de una vez. Dale el mismo trato que Contar le da a Adán y al cordero. Mírala con honestidad, sin forzarla, y fíjate hacia dónde apunta. Quizá es una sombra de algo que Dios quiere entregarte. Cuéntala, y deja espacio para que él te muestre lo real.",
+      "es_prayer": "Señor, escribiste toda la historia con un solo hombre en mente. Enséñame a leerla así, y a contar las señales sin forzarlas. Haz de mi honestidad una puerta hacia ti. Amén."
+    },
+    {
+      "week": 8,
       "day": 3,
       "move": "Deliver",
       "virtue": "generosity",
