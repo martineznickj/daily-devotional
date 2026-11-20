@@ -2,6 +2,49 @@
   "devotionals": [
     {
       "week": 8,
+      "day": 5,
+      "move": "Shape",
+      "virtue": "clarity",
+      "theme": "Typology",
+      "readings": [
+        {
+          "ref": "Romans 5:14",
+          "text": "Yet death reigned from Adam to Moses, even over those whose sinning was not like the transgression of Adam, who was a type of the one who was to come.",
+          "es_ref": "Romanos 5:14",
+          "es_text": "No obstante, reinó la muerte desde Adán hasta Moisés, aun en los que no pecaron a la manera de la transgresión de Adán, el cual es figura del que había de venir."
+        },
+        {
+          "ref": "John 3:14",
+          "text": "And as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up.",
+          "es_ref": "Juan 3:14",
+          "es_text": "Y como Moisés levantó la serpiente en el desierto, así es necesario que el Hijo del Hombre sea levantado,"
+        },
+        {
+          "ref": "1 Corinthians 5:7",
+          "text": "Cleanse out the old leaven that you may be a new lump, as you really are unleavened. For Christ, our Passover lamb, has been sacrificed.",
+          "es_ref": "1 Corintios 5:7",
+          "es_text": "Limpiaos, pues, de la vieja levadura, para que seáis nueva masa, sin levadura como sois; porque nuestra pascua, que es Cristo, ya fue sacrificada por nosotros."
+        },
+        {
+          "ref": "Galatians 3:24",
+          "text": "So then, the law was our guardian until Christ came, in order that we might be justified by faith.",
+          "es_ref": "Gálatas 3:24",
+          "es_text": "De manera que la ley ha sido nuestro ayo, para llevarnos a Cristo, a fin de que fuésemos justificados por la fe."
+        }
+      ],
+      "word": "Shape is the move that asks how one piece fits the whole picture. Typology is a shape question. It's the difference between seeing a shadow on the wall and turning around to see what's casting it.\n\nTake Adam. Paul calls him \"a type of the one who was to come.\" Adam was real, a flesh and blood man. But he was also an outline. Where he failed, Christ would stand. Where he brought death, Christ would bring life.\n\nThe serpent in the wilderness works the same way. God told Moses to lift up a bronze serpent so that anyone bitten could look at it and live. Years later Jesus tells Nicodemus that he has to be lifted up the same way. The bronze snake was never the point. The point was always where you looked.\n\nSo Shape isn't a trick of clever reading. It's how you keep the story from going sideways. When you read the Old Testament as a list of rules or heroes, you get law and biography. When you read it as a shadow, you get Christ. The Passover lamb was a real lamb, sacrificed in a real Egypt. But Paul says flat out, Christ our Passover lamb has been sacrificed. The law was a real guardian. It only guarded until Christ came.\n\nThat's the clarity Shape gives. You don't have to force the Bible to be about Jesus. It already points there. The shadows were never the treasure. They were the shape of the thing to come, and now the real thing is here.",
+      "apply": "Read one old story this week, maybe Adam or the serpent or the Passover, and ask what it showed you about Christ before you ever reached the Gospels. Write down the one thing the shadow pointed to.",
+      "prayer": "Father, thank you that the old story was always pointing to your Son. Give me eyes to see him on every page, and a heart that looks to him the way Israel looked at the lifted serpent. Amen.",
+      "date": "2026-11-20",
+      "es_theme": "Tipología",
+      "es_move": "Formar",
+      "es_virtue": "claridad",
+      "es_word": "Formar es el movimiento que pregunta cómo encaja una pieza en el cuadro entero. La tipología es una pregunta de forma. Es la diferencia entre ver una sombra en la pared y darte la vuelta para ver qué la proyecta.\n\nMira a Adán. Pablo lo llama \"figura del que había de venir\". Adán era real, un hombre de carne y hueso. Pero también era un contorno. Donde él falló, Cristo se mantuvo firme. Donde él trajo muerte, Cristo traería vida.\n\nLa serpiente en el desierto funciona igual. Dios le dijo a Moisés que levantara una serpiente de bronce para que cualquiera que fuera mordido pudiera mirarla y vivir. Años después Jesús le dice a Nicodemo que él tiene que ser levantado de la misma manera. La serpiente de bronce nunca fue el punto. El punto siempre fue hacia dónde mirabas.\n\nAsí que Formar no es un truco de lectura ingeniosa. Es cómo evitas que la historia se tuerza. Cuando lees el Antiguo Testamento como una lista de reglas o de héroes, obtienes ley y biografía. Cuando lo lees como una sombra, obtienes a Cristo. El cordero de la pascua era un cordero real, sacrificado en un Egipto real. Pero Pablo lo dice sin rodeos: Cristo, nuestra pascua, ya fue sacrificado. La ley era un guardián real. Solo guardaba hasta que Cristo viniera.\n\nEsa es la claridad que te da Formar. No tienes que forzar la Biblia para que hable de Jesús. Ya apunta hacia allí. Las sombras nunca fueron el tesoro. Eran la forma de lo que estaba por venir, y ahora lo real está aquí.",
+      "es_apply": "Lee una historia antigua esta semana, quizá Adán, o la serpiente, o la pascua, y pregúntate qué te mostró sobre Cristo antes de que llegaras a los Evangelios. Escribe la única cosa a la que apuntaba la sombra.",
+      "es_prayer": "Padre, gracias porque la historia antigua siempre apuntaba a tu Hijo. Dame ojos para verlo en cada página, y un corazón que lo mire como Israel miraba la serpiente levantada. Amén."
+    },
+    {
+      "week": 8,
       "day": 4,
       "move": "Count",
       "virtue": "honesty",
