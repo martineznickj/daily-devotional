@@ -2,6 +2,43 @@
   "devotionals": [
     {
       "week": 8,
+      "day": 6,
+      "move": "Flow",
+      "virtue": "patience",
+      "theme": "Typology",
+      "readings": [
+        {
+          "ref": "Romans 5:14",
+          "text": "Yet death reigned from Adam to Moses, even over those whose sinning was not like the transgression of Adam, who was a type of the one who was to come.",
+          "es_ref": "Romanos 5:14",
+          "es_text": "No obstante, reinó la muerte desde Adán hasta Moisés, aun en los que no pecaron a la manera de la transgresión de Adán, el cual es figura del que había de venir."
+        },
+        {
+          "ref": "John 3:14",
+          "text": "And as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up,",
+          "es_ref": "Juan 3:14",
+          "es_text": "Y como Moisés levantó la serpiente en el desierto, así es necesario que el Hijo del Hombre sea levantado,"
+        },
+        {
+          "ref": "1 Corinthians 5:7",
+          "text": "Cleanse out the old leaven that you may be a new lump, as you really are unleavened. For Christ, our Passover lamb, has been sacrificed.",
+          "es_ref": "1 Corintios 5:7",
+          "es_text": "Limpiaos, pues, de la vieja levadura, para que seáis nueva masa, sin levadura como sois; porque nuestra pascua, que es Cristo, ya fue sacrificada por nosotros."
+        }
+      ],
+      "word": "Flow is the move that asks you to sit still long enough to see something repeat. It's the patience move. You don't rush a pattern. You watch for it, the way you'd wait for the tide to come in and go out twice before you say what it's doing.\n\nHere's the pattern. Adam. Moses lifting a bronze snake on a pole. A lamb killed the night Israel walked out of Egypt. Three different moments, centuries apart, and they look like they have nothing in common. But each one is a shadow, and every shadow points the same direction. Paul calls Adam \"a type of the one who was to come.\" Jesus connects that serpent to himself. The lamb, Paul says, is Christ.\n\nA shadow isn't the thing itself. It's the shape the thing casts before it arrives. You see the outline first, and the real thing comes after. The Old Testament is full of outlines. The first man who got it wrong points to the man who would get it right. The snake lifted up so dying people could look and live points to the one lifted up on a cross so we could look and live. The lamb whose blood kept death away that first night points to the Lamb whose blood keeps death away for good.\n\nThat's the rhythm God keeps. He plants the echo early. Then, when the real thing shows up, you recognize it because you've seen its shape before. Patience is what lets you see it. If you read one verse in a hurry, you get a snake on a pole. If you stay long enough, you get the whole design.",
+      "apply": "Where have you been in too much of a hurry to notice a pattern God keeps repeating in your own life? Look back slowly today. Find one thing that kept coming back, and sit with it long enough to ask what it was pointing toward.",
+      "prayer": "Lord, slow me down enough to see what you've been doing all along. Teach me to watch for your patterns, and to trust the ones that point to Jesus. Amen.",
+      "date": "2026-11-21",
+      "es_theme": "Tipología",
+      "es_move": "Fluir",
+      "es_virtue": "paciencia",
+      "es_word": "Fluir es el movimiento que te pide quedarte quieto el tiempo suficiente para ver algo repetirse. Es el movimiento de la paciencia. Un patrón no se apura. Se observa, como quien espera a que la marea suba y baje dos veces antes de decir qué está haciendo.\n\nEste es el patrón. Adán. Moisés levantando una serpiente de bronce en un palo. Un cordero sacrificado la noche en que Israel salió de Egipto. Tres momentos distintos, separados por siglos, y parecen no tener nada en común. Pero cada uno es una sombra, y toda sombra señala en la misma dirección. Pablo llama a Adán \"figura del que había de venir\". Jesús conecta esa serpiente consigo mismo. El cordero, dice Pablo, es Cristo.\n\nUna sombra no es la cosa en sí. Es la forma que la cosa proyecta antes de llegar. Primero ves el contorno, y lo real viene después. El Antiguo Testamento está lleno de contornos. El primer hombre que falló señala al hombre que lo haría bien. La serpiente levantada para que los moribundos miraran y vivieran señala al que fue levantado en una cruz para que nosotros miremos y vivamos. El cordero cuya sangre alejó la muerte aquella primera noche señala al Cordero cuya sangre aleja la muerte para siempre.\n\nEse es el ritmo de Dios. Planta el eco temprano. Luego, cuando aparece lo real, lo reconoces porque ya habías visto su forma. La paciencia es lo que te deja verlo. Si lees un solo versículo con prisa, te quedas con una serpiente en un palo. Si te quedas el tiempo suficiente, ves todo el diseño.",
+      "es_apply": "¿Dónde has tenido demasiada prisa para notar un patrón que Dios sigue repitiendo en tu vida? Mira hacia atrás despacio hoy. Encuentra una cosa que siguió volviendo, y quédate con ella lo suficiente para preguntar hacia dónde apuntaba.",
+      "es_prayer": "Señor, hazme bajar la velocidad lo suficiente para ver lo que has estado haciendo todo este tiempo. Enséñame a mirar tus patrones, y a confiar en los que apuntan a Jesús. Amén."
+    },
+    {
+      "week": 8,
       "day": 5,
       "move": "Shape",
       "virtue": "clarity",
