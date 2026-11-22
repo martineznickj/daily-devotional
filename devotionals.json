@@ -2,6 +2,37 @@
   "devotionals": [
     {
       "week": 8,
+      "day": 7,
+      "move": "Zoom",
+      "virtue": "perspective",
+      "theme": "Typology",
+      "readings": [
+        {
+          "ref": "Romans 5:14",
+          "text": "Yet death reigned from Adam to Moses, even over those whose sinning was not like the transgression of Adam, who was a type of the one who was to come.",
+          "es_ref": "Romanos 5:14",
+          "es_text": "No obstante, reinó la muerte desde Adán hasta Moisés, aun en los que no pecaron a la manera de la transgresión de Adán, el cual es figura del que había de venir."
+        },
+        {
+          "ref": "1 Corinthians 5:7",
+          "text": "For Christ, our Passover lamb, has been sacrificed.",
+          "es_ref": "1 Corintios 5:7",
+          "es_text": "Limpiaos, pues, de la vieja levadura, para que seáis nueva masa, sin levadura como sois; porque nuestra pascua, que es Cristo, ya fue sacrificada por nosotros."
+        }
+      ],
+      "word": "Zoom out far enough and the whole Bible turns into one picture. This week has been about typology, a word that sounds like a textbook and just means a shadow thrown ahead of the real thing. Paul says it out loud in Romans. Adam was a type of the one who was to come. Adam wasn't just the first man who got everything wrong. He was a shape cut out of the future, a sketch of Jesus drawn two thousand years before Jesus showed up.\n\nYou can see the same trick all over the Old Testament. A lamb dies so the firstborn live, and Paul calls that lamb Christ. A bronze serpent goes up on a pole and anyone who looks at it is healed, and Jesus says that serpent was him. The whole book keeps doing this. God leaves little prints of his Son everywhere, in lambs and serpents and kings and priests, and then the real thing walks in and says, that was me.\n\nHere's what Zoom does with all that. Step back and you stop reading the Old Testament as a list of old rules and stories. You start seeing it as one long pointing finger. Every shadow is asking the same thing. Where is the real one? Zoom lets the pieces line up, and the answer is the same every time. Christ. The shadows were never the point. They were the shape of the point, cut out ahead of time so we'd recognize him when he came.",
+      "apply": "Take one picture from the Old Testament that has always felt a little strange to you, a lamb, a serpent, a sacrifice, a king. Today, step back and ask what it might be pointing at. Read it again with the whole story in view.",
+      "prayer": "Father, thank you for writing the story twice, once in shadow and once in your Son. Give me eyes to see the whole book as one story about Jesus. Amen.",
+      "date": "2026-11-22",
+      "es_theme": "Tipología",
+      "es_move": "Alejar",
+      "es_virtue": "perspectiva",
+      "es_word": "Aléjate lo suficiente y toda la Biblia se convierte en una sola imagen. Esta semana hablamos de la tipología, una palabra que suena a libro de texto pero que solo significa una sombra lanzada por delante de la cosa real. Pablo lo dice sin rodeos en Romanos. Adán fue figura del que había de venir. Adán no fue solo el primer hombre que lo arruinó todo. Fue una forma recortada del futuro, un boceto de Jesús dibujado dos mil años antes de que Jesús apareciera.\n\nEl mismo truco se ve por todo el Antiguo Testamento. Un cordero muere para que los primogénitos vivan, y Pablo dice que ese cordero es Cristo. Una serpiente de bronce sube a un asta y todo el que la mira queda sanado, y Jesús dice que esa serpiente era él. El libro entero hace esto una y otra vez. Dios deja huellas pequeñas de su Hijo por todas partes, en corderos y serpientes y reyes y sacerdotes, y luego entra la cosa real y dice, ese era yo.\n\nEsto es lo que hace Alejar con todo eso. Da un paso atrás y dejas de leer el Antiguo Testamento como una lista de reglas y cuentos viejos. Empiezas a verlo como un dedo largo que señala. Cada sombra pregunta lo mismo. ¿Dónde está el de verdad? Alejar deja que las piezas se alineen, y la respuesta es la misma siempre. Cristo. Las sombras nunca fueron el punto. Eran la forma del punto, recortada por adelantado para que lo reconociéramos cuando llegó.",
+      "es_apply": "Toma una imagen del Antiguo Testamento que siempre te haya parecido extraña, un cordero, una serpiente, un sacrificio, un rey. Hoy da un paso atrás y pregúntate a qué estará apuntando. Léela de nuevo con toda la historia a la vista.",
+      "es_prayer": "Padre, gracias por escribir la historia dos veces, una en sombra y otra en tu Hijo. Dame ojos para ver todo el libro como una sola historia sobre Jesús. Amén."
+    },
+    {
+      "week": 8,
       "day": 6,
       "move": "Flow",
       "virtue": "patience",
