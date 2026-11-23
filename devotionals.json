@@ -1,6 +1,43 @@
 {
   "devotionals": [
     {
+      "week": 9,
+      "day": 1,
+      "move": "Gather",
+      "virtue": "humility",
+      "theme": "The Chiasm",
+      "readings": [
+        {
+          "ref": "Genesis 2:9",
+          "text": "And out of the ground the LORD God made to spring up every tree that is pleasant to the sight and good for food. The tree of life was in the midst of the garden, and the tree of the knowledge of good and evil.",
+          "es_ref": "Génesis 2:9",
+          "es_text": "Y Jehová Dios hizo nacer de la tierra todo árbol delicioso a la vista, y bueno para comer; también el árbol de vida en medio del huerto, y el árbol de la ciencia del bien y del mal."
+        },
+        {
+          "ref": "Genesis 3:8",
+          "text": "And they heard the sound of the LORD God walking in the garden in the cool of the day, and the man and his wife hid themselves from the presence of the LORD God among the trees of the garden.",
+          "es_ref": "Génesis 3:8",
+          "es_text": "Y oyeron la voz de Jehová Dios que se paseaba en el huerto, al aire del día; y el hombre y su mujer se escondieron de la presencia de Jehová Dios entre los árboles del huerto."
+        },
+        {
+          "ref": "Revelation 22:2",
+          "text": "through the middle of the street of the city; also, on either side of the river, the tree of life with its twelve kinds of fruit, yielding its fruit each month. The leaves of the tree were for the healing of the nations.",
+          "es_ref": "Apocalipsis 22:2",
+          "es_text": "En medio de la calle de la ciudad, y a uno y otro lado del río, estaba el árbol de la vida, que produce doce frutos, dando cada mes su fruto; y las hojas del árbol eran para la sanidad de las naciones."
+        }
+      ],
+      "word": "Before you try to explain the chiasm, you have to gather. That's the move today, and gathering is a humble thing. It means I don't come to the text with my clever framework already loaded. I come and let the page tell me what's actually on it.\n\nSo open Genesis and open Revelation and just look. In the garden there's a tree of life. In the last chapter of the Bible there's a tree of life again. In the garden God walks with the man and the woman. At the end, the dwelling place of God is with man. Same tree, same water, same God. The two ends of the book match, and that match isn't an accident.\n\nAnd right in the middle of the opening story, in Genesis 3, the man and his wife hide among the trees. The story starts high, drops low, then climbs back up. That's the U-shape the whole Bible makes, and the bottom of the U, the hinge that holds it all together, is the cross. You don't have to prove any of that today. Gather just wants you to see the bookends sitting there, matching, and to sit with the fact that they do.",
+      "apply": "Take ten quiet minutes. Read the first chapter of Genesis and the last chapter of Revelation side by side. Write down everything that shows up in both. Don't connect anything, don't explain anything. Just list it. Let the shape surprise you.",
+      "prayer": "Lord, slow me down. I don't want to skip past what you actually said just so I can sound smart about it. Teach me to gather first, and trust that the meaning will come.",
+      "date": "2026-11-23",
+      "es_theme": "El Quiasmo",
+      "es_move": "Reunir",
+      "es_virtue": "humildad",
+      "es_word": "Antes de intentar explicar el quiasmo, tienes que reunir. Ese es el movimiento de hoy, y reunir es algo humilde. Quiere decir que no llego al texto con mi marco ingenioso ya cargado. Llego y dejo que la página me diga lo que de verdad tiene.\n\nEntonces abre Génesis y abre Apocalipsis y solo mira. En el huerto hay un árbol de la vida. En el último capítulo de la Biblia hay un árbol de la vida otra vez. En el huerto Dios camina con el hombre y la mujer. Al final, el lugar donde Dios habita está con el hombre. El mismo árbol, la misma agua, el mismo Dios. Los dos extremos del libro coinciden, y esa coincidencia no es un accidente.\n\nY justo en medio del relato inicial, en Génesis 3, el hombre y su mujer se esconden entre los árboles. La historia empieza arriba, cae abajo, y después vuelve a subir. Esa es la forma de U que traza toda la Biblia, y el fondo de la U, el gozne que lo sostiene todo, es la cruz. Hoy no tienes que demostrar nada de eso. Reunir solo quiere que veas los dos extremos sentados ahí, coincidiendo, y que te quedes con el hecho de que lo hacen.",
+      "es_apply": "Toma diez minutos en calma. Lee el primer capítulo de Génesis y el último de Apocalipsis lado a lado. Escribe todo lo que aparece en los dos. No conectes nada, no expliques nada. Solo haz la lista. Deja que la forma te sorprenda.",
+      "es_prayer": "Señor, hazme ir despacio. No quiero saltarme lo que de verdad dijiste solo para sonar inteligente al hablarlo. Enséñame a reunir primero, y a confiar en que el sentido vendrá."
+    },
+    {
       "week": 8,
       "day": 7,
       "move": "Zoom",
