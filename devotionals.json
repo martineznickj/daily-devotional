@@ -2,6 +2,37 @@
   "devotionals": [
     {
       "week": 9,
+      "day": 2,
+      "move": "Filter",
+      "virtue": "discernment",
+      "theme": "The Chiasm",
+      "readings": [
+        {
+          "ref": "Genesis 3:24",
+          "text": "He drove out the man, and at the east of the garden of Eden he placed the cherubim and a flaming sword that turned every way to guard the way to the tree of life.",
+          "es_ref": "Génesis 3:24",
+          "es_text": "Echó, pues, fuera al hombre, y puso al oriente del huerto de Edén querubines, y una espada encendida que se revolvía por todos lados, para guardar el camino del árbol de la vida."
+        },
+        {
+          "ref": "Revelation 22:14",
+          "text": "Blessed are those who wash their robes, so that they may have the right to the tree of life and that they may enter the city by the gates.",
+          "es_ref": "Apocalipsis 22:14",
+          "es_text": "Bienaventurados los que lavan sus ropas, para tener derecho al árbol de la vida, y para entrar por las puertas en la ciudad."
+        }
+      ],
+      "word": "A chiasm is a shape, not a code. The name comes from the Greek letter chi, which looks like an X, but the pattern is more like a valley. You walk down one side, hit the lowest point, and climb back up, and the same words show up again on the way back, only in reverse.\n\nThe Bible has one giant chiasm underneath it. It opens in a garden. God walks there in the cool of the day. A river runs through it, and a tree of life stands in the middle. Then man is driven out, and a flaming sword turns every way to guard the way back to that tree. The whole Old Testament walks downhill from there, and the lowest point is the cross. Then Revelation closes the book back at the top. There's a river again, and a tree of life again, this time on both sides of the street, its leaves healing the nations. The sword is gone, and the gates don't shut.\n\nFilter means you don't stop at \"interesting pattern.\" You ask what the pattern is actually claiming. And here is the discernment: the chiasm isn't saying history is a neat loop. It's saying the end is a homecoming that cost something. The guard at the tree wasn't punishment for its own sake. It was keeping broken people from eating life and living forever broken. God didn't want us stuck at the bottom. The hinge, the cross, is how he paid the way back up.\n\nSo the chiasm doesn't mean fate, and it doesn't mean everything dissolves into a blurry oneness. The end has a tree, but now there's a city, and people, and the Lamb, and no more sword. What it means is that God finished what he started, and he didn't take a shortcut.",
+      "apply": "Trace one thing in your life that has a shape to it, something that went down and is still on the way back up, or hasn't turned yet. Ask where the hinge is, and where God might be paying a way through instead of skipping the low part. Filter today means not mistaking the valley for the whole story.",
+      "prayer": "Father, teach me to read the low points as part of a shape, not the end of it. Thank you that the cross is the hinge and that the sword is down. Keep me walking the way back up toward you.",
+      "date": "2026-11-24",
+      "es_theme": "El Quiasmo",
+      "es_move": "Filtrar",
+      "es_virtue": "discernimiento",
+      "es_word": "Un quiasmo es una forma, no un código. El nombre viene de la letra griega ji, que se ve como una X, pero el patrón es más bien un valle. Bajas por un lado, llegas al punto más bajo y subes por el otro, y las mismas palabras aparecen otra vez en el camino de regreso, solo que al revés.\n\nLa Biblia tiene un gran quiasmo por debajo. Empieza en un huerto. Dios camina allí al fresco del día. Un río lo atraviesa, y un árbol de la vida está en el centro. Luego el hombre es echado fuera, y una espada encendida gira por todos lados para guardar el camino de vuelta a ese árbol. Todo el Antiguo Testamento camina cuesta abajo desde allí, y el punto más bajo es la cruz. Después, Apocalipsis cierra el libro de vuelta arriba. Hay un río otra vez, y un árbol de la vida otra vez, esta vez a ambos lados de la calle, con hojas que sanan a las naciones. La espada ya no está, y las puertas no se cierran.\n\nFiltrar significa no quedarte en \"qué patrón tan interesante.\" Preguntas qué está afirmando el patrón de verdad. Y aquí está el discernimiento: el quiasmo no dice que la historia sea un ciclo perfecto. Dice que el final es un regreso a casa que costó algo. El guardia junto al árbol no era castigo por el castigo. Estaba impidiendo que gente rota comiera de la vida y viviera rota para siempre. Dios no quería dejarnos atascados en el fondo. El gozne, la cruz, es cómo pagó el camino de vuelta.\n\nAsí que el quiasmo no significa destino, y no significa que todo se disuelva en una unidad borrosa. El final tiene un árbol, pero ahora hay una ciudad, y gente, y el Cordero, y ya no hay espada. Lo que significa es que Dios terminó lo que empezó, y no tomó ningún atajo.",
+      "es_apply": "Traza una cosa en tu vida que tenga forma, algo que bajó y todavía va de camino de vuelta, o que aún no ha girado. Pregunta dónde está el gozne, y dónde podría estar Dios abriendo un camino en lugar de saltarse la parte baja. Filtrar hoy significa no confundir el valle con la historia entera.",
+      "es_prayer": "Padre, enséñame a leer los puntos bajos como parte de una forma, no como el final de ella. Gracias porque la cruz es el gozne y porque la espada está guardada. Sigue llevándome por el camino de vuelta hacia ti."
+    },
+    {
+      "week": 9,
       "day": 1,
       "move": "Gather",
       "virtue": "humility",
