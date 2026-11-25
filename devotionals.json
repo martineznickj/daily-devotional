@@ -2,6 +2,49 @@
   "devotionals": [
     {
       "week": 9,
+      "day": 3,
+      "move": "Deliver",
+      "virtue": "generosity",
+      "theme": "The Chiasm",
+      "readings": [
+        {
+          "ref": "Genesis 2:8-9",
+          "text": "And the LORD God planted a garden in Eden, in the east, and there he put the man whom he had formed. And out of the ground the LORD God made to spring up every tree that is pleasant to the sight and good for food. The tree of life was in the midst of the garden, and the tree of the knowledge of good and evil.",
+          "es_ref": "Génesis 2:8-9",
+          "es_text": "Y Jehová Dios plantó un huerto en Edén, al oriente; y puso allí al hombre que había formado. Y Jehová Dios hizo nacer de la tierra todo árbol delicioso a la vista, y bueno para comer; también el árbol de vida en medio del huerto, y el árbol de la ciencia del bien y del mal."
+        },
+        {
+          "ref": "Genesis 3:23-24",
+          "text": "therefore the LORD God sent him out from the garden of Eden to work the ground from which he was taken. He drove out the man, and at the east of the garden of Eden he placed the cherubim and a flaming sword that turned every way to guard the way to the tree of life.",
+          "es_ref": "Génesis 3:23-24",
+          "es_text": "Y lo sacó Jehová del huerto del Edén, para que labrase la tierra de que fue tomado. Echó, pues, fuera al hombre, y puso al oriente del huerto de Edén querubines, y una espada encendida que se revolvía por todos lados, para guardar el camino del árbol de la vida."
+        },
+        {
+          "ref": "Revelation 21:3",
+          "text": "And I heard a loud voice from the throne saying, 'Behold, the dwelling place of God is with man. He will dwell with them, and they will be his people, and God himself will be with them as their God.'",
+          "es_ref": "Apocalipsis 21:3",
+          "es_text": "Y oí una gran voz del cielo que decía: He aquí el tabernáculo de Dios con los hombres, y él morará con ellos; y ellos serán su pueblo, y Dios mismo estará con ellos como su Dios."
+        },
+        {
+          "ref": "Revelation 22:1-2",
+          "text": "Then the angel showed me the river of the water of life, bright as crystal, flowing from the throne of God and of the Lamb through the middle of the street of the city; also, on either side of the river, the tree of life with its twelve kinds of fruit, yielding its fruit each month. The leaves of the tree were for the healing of the nations.",
+          "es_ref": "Apocalipsis 22:1-2",
+          "es_text": "Después me mostró un río limpio de agua de vida, resplandeciente como cristal, que salía del trono de Dios y del Cordero. En medio de la calle de la ciudad, y a uno y otro lado del río, estaba el árbol de la vida, que produce doce frutos, dando cada mes su fruto; y las hojas del árbol eran para la sanidad de las naciones."
+        }
+      ],
+      "word": "A chiasm is a shape. Ancient writers liked to fold their ideas back on themselves. You climb down to a turning point, then climb back up in reverse, each step echoing the one before it. The whole Bible does this on its biggest scale.\n\nPicture a U. The two arms mirror each other. On the left you have a garden and a tree of life, with God walking among his people. On the right you have a city with that same tree, and God says, \"Behold, the dwelling place of God is with man.\" Same picture, opened back up. The beginning and the end lean toward each other.\n\nAnd the bottom of the U is the cross. That's the hinge everything bends toward. The tree in the garden had a guard on it, a flaming sword turning every way. The tree in the city is wide open, its leaves healing the nations. Something happened in between that turned a locked gate into an open one.\n\nDeliver is the move that says it plainly. Don't leave the shape stuck in outlines and charts. Hand somebody the sentence a kid could repeat. Here's one try: we lost the garden, and God is bringing us to a better one at the end. That's the whole book in one breath. Generosity means giving the person the thing you've seen, not the scaffolding around it.",
+      "apply": "Try to say the whole story of the Bible in one sentence, in your own words. Then see if you can say that sentence to someone today, out loud, without warming up.",
+      "prayer": "Lord, you folded the story so that the ending meets the beginning, and the cross is the hinge in the middle. Give me a plain tongue to tell it. Let me hand people the good news, not the scaffolding. Amen.",
+      "date": "2026-11-25",
+      "es_theme": "El Quiasmo",
+      "es_move": "Entregar",
+      "es_virtue": "generosidad",
+      "es_word": "Un quiasmo es una forma. A los escritores antiguos les gustaba doblar sus ideas sobre sí mismas. Bajas hasta un punto de giro, y luego subes de vuelta en reversa, con cada paso haciendo eco del anterior. Toda la Biblia hace esto en su escala más grande.\n\nImagina una U. Los dos brazos se reflejan. A la izquierda tienes un huerto y un árbol de vida, con Dios caminando entre su pueblo. A la derecha tienes una ciudad con ese mismo árbol, y Dios dice: \"He aquí el tabernáculo de Dios con los hombres.\" La misma imagen, abierta de nuevo. El principio y el final se inclinan el uno hacia el otro.\n\nY el fondo de la U es la cruz. Ese es el gozne hacia el que todo se dobla. El árbol del huerto tenía un guardia, una espada encendida que se revolvía por todos lados. El árbol de la ciudad está abierto de par en par, con sus hojas sanando a las naciones. Algo pasó en medio que convirtió una puerta cerrada en una puerta abierta.\n\nEntregar es el movimiento que lo dice claro. No dejes la forma atrapada en esquemas y diagramas. Dale a alguien la frase que un niño podría repetir. Aquí va un intento: perdimos el huerto, y Dios nos lleva a uno mejor al final. Ese es todo el libro en un solo aliento. La generosidad es darle a la persona lo que has visto, no el andamiaje que lo rodea.",
+      "es_apply": "Intenta decir la historia entera de la Biblia en una sola frase, con tus propias palabras. Luego mira si puedes decirle esa frase a alguien hoy, en voz alta, sin ensayar.",
+      "es_prayer": "Señor, doblaste la historia para que el final se encuentre con el principio, y la cruz es el gozne en el medio. Dame una lengua sencilla para contarla. Déjame entregar a la gente la buena noticia, no el andamiaje. Amén."
+    },
+    {
+      "week": 9,
       "day": 2,
       "move": "Filter",
       "virtue": "discernment",
